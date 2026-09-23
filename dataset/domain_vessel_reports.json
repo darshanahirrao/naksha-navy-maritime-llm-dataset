@@ -1,0 +1,1016 @@
+{
+  "dataset": "domain_vessel_reports",
+  "title": "Vessel identity and registry dossiers for the exercise area",
+  "version": "1.0.0",
+  "generated": "2026-09-22",
+  "coverage": {
+    "from": "2026-01-01",
+    "to": "2026-08-31"
+  },
+  "format": "question-answer",
+  "synthetic": true,
+  "not_for_operational_use": true,
+  "disclaimer": "SYNTHETIC TRAINING DATA. Every vessel, IMO and MMSI number, owner, port call, warning, contact, incident and statistic in this file is fictional and was generated for a training lecture. Nothing here describes a real ship, broadcast, incident or port condition, and nothing here may be used for navigation, intelligence or any operational decision.",
+  "count": 97,
+  "examples": [
+    {
+      "id": "DVR-0001",
+      "topic": "domain_vessel_reports",
+      "question": "What is the IMO number of MV AL RAYYAN STAR?",
+      "answer": "MV AL RAYYAN STAR carries IMO number 9451234 and MMSI 470123456. She flies the flag of the United Arab Emirates and is registered at Dubai.",
+      "source": "Vessel registry dossier, MV AL RAYYAN STAR",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0002",
+      "topic": "domain_vessel_reports",
+      "question": "Which vessel carries MMSI 470123456?",
+      "answer": "MMSI 470123456 belongs to MV AL RAYYAN STAR, IMO 9451234, a general cargo ship flagged in the United Arab Emirates.",
+      "source": "AIS static data, MMSI 470123456",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0003",
+      "topic": "domain_vessel_reports",
+      "question": "What is the call sign of MV AL RAYYAN STAR?",
+      "answer": "The call sign of MV AL RAYYAN STAR is A6Q3M.",
+      "source": "Vessel registry dossier, MV AL RAYYAN STAR",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0004",
+      "topic": "domain_vessel_reports",
+      "question": "What type of ship is MV AL RAYYAN STAR?",
+      "answer": "MV AL RAYYAN STAR is a general cargo ship flagged in the United Arab Emirates, 8,942 gross tonnage and 12,450 tonnes deadweight.",
+      "source": "Vessel registry dossier, MV AL RAYYAN STAR",
+      "tags": [
+        "identity",
+        "type"
+      ]
+    },
+    {
+      "id": "DVR-0005",
+      "topic": "domain_vessel_reports",
+      "question": "What are the dimensions of MV AL RAYYAN STAR?",
+      "answer": "MV AL RAYYAN STAR is 128.4 m length overall and 19.8 m beam, built in 2011.",
+      "source": "Vessel registry dossier, MV AL RAYYAN STAR",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0006",
+      "topic": "domain_vessel_reports",
+      "question": "Which flag does MV AL RAYYAN STAR fly and where is she registered?",
+      "answer": "MV AL RAYYAN STAR flies the flag of the United Arab Emirates and is registered at Dubai.",
+      "source": "Vessel registry dossier, MV AL RAYYAN STAR",
+      "tags": [
+        "identity",
+        "flag"
+      ]
+    },
+    {
+      "id": "DVR-0007",
+      "topic": "domain_vessel_reports",
+      "question": "Who owns and manages MV AL RAYYAN STAR?",
+      "answer": "MV AL RAYYAN STAR is owned by Rayyan Marine Shipping LLC. She is managed by Gulf Star Ship Management FZE.",
+      "source": "Vessel registry dossier, MV AL RAYYAN STAR",
+      "tags": [
+        "ownership"
+      ]
+    },
+    {
+      "id": "DVR-0008",
+      "topic": "domain_vessel_reports",
+      "question": "Give me the full dossier on MV AL RAYYAN STAR.",
+      "answer": "MV AL RAYYAN STAR. IMO 9451234, MMSI 470123456, call sign A6Q3M. Flag the United Arab Emirates, registered at Dubai. Type general cargo ship, 8,942 GT, 12,450 DWT, 128.4 m by 19.8 m, built 2011. Owner Rayyan Marine Shipping LLC. Geared general cargo ship on a regular Gulf to west India run, calling at Jebel Ali, Mundra, Deendayal, Mumbai and Colombo. Frequently used as the example hull in the exercise because her track is easy to follow.",
+      "source": "Vessel registry dossier, MV AL RAYYAN STAR",
+      "tags": [
+        "dossier"
+      ]
+    },
+    {
+      "id": "DVR-0009",
+      "topic": "domain_vessel_reports",
+      "question": "What is the IMO number of MT GULF PIONEER?",
+      "answer": "MT GULF PIONEER carries IMO number 9567890 and MMSI 419876543. She flies the flag of India and is registered at Mumbai.",
+      "source": "Vessel registry dossier, MT GULF PIONEER",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0010",
+      "topic": "domain_vessel_reports",
+      "question": "Which vessel carries MMSI 419876543?",
+      "answer": "MMSI 419876543 belongs to MT GULF PIONEER, IMO 9567890, a crude oil tanker flagged in India.",
+      "source": "AIS static data, MMSI 419876543",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0011",
+      "topic": "domain_vessel_reports",
+      "question": "What is the call sign of MT GULF PIONEER?",
+      "answer": "The call sign of MT GULF PIONEER is AVGH2.",
+      "source": "Vessel registry dossier, MT GULF PIONEER",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0012",
+      "topic": "domain_vessel_reports",
+      "question": "What type of ship is MT GULF PIONEER?",
+      "answer": "MT GULF PIONEER is a crude oil tanker flagged in India, 42,180 gross tonnage and 74,900 tonnes deadweight.",
+      "source": "Vessel registry dossier, MT GULF PIONEER",
+      "tags": [
+        "identity",
+        "type"
+      ]
+    },
+    {
+      "id": "DVR-0013",
+      "topic": "domain_vessel_reports",
+      "question": "What are the dimensions of MT GULF PIONEER?",
+      "answer": "MT GULF PIONEER is 228.6 m length overall and 32.2 m beam, built in 2014.",
+      "source": "Vessel registry dossier, MT GULF PIONEER",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0014",
+      "topic": "domain_vessel_reports",
+      "question": "Which flag does MT GULF PIONEER fly and where is she registered?",
+      "answer": "MT GULF PIONEER flies the flag of India and is registered at Mumbai.",
+      "source": "Vessel registry dossier, MT GULF PIONEER",
+      "tags": [
+        "identity",
+        "flag"
+      ]
+    },
+    {
+      "id": "DVR-0015",
+      "topic": "domain_vessel_reports",
+      "question": "Who owns and manages MT GULF PIONEER?",
+      "answer": "MT GULF PIONEER is owned by Pioneer Tankers India Private Limited.",
+      "source": "Vessel registry dossier, MT GULF PIONEER",
+      "tags": [
+        "ownership"
+      ]
+    },
+    {
+      "id": "DVR-0016",
+      "topic": "domain_vessel_reports",
+      "question": "Give me the full dossier on MT GULF PIONEER.",
+      "answer": "MT GULF PIONEER. IMO 9567890, MMSI 419876543, call sign AVGH2. Flag India, registered at Mumbai. Type crude oil tanker, 42,180 GT, 74,900 DWT, 228.6 m by 32.2 m, built 2014. Owner Pioneer Tankers India Private Limited. Crude carrier on the Fujairah to Vadinar shuttle. Loaded draught about 12.6 m westbound, ballast draught about 5.4 m eastbound.",
+      "source": "Vessel registry dossier, MT GULF PIONEER",
+      "tags": [
+        "dossier"
+      ]
+    },
+    {
+      "id": "DVR-0017",
+      "topic": "domain_vessel_reports",
+      "question": "What is the IMO number of MV CORAL HORIZON?",
+      "answer": "MV CORAL HORIZON carries IMO number 9312456 and MMSI 353136000. She flies the flag of Panama and is registered at Panama City.",
+      "source": "Vessel registry dossier, MV CORAL HORIZON",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0018",
+      "topic": "domain_vessel_reports",
+      "question": "Which vessel carries MMSI 353136000?",
+      "answer": "MMSI 353136000 belongs to MV CORAL HORIZON, IMO 9312456, a container ship flagged in Panama.",
+      "source": "AIS static data, MMSI 353136000",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0019",
+      "topic": "domain_vessel_reports",
+      "question": "What is the call sign of MV CORAL HORIZON?",
+      "answer": "The call sign of MV CORAL HORIZON is 3FQR9.",
+      "source": "Vessel registry dossier, MV CORAL HORIZON",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0020",
+      "topic": "domain_vessel_reports",
+      "question": "What type of ship is MV CORAL HORIZON?",
+      "answer": "MV CORAL HORIZON is a container ship flagged in Panama, 28,450 gross tonnage and 34,200 tonnes deadweight.",
+      "source": "Vessel registry dossier, MV CORAL HORIZON",
+      "tags": [
+        "identity",
+        "type"
+      ]
+    },
+    {
+      "id": "DVR-0021",
+      "topic": "domain_vessel_reports",
+      "question": "What are the dimensions of MV CORAL HORIZON?",
+      "answer": "MV CORAL HORIZON is 199.9 m length overall and 30.2 m beam, built in 2009.",
+      "source": "Vessel registry dossier, MV CORAL HORIZON",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0022",
+      "topic": "domain_vessel_reports",
+      "question": "Which flag does MV CORAL HORIZON fly and where is she registered?",
+      "answer": "MV CORAL HORIZON flies the flag of Panama and is registered at Panama City.",
+      "source": "Vessel registry dossier, MV CORAL HORIZON",
+      "tags": [
+        "identity",
+        "flag"
+      ]
+    },
+    {
+      "id": "DVR-0023",
+      "topic": "domain_vessel_reports",
+      "question": "Who owns and manages MV CORAL HORIZON?",
+      "answer": "MV CORAL HORIZON is owned by Horizon Container Lines Pte Ltd. She is managed by Coral Feeders Ship Management.",
+      "source": "Vessel registry dossier, MV CORAL HORIZON",
+      "tags": [
+        "ownership"
+      ]
+    },
+    {
+      "id": "DVR-0024",
+      "topic": "domain_vessel_reports",
+      "question": "Give me the full dossier on MV CORAL HORIZON.",
+      "answer": "MV CORAL HORIZON. IMO 9312456, MMSI 353136000, call sign 3FQR9. Flag Panama, registered at Panama City. Type container ship, 28,450 GT, 34,200 DWT, 199.9 m by 30.2 m, built 2009. Owner Horizon Container Lines Pte Ltd. Feeder container ship running Colombo, Kochi, Mundra and Karachi. Carries about 1,200 TEU and is the fastest of the three tracked ships.",
+      "source": "Vessel registry dossier, MV CORAL HORIZON",
+      "tags": [
+        "dossier"
+      ]
+    },
+    {
+      "id": "DVR-0025",
+      "topic": "domain_vessel_reports",
+      "question": "What is the IMO number of FV SAGAR SETU?",
+      "answer": "FV SAGAR SETU carries IMO number not assigned and MMSI 419555777. She flies the flag of India and is registered at Okha.",
+      "source": "Vessel registry dossier, FV SAGAR SETU",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0026",
+      "topic": "domain_vessel_reports",
+      "question": "Which vessel carries MMSI 419555777?",
+      "answer": "MMSI 419555777 belongs to FV SAGAR SETU, IMO not assigned, a fishing vessel (wooden trawler) flagged in India.",
+      "source": "AIS static data, MMSI 419555777",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0027",
+      "topic": "domain_vessel_reports",
+      "question": "What is the call sign of FV SAGAR SETU?",
+      "answer": "The call sign of FV SAGAR SETU is not assigned.",
+      "source": "Vessel registry dossier, FV SAGAR SETU",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0028",
+      "topic": "domain_vessel_reports",
+      "question": "What type of ship is FV SAGAR SETU?",
+      "answer": "FV SAGAR SETU is a fishing vessel (wooden trawler) flagged in India, 96 gross tonnage and not applicable.",
+      "source": "Vessel registry dossier, FV SAGAR SETU",
+      "tags": [
+        "identity",
+        "type"
+      ]
+    },
+    {
+      "id": "DVR-0029",
+      "topic": "domain_vessel_reports",
+      "question": "What are the dimensions of FV SAGAR SETU?",
+      "answer": "FV SAGAR SETU is 24.0 m length overall and 6.4 m beam, built in 2004.",
+      "source": "Vessel registry dossier, FV SAGAR SETU",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0030",
+      "topic": "domain_vessel_reports",
+      "question": "Which flag does FV SAGAR SETU fly and where is she registered?",
+      "answer": "FV SAGAR SETU flies the flag of India and is registered at Okha.",
+      "source": "Vessel registry dossier, FV SAGAR SETU",
+      "tags": [
+        "identity",
+        "flag"
+      ]
+    },
+    {
+      "id": "DVR-0031",
+      "topic": "domain_vessel_reports",
+      "question": "Who owns and manages FV SAGAR SETU?",
+      "answer": "FV SAGAR SETU is owned by Sagar Setu Fishing Cooperative.",
+      "source": "Vessel registry dossier, FV SAGAR SETU",
+      "tags": [
+        "ownership"
+      ]
+    },
+    {
+      "id": "DVR-0032",
+      "topic": "domain_vessel_reports",
+      "question": "Give me the full dossier on FV SAGAR SETU.",
+      "answer": "FV SAGAR SETU. IMO not assigned, MMSI 419555777, call sign not assigned. Flag India, registered at Okha. Type fishing vessel (wooden trawler), 96 GT, not applicable, 24.0 m by 6.4 m, built 2004. Owner Sagar Setu Fishing Cooperative. Wooden trawler working out of Okha, class B AIS only and switched off for long periods. Typical speed 4 to 6 knots. Often the source of the unidentified small craft reports off the Gujarat coast.",
+      "source": "Vessel registry dossier, FV SAGAR SETU",
+      "tags": [
+        "dossier"
+      ]
+    },
+    {
+      "id": "DVR-0033",
+      "topic": "domain_vessel_reports",
+      "question": "What is the IMO number of DHOW AL NAJAH?",
+      "answer": "DHOW AL NAJAH carries IMO number not assigned and MMSI no AIS fitted. She flies the flag of not established and is registered at not established.",
+      "source": "Vessel registry dossier, DHOW AL NAJAH",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0034",
+      "topic": "domain_vessel_reports",
+      "question": "Which vessel carries MMSI no AIS fitted?",
+      "answer": "MMSI no AIS fitted belongs to DHOW AL NAJAH, IMO not assigned, a traditional wooden dhow flagged in not established.",
+      "source": "AIS static data, MMSI no AIS fitted",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0035",
+      "topic": "domain_vessel_reports",
+      "question": "What is the call sign of DHOW AL NAJAH?",
+      "answer": "The call sign of DHOW AL NAJAH is not assigned.",
+      "source": "Vessel registry dossier, DHOW AL NAJAH",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0036",
+      "topic": "domain_vessel_reports",
+      "question": "What type of ship is DHOW AL NAJAH?",
+      "answer": "DHOW AL NAJAH is a traditional wooden dhow flagged in not established, not known and not known.",
+      "source": "Vessel registry dossier, DHOW AL NAJAH",
+      "tags": [
+        "identity",
+        "type"
+      ]
+    },
+    {
+      "id": "DVR-0037",
+      "topic": "domain_vessel_reports",
+      "question": "What are the dimensions of DHOW AL NAJAH?",
+      "answer": "DHOW AL NAJAH is 18.0 m length overall and 5.5 m beam, built in not known.",
+      "source": "Vessel registry dossier, DHOW AL NAJAH",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0038",
+      "topic": "domain_vessel_reports",
+      "question": "Which flag does DHOW AL NAJAH fly and where is she registered?",
+      "answer": "DHOW AL NAJAH flies the flag of not established and is registered at not established.",
+      "source": "Vessel registry dossier, DHOW AL NAJAH",
+      "tags": [
+        "identity",
+        "flag"
+      ]
+    },
+    {
+      "id": "DVR-0039",
+      "topic": "domain_vessel_reports",
+      "question": "Who owns and manages DHOW AL NAJAH?",
+      "answer": "DHOW AL NAJAH is owned by not established.",
+      "source": "Vessel registry dossier, DHOW AL NAJAH",
+      "tags": [
+        "ownership"
+      ]
+    },
+    {
+      "id": "DVR-0040",
+      "topic": "domain_vessel_reports",
+      "question": "Give me the full dossier on DHOW AL NAJAH.",
+      "answer": "DHOW AL NAJAH. IMO not assigned, MMSI no AIS fitted, call sign not assigned. Flag not established, registered at not established. Type traditional wooden dhow, not known, not known, 18.0 m by 5.5 m, built not known. Owner not established. Single mast wooden dhow, dark timber hull, no AIS and no registration marks observed. Speed 5 to 7 knots. Recurring unidentified contact in the Gulf of Kutch approaches.",
+      "source": "Vessel registry dossier, DHOW AL NAJAH",
+      "tags": [
+        "dossier"
+      ]
+    },
+    {
+      "id": "DVR-0041",
+      "topic": "domain_vessel_reports",
+      "question": "What is the IMO number of MT SEA BRIGHT?",
+      "answer": "MT SEA BRIGHT carries IMO number 9712345 and MMSI 636019876. She flies the flag of Liberia and is registered at Monrovia.",
+      "source": "Vessel registry dossier, MT SEA BRIGHT",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0042",
+      "topic": "domain_vessel_reports",
+      "question": "Which vessel carries MMSI 636019876?",
+      "answer": "MMSI 636019876 belongs to MT SEA BRIGHT, IMO 9712345, a bulk carrier flagged in Liberia.",
+      "source": "AIS static data, MMSI 636019876",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0043",
+      "topic": "domain_vessel_reports",
+      "question": "What is the call sign of MT SEA BRIGHT?",
+      "answer": "The call sign of MT SEA BRIGHT is D5RT7.",
+      "source": "Vessel registry dossier, MT SEA BRIGHT",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0044",
+      "topic": "domain_vessel_reports",
+      "question": "What type of ship is MT SEA BRIGHT?",
+      "answer": "MT SEA BRIGHT is a bulk carrier flagged in Liberia, 32,100 gross tonnage and 58,400 tonnes deadweight.",
+      "source": "Vessel registry dossier, MT SEA BRIGHT",
+      "tags": [
+        "identity",
+        "type"
+      ]
+    },
+    {
+      "id": "DVR-0045",
+      "topic": "domain_vessel_reports",
+      "question": "What are the dimensions of MT SEA BRIGHT?",
+      "answer": "MT SEA BRIGHT is 190.0 m length overall and 32.3 m beam, built in 2016.",
+      "source": "Vessel registry dossier, MT SEA BRIGHT",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0046",
+      "topic": "domain_vessel_reports",
+      "question": "Which flag does MT SEA BRIGHT fly and where is she registered?",
+      "answer": "MT SEA BRIGHT flies the flag of Liberia and is registered at Monrovia.",
+      "source": "Vessel registry dossier, MT SEA BRIGHT",
+      "tags": [
+        "identity",
+        "flag"
+      ]
+    },
+    {
+      "id": "DVR-0047",
+      "topic": "domain_vessel_reports",
+      "question": "Who owns and manages MT SEA BRIGHT?",
+      "answer": "MT SEA BRIGHT is owned by Bright Ocean Bulk Carriers.",
+      "source": "Vessel registry dossier, MT SEA BRIGHT",
+      "tags": [
+        "ownership"
+      ]
+    },
+    {
+      "id": "DVR-0048",
+      "topic": "domain_vessel_reports",
+      "question": "Give me the full dossier on MT SEA BRIGHT.",
+      "answer": "MT SEA BRIGHT. IMO 9712345, MMSI 636019876, call sign D5RT7. Flag Liberia, registered at Monrovia. Type bulk carrier, 32,100 GT, 58,400 DWT, 190.0 m by 32.3 m, built 2016. Owner Bright Ocean Bulk Carriers. Bulk carrier calling Mundra with fertiliser and coal cargoes.",
+      "source": "Vessel registry dossier, MT SEA BRIGHT",
+      "tags": [
+        "dossier"
+      ]
+    },
+    {
+      "id": "DVR-0049",
+      "topic": "domain_vessel_reports",
+      "question": "What is the IMO number of MV MALABAR EXPRESS?",
+      "answer": "MV MALABAR EXPRESS carries IMO number 9623456 and MMSI 563456789. She flies the flag of Singapore and is registered at Singapore.",
+      "source": "Vessel registry dossier, MV MALABAR EXPRESS",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0050",
+      "topic": "domain_vessel_reports",
+      "question": "Which vessel carries MMSI 563456789?",
+      "answer": "MMSI 563456789 belongs to MV MALABAR EXPRESS, IMO 9623456, a container ship flagged in Singapore.",
+      "source": "AIS static data, MMSI 563456789",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0051",
+      "topic": "domain_vessel_reports",
+      "question": "What is the call sign of MV MALABAR EXPRESS?",
+      "answer": "The call sign of MV MALABAR EXPRESS is 9VAB7.",
+      "source": "Vessel registry dossier, MV MALABAR EXPRESS",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0052",
+      "topic": "domain_vessel_reports",
+      "question": "What type of ship is MV MALABAR EXPRESS?",
+      "answer": "MV MALABAR EXPRESS is a container ship flagged in Singapore, 24,900 gross tonnage and 29,800 tonnes deadweight.",
+      "source": "Vessel registry dossier, MV MALABAR EXPRESS",
+      "tags": [
+        "identity",
+        "type"
+      ]
+    },
+    {
+      "id": "DVR-0053",
+      "topic": "domain_vessel_reports",
+      "question": "What are the dimensions of MV MALABAR EXPRESS?",
+      "answer": "MV MALABAR EXPRESS is 185.0 m length overall and 29.0 m beam, built in 2012.",
+      "source": "Vessel registry dossier, MV MALABAR EXPRESS",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0054",
+      "topic": "domain_vessel_reports",
+      "question": "Which flag does MV MALABAR EXPRESS fly and where is she registered?",
+      "answer": "MV MALABAR EXPRESS flies the flag of Singapore and is registered at Singapore.",
+      "source": "Vessel registry dossier, MV MALABAR EXPRESS",
+      "tags": [
+        "identity",
+        "flag"
+      ]
+    },
+    {
+      "id": "DVR-0055",
+      "topic": "domain_vessel_reports",
+      "question": "Who owns and manages MV MALABAR EXPRESS?",
+      "answer": "MV MALABAR EXPRESS is owned by Malabar Express Line Pte Ltd.",
+      "source": "Vessel registry dossier, MV MALABAR EXPRESS",
+      "tags": [
+        "ownership"
+      ]
+    },
+    {
+      "id": "DVR-0056",
+      "topic": "domain_vessel_reports",
+      "question": "Give me the full dossier on MV MALABAR EXPRESS.",
+      "answer": "MV MALABAR EXPRESS. IMO 9623456, MMSI 563456789, call sign 9VAB7. Flag Singapore, registered at Singapore. Type container ship, 24,900 GT, 29,800 DWT, 185.0 m by 29.0 m, built 2012. Owner Malabar Express Line Pte Ltd. Regional container ship on the Kochi to Mumbai coastal run.",
+      "source": "Vessel registry dossier, MV MALABAR EXPRESS",
+      "tags": [
+        "dossier"
+      ]
+    },
+    {
+      "id": "DVR-0057",
+      "topic": "domain_vessel_reports",
+      "question": "What is the IMO number of MV OMAN TRADER?",
+      "answer": "MV OMAN TRADER carries IMO number 9388111 and MMSI 461234567. She flies the flag of Oman and is registered at Muscat.",
+      "source": "Vessel registry dossier, MV OMAN TRADER",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0058",
+      "topic": "domain_vessel_reports",
+      "question": "Which vessel carries MMSI 461234567?",
+      "answer": "MMSI 461234567 belongs to MV OMAN TRADER, IMO 9388111, a general cargo ship flagged in Oman.",
+      "source": "AIS static data, MMSI 461234567",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0059",
+      "topic": "domain_vessel_reports",
+      "question": "What is the call sign of MV OMAN TRADER?",
+      "answer": "The call sign of MV OMAN TRADER is A4DJ2.",
+      "source": "Vessel registry dossier, MV OMAN TRADER",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0060",
+      "topic": "domain_vessel_reports",
+      "question": "What type of ship is MV OMAN TRADER?",
+      "answer": "MV OMAN TRADER is a general cargo ship flagged in Oman, 6,120 gross tonnage and 8,400 tonnes deadweight.",
+      "source": "Vessel registry dossier, MV OMAN TRADER",
+      "tags": [
+        "identity",
+        "type"
+      ]
+    },
+    {
+      "id": "DVR-0061",
+      "topic": "domain_vessel_reports",
+      "question": "What are the dimensions of MV OMAN TRADER?",
+      "answer": "MV OMAN TRADER is 112.0 m length overall and 18.0 m beam, built in 2008.",
+      "source": "Vessel registry dossier, MV OMAN TRADER",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0062",
+      "topic": "domain_vessel_reports",
+      "question": "Which flag does MV OMAN TRADER fly and where is she registered?",
+      "answer": "MV OMAN TRADER flies the flag of Oman and is registered at Muscat.",
+      "source": "Vessel registry dossier, MV OMAN TRADER",
+      "tags": [
+        "identity",
+        "flag"
+      ]
+    },
+    {
+      "id": "DVR-0063",
+      "topic": "domain_vessel_reports",
+      "question": "Who owns and manages MV OMAN TRADER?",
+      "answer": "MV OMAN TRADER is owned by Oman Trader Shipping Company.",
+      "source": "Vessel registry dossier, MV OMAN TRADER",
+      "tags": [
+        "ownership"
+      ]
+    },
+    {
+      "id": "DVR-0064",
+      "topic": "domain_vessel_reports",
+      "question": "Give me the full dossier on MV OMAN TRADER.",
+      "answer": "MV OMAN TRADER. IMO 9388111, MMSI 461234567, call sign A4DJ2. Flag Oman, registered at Muscat. Type general cargo ship, 6,120 GT, 8,400 DWT, 112.0 m by 18.0 m, built 2008. Owner Oman Trader Shipping Company. Small general cargo ship trading Muscat, Salalah and Mumbai.",
+      "source": "Vessel registry dossier, MV OMAN TRADER",
+      "tags": [
+        "dossier"
+      ]
+    },
+    {
+      "id": "DVR-0065",
+      "topic": "domain_vessel_reports",
+      "question": "What is the IMO number of FV CORAL PRIDE?",
+      "answer": "FV CORAL PRIDE carries IMO number not assigned and MMSI 419222888. She flies the flag of India and is registered at Porbandar.",
+      "source": "Vessel registry dossier, FV CORAL PRIDE",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0066",
+      "topic": "domain_vessel_reports",
+      "question": "Which vessel carries MMSI 419222888?",
+      "answer": "MMSI 419222888 belongs to FV CORAL PRIDE, IMO not assigned, a fishing vessel (gillnetter) flagged in India.",
+      "source": "AIS static data, MMSI 419222888",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0067",
+      "topic": "domain_vessel_reports",
+      "question": "What is the call sign of FV CORAL PRIDE?",
+      "answer": "The call sign of FV CORAL PRIDE is not assigned.",
+      "source": "Vessel registry dossier, FV CORAL PRIDE",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0068",
+      "topic": "domain_vessel_reports",
+      "question": "What type of ship is FV CORAL PRIDE?",
+      "answer": "FV CORAL PRIDE is a fishing vessel (gillnetter) flagged in India, 78 gross tonnage and not applicable.",
+      "source": "Vessel registry dossier, FV CORAL PRIDE",
+      "tags": [
+        "identity",
+        "type"
+      ]
+    },
+    {
+      "id": "DVR-0069",
+      "topic": "domain_vessel_reports",
+      "question": "What are the dimensions of FV CORAL PRIDE?",
+      "answer": "FV CORAL PRIDE is 21.5 m length overall and 5.9 m beam, built in 2007.",
+      "source": "Vessel registry dossier, FV CORAL PRIDE",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0070",
+      "topic": "domain_vessel_reports",
+      "question": "Which flag does FV CORAL PRIDE fly and where is she registered?",
+      "answer": "FV CORAL PRIDE flies the flag of India and is registered at Porbandar.",
+      "source": "Vessel registry dossier, FV CORAL PRIDE",
+      "tags": [
+        "identity",
+        "flag"
+      ]
+    },
+    {
+      "id": "DVR-0071",
+      "topic": "domain_vessel_reports",
+      "question": "Who owns and manages FV CORAL PRIDE?",
+      "answer": "FV CORAL PRIDE is owned by Coral Pride Boat Owners Association.",
+      "source": "Vessel registry dossier, FV CORAL PRIDE",
+      "tags": [
+        "ownership"
+      ]
+    },
+    {
+      "id": "DVR-0072",
+      "topic": "domain_vessel_reports",
+      "question": "Give me the full dossier on FV CORAL PRIDE.",
+      "answer": "FV CORAL PRIDE. IMO not assigned, MMSI 419222888, call sign not assigned. Flag India, registered at Porbandar. Type fishing vessel (gillnetter), 78 GT, not applicable, 21.5 m by 5.9 m, built 2007. Owner Coral Pride Boat Owners Association. Gillnetter working the Porbandar and Diu grounds, class B AIS only.",
+      "source": "Vessel registry dossier, FV CORAL PRIDE",
+      "tags": [
+        "dossier"
+      ]
+    },
+    {
+      "id": "DVR-0073",
+      "topic": "domain_vessel_reports",
+      "question": "What is the IMO number of SV BLUE MERIDIAN?",
+      "answer": "SV BLUE MERIDIAN carries IMO number not assigned and MMSI 232004561. She flies the flag of the United Kingdom and is registered at Portsmouth.",
+      "source": "Vessel registry dossier, SV BLUE MERIDIAN",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0074",
+      "topic": "domain_vessel_reports",
+      "question": "Which vessel carries MMSI 232004561?",
+      "answer": "MMSI 232004561 belongs to SV BLUE MERIDIAN, IMO not assigned, a sailing yacht flagged in the United Kingdom.",
+      "source": "AIS static data, MMSI 232004561",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0075",
+      "topic": "domain_vessel_reports",
+      "question": "What is the call sign of SV BLUE MERIDIAN?",
+      "answer": "The call sign of SV BLUE MERIDIAN is MZQK4.",
+      "source": "Vessel registry dossier, SV BLUE MERIDIAN",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0076",
+      "topic": "domain_vessel_reports",
+      "question": "What type of ship is SV BLUE MERIDIAN?",
+      "answer": "SV BLUE MERIDIAN is a sailing yacht flagged in the United Kingdom, 34 gross tonnage and not applicable.",
+      "source": "Vessel registry dossier, SV BLUE MERIDIAN",
+      "tags": [
+        "identity",
+        "type"
+      ]
+    },
+    {
+      "id": "DVR-0077",
+      "topic": "domain_vessel_reports",
+      "question": "What are the dimensions of SV BLUE MERIDIAN?",
+      "answer": "SV BLUE MERIDIAN is 16.2 m length overall and 4.8 m beam, built in 2018.",
+      "source": "Vessel registry dossier, SV BLUE MERIDIAN",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0078",
+      "topic": "domain_vessel_reports",
+      "question": "Which flag does SV BLUE MERIDIAN fly and where is she registered?",
+      "answer": "SV BLUE MERIDIAN flies the flag of the United Kingdom and is registered at Portsmouth.",
+      "source": "Vessel registry dossier, SV BLUE MERIDIAN",
+      "tags": [
+        "identity",
+        "flag"
+      ]
+    },
+    {
+      "id": "DVR-0079",
+      "topic": "domain_vessel_reports",
+      "question": "Who owns and manages SV BLUE MERIDIAN?",
+      "answer": "SV BLUE MERIDIAN is owned by private owner, name withheld.",
+      "source": "Vessel registry dossier, SV BLUE MERIDIAN",
+      "tags": [
+        "ownership"
+      ]
+    },
+    {
+      "id": "DVR-0080",
+      "topic": "domain_vessel_reports",
+      "question": "Give me the full dossier on SV BLUE MERIDIAN.",
+      "answer": "SV BLUE MERIDIAN. IMO not assigned, MMSI 232004561, call sign MZQK4. Flag the United Kingdom, registered at Portsmouth. Type sailing yacht, 34 GT, not applicable, 16.2 m by 4.8 m, built 2018. Owner private owner, name withheld. Private yacht on a west India passage, class B AIS, speed 5 to 8 knots.",
+      "source": "Vessel registry dossier, SV BLUE MERIDIAN",
+      "tags": [
+        "dossier"
+      ]
+    },
+    {
+      "id": "DVR-0081",
+      "topic": "domain_vessel_reports",
+      "question": "What is the IMO number of COAST GUARD UNIT CG-221?",
+      "answer": "COAST GUARD UNIT CG-221 carries IMO number not applicable and MMSI not published. She flies the flag of India and is registered at not published.",
+      "source": "Vessel registry dossier, COAST GUARD UNIT CG-221",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0082",
+      "topic": "domain_vessel_reports",
+      "question": "Which vessel carries MMSI not published?",
+      "answer": "MMSI not published belongs to COAST GUARD UNIT CG-221, IMO not applicable, a patrol vessel flagged in India.",
+      "source": "AIS static data, MMSI not published",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0083",
+      "topic": "domain_vessel_reports",
+      "question": "What is the call sign of COAST GUARD UNIT CG-221?",
+      "answer": "The call sign of COAST GUARD UNIT CG-221 is CG221.",
+      "source": "Vessel registry dossier, COAST GUARD UNIT CG-221",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0084",
+      "topic": "domain_vessel_reports",
+      "question": "What type of ship is COAST GUARD UNIT CG-221?",
+      "answer": "COAST GUARD UNIT CG-221 is a patrol vessel flagged in India, not published and not applicable.",
+      "source": "Vessel registry dossier, COAST GUARD UNIT CG-221",
+      "tags": [
+        "identity",
+        "type"
+      ]
+    },
+    {
+      "id": "DVR-0085",
+      "topic": "domain_vessel_reports",
+      "question": "What are the dimensions of COAST GUARD UNIT CG-221?",
+      "answer": "COAST GUARD UNIT CG-221 is 45.0 m length overall and 7.6 m beam, built in not published.",
+      "source": "Vessel registry dossier, COAST GUARD UNIT CG-221",
+      "tags": [
+        "identity"
+      ]
+    },
+    {
+      "id": "DVR-0086",
+      "topic": "domain_vessel_reports",
+      "question": "Which flag does COAST GUARD UNIT CG-221 fly and where is she registered?",
+      "answer": "COAST GUARD UNIT CG-221 flies the flag of India and is registered at not published.",
+      "source": "Vessel registry dossier, COAST GUARD UNIT CG-221",
+      "tags": [
+        "identity",
+        "flag"
+      ]
+    },
+    {
+      "id": "DVR-0087",
+      "topic": "domain_vessel_reports",
+      "question": "Who owns and manages COAST GUARD UNIT CG-221?",
+      "answer": "COAST GUARD UNIT CG-221 is owned by Indian Coast Guard.",
+      "source": "Vessel registry dossier, COAST GUARD UNIT CG-221",
+      "tags": [
+        "ownership"
+      ]
+    },
+    {
+      "id": "DVR-0088",
+      "topic": "domain_vessel_reports",
+      "question": "Give me the full dossier on COAST GUARD UNIT CG-221.",
+      "answer": "COAST GUARD UNIT CG-221. IMO not applicable, MMSI not published, call sign CG221. Flag India, registered at not published. Type patrol vessel, not published, not applicable, 45.0 m by 7.6 m, built not published. Owner Indian Coast Guard. Exercise participant. Does not transmit AIS while on task and is classified as friendly when identified by exercise means.",
+      "source": "Vessel registry dossier, COAST GUARD UNIT CG-221",
+      "tags": [
+        "dossier"
+      ]
+    },
+    {
+      "id": "DVR-0089",
+      "topic": "domain_vessel_reports",
+      "question": "Which vessels in the exercise area are crude oil tankers?",
+      "answer": "Only one crude oil tanker is tracked in the area: MT GULF PIONEER, MMSI 419876543, IMO 9567890, flagged in India and registered at Mumbai. She runs the Fujairah to Vadinar crude shuttle.",
+      "source": "Vessel registry dossier, type query",
+      "tags": [
+        "aggregate",
+        "type"
+      ]
+    },
+    {
+      "id": "DVR-0090",
+      "topic": "domain_vessel_reports",
+      "question": "Which tracked vessels are flagged in India?",
+      "answer": "Two of the three tracked merchant vessels are Indian flagged: MT GULF PIONEER, MMSI 419876543, a crude oil tanker registered at Mumbai, and the fishing vessel FV SAGAR SETU, MMSI 419555777, registered at Okha. MV AL RAYYAN STAR is flagged in the United Arab Emirates and MV CORAL HORIZON is flagged in Panama.",
+      "source": "Vessel registry dossier, flag query",
+      "tags": [
+        "aggregate",
+        "flag"
+      ]
+    },
+    {
+      "id": "DVR-0091",
+      "topic": "domain_vessel_reports",
+      "question": "Which tracked vessels are container ships?",
+      "answer": "Two container ships are tracked: MV CORAL HORIZON, MMSI 353136000, flagged in Panama and running the Colombo, Kochi, Mundra and Karachi loop, and MV MALABAR EXPRESS, MMSI 563456789, flagged in Singapore on the Kochi to Mumbai coastal run.",
+      "source": "Vessel registry dossier, type query",
+      "tags": [
+        "aggregate",
+        "type"
+      ]
+    },
+    {
+      "id": "DVR-0092",
+      "topic": "domain_vessel_reports",
+      "question": "Which vessels regularly call at Mundra?",
+      "answer": "Mundra is called by MV AL RAYYAN STAR, MV CORAL HORIZON and MT SEA BRIGHT, and is the destination declared in the AIS of several transiting bulk carriers.",
+      "source": "Vessel registry dossier and AIS destination fields",
+      "tags": [
+        "aggregate",
+        "port"
+      ]
+    },
+    {
+      "id": "DVR-0093",
+      "topic": "domain_vessel_reports",
+      "question": "What do we know about the fishing vessel SAGAR SETU?",
+      "answer": "FV SAGAR SETU is a wooden trawler of about 96 gross tonnage and 24 m length, MMSI 419555777, registered at Okha and owned by the Sagar Setu Fishing Cooperative. She carries class B AIS only and switches it off for long periods, so she appears as a dark contact.",
+      "source": "Vessel registry dossier, FV SAGAR SETU",
+      "tags": [
+        "identity",
+        "fishing"
+      ]
+    },
+    {
+      "id": "DVR-0094",
+      "topic": "domain_vessel_reports",
+      "question": "What do we know about the dhow with no AIS in the Kutch approaches?",
+      "answer": "The dhow, provisionally recorded as DHOW AL NAJAH, has no MMSI, no call sign and no established flag or registry. She is a single mast wooden dhow of about 18 m, dark timber hull, speed 5 to 7 knots, and has been reported three times without a response to VHF challenge. Treat her identity as unverified.",
+      "source": "Contact report file and vessel registry dossier",
+      "tags": [
+        "dark-contact"
+      ]
+    },
+    {
+      "id": "DVR-0095",
+      "topic": "domain_vessel_reports",
+      "question": "A contact is detected on radar with no AIS. Which of our known vessels could it be?",
+      "answer": "Four known units can appear without AIS. The wooden trawler FV SAGAR SETU and the gillnetter FV CORAL PRIDE carry class B AIS only and switch it off for long periods. The wooden dhow DHOW AL NAJAH has no AIS fitted at all. Coast guard unit CG-221 does not transmit AIS while on task. Any other dark contact should be treated as unidentified.",
+      "source": "Vessel registry dossier, dark contact query",
+      "tags": [
+        "dark-contact"
+      ]
+    },
+    {
+      "id": "DVR-0096",
+      "topic": "domain_vessel_reports",
+      "question": "You sight a vessel on the horizon and read AL RAYYAN STAR on the hull, but she is not transmitting AIS. What do you know about her and what should you establish next?",
+      "answer": "The hull name matches MV AL RAYYAN STAR, IMO 9451234, MMSI 470123456, a United Arab Emirates flagged general cargo ship of 8,942 GT and 12,450 DWT, 128.4 m long, built 2011, owned by Rayyan Marine Shipping LLC and managed by Gulf Star Ship Management. She normally trades Jebel Ali, Mundra, Deendayal, Mumbai and Colombo. Establish next: her current position and course by radar, her last and next port of call, whether a port state or VTS record exists for her in the last 72 hours, and whether any navigational warning is in force on her track. Do not assume the hull name is genuine until it is corroborated.",
+      "source": "Vessel registry dossier and AIS passage records, MV AL RAYYAN STAR",
+      "tags": [
+        "horizon-sighting",
+        "story"
+      ]
+    },
+    {
+      "id": "DVR-0097",
+      "topic": "domain_vessel_reports",
+      "question": "A hull shows the name GULF PIONEER. Which vessel is that and what is she carrying?",
+      "answer": "The name matches MT GULF PIONEER, IMO 9567890, MMSI 419876543, a crude oil tanker of 42,180 GT and 74,900 DWT flagged in India and registered at Mumbai, owned and managed by Pioneer Tankers India Private Limited. She runs the Fujairah to Vadinar crude shuttle, loaded westbound at about 12.6 m draught and in ballast eastbound at about 5.4 m. Confirm her draught, cargo and destination from AIS before assuming a laden passage.",
+      "source": "Vessel registry dossier and AIS passage records, MT GULF PIONEER",
+      "tags": [
+        "horizon-sighting",
+        "story"
+      ]
+    }
+  ]
+}

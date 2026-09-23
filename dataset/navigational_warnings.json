@@ -1,0 +1,1592 @@
+{
+  "dataset": "navigational_warnings",
+  "title": "NAVAREA IX warnings, coastal warnings and notices to mariners, January to August 2026",
+  "version": "1.0.0",
+  "generated": "2026-09-22",
+  "coverage": {
+    "from": "2026-01-01",
+    "to": "2026-08-31"
+  },
+  "format": "question-answer",
+  "synthetic": true,
+  "not_for_operational_use": true,
+  "disclaimer": "SYNTHETIC TRAINING DATA. Every vessel, IMO and MMSI number, owner, port call, warning, contact, incident and statistic in this file is fictional and was generated for a training lecture. Nothing here describes a real ship, broadcast, incident or port condition, and nothing here may be used for navigation, intelligence or any operational decision.",
+  "count": 157,
+  "examples": [
+    {
+      "id": "NAVW-0001",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 006/2026 say?",
+      "answer": "NAVAREA IX 006/2026, Live firing exercise in Area Alpha. Naval units will conduct live firing exercises, including surface gunnery, inside the area during the stated periods. Area affected: Area Alpha, North Arabian Sea, bounded by 21-54.0N 68-24.0E, 22-48.0N 68-24.0E, 22-48.0N 69-24.0E, 21-54.0N 69-24.0E. The warning is in force from 8 January 2026 at 0600Z until 16 January 2026 at 1800Z.",
+      "source": "NAVAREA IX 006/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0002",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 006/2026?",
+      "answer": "Vessels are to remain clear of the area at all times. Any vessel unable to comply is to contact exercise control on VHF channel 16. The warning remains in force from 8 January 2026 at 0600Z until 16 January 2026 at 1800Z.",
+      "source": "NAVAREA IX 006/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0003",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 009/2026 say?",
+      "answer": "NAVAREA IX 009/2026, Seabed survey operations in Area Bravo. A survey vessel will conduct seabed mapping on a restricted manoeuvrability basis, with towed equipment astern. Area affected: Area Bravo, approaches to Mundra, bounded by 22-12.0N 69-30.0E, 22-36.0N 69-30.0E, 22-36.0N 69-54.0E, 22-12.0N 69-54.0E. The warning is in force from 8 January 2026 at 0500Z until 28 January 2026 at 1700Z.",
+      "source": "NAVAREA IX 009/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0004",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 009/2026?",
+      "answer": "Vessels are to give a wide berth, pass at not less than 3 nm, and avoid passing within 2 nm astern of the survey vessel. The warning remains in force from 8 January 2026 at 0500Z until 28 January 2026 at 1700Z.",
+      "source": "NAVAREA IX 009/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0005",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 012/2026 say?",
+      "answer": "COASTAL WARNING 012/2026, Buoy off station, Okha approach. The port hand buoy marking the Okha approach channel has drifted about 1.2 nm to the south-east of its charted position and its light is unreliable. Area affected: the area described in the warning text. The warning is in force from 5 January 2026 at 0900Z until 22 January 2026 at 1200Z.",
+      "source": "COASTAL WARNING 012/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0006",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 012/2026?",
+      "answer": "Vessels entering Okha are to navigate with caution, use charted soundings rather than the buoy position, and report the buoy's actual position. The warning remains in force from 5 January 2026 at 0900Z until 22 January 2026 at 1200Z.",
+      "source": "COASTAL WARNING 012/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0007",
+      "topic": "navigational_warnings",
+      "question": "What does NOTICE TO MARINERS 01/2026 say?",
+      "answer": "NOTICE TO MARINERS 01/2026, Chart correction, Vadinar light. The light at Vadinar has been re-established with a changed character, quick flashing green every 5 seconds, range 12 nm. Area affected: the area described in the warning text. The warning is in force from 2 January 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 01/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0008",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NOTICE TO MARINERS 01/2026?",
+      "answer": "Amend the light list entry and correct the chart before the next approach to Vadinar. The warning remains in force from 2 January 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 01/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0009",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 015/2026 say?",
+      "answer": "NAVAREA IX 015/2026, Tanker transfer operations in Area Delta. Two tankers will conduct a ship to ship transfer of crude oil at anchor inside the area. Area affected: Area Delta, off Mumbai, bounded by 19-30.0N 71-30.0E, 20-00.0N 71-30.0E, 20-00.0N 72-00.0E, 19-30.0N 72-00.0E. The warning is in force from 20 January 2026 at 0400Z until 24 January 2026 at 2000Z.",
+      "source": "NAVAREA IX 015/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0010",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 015/2026?",
+      "answer": "Vessels are to keep clear of the transfer pair by not less than 2 nm and are not to pass between the two ships. The warning remains in force from 20 January 2026 at 0400Z until 24 January 2026 at 2000Z.",
+      "source": "NAVAREA IX 015/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0011",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 018/2026 say?",
+      "answer": "NAVAREA IX 018/2026, Drifting containers, south-west of Porbandar. A drifting object, partly submerged and difficult to detect by radar, has been reported in the area. Area affected: Area Charlie, south-west of Porbandar, bounded by 20-48.0N 69-36.0E, 21-12.0N 69-36.0E, 21-12.0N 70-00.0E, 20-48.0N 70-00.0E. The warning is in force from 16 January 2026 at 1100Z until 30 January 2026 at 1800Z.",
+      "source": "NAVAREA IX 018/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0012",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 018/2026?",
+      "answer": "Vessels are to keep a sharp lookout, reduce speed in poor visibility, and report any sighting to the nearest coast radio station. The warning remains in force from 16 January 2026 at 1100Z until 30 January 2026 at 1800Z.",
+      "source": "NAVAREA IX 018/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0013",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 021/2026 say?",
+      "answer": "COASTAL WARNING 021/2026, Dredging, Deendayal approach channel. A trailing suction hopper dredger is working in the area with submerged pipeline and anchor buoys laid out. Area affected: the area described in the warning text. The warning is in force from 6 January 2026 at 0600Z until 28 February 2026 at 1800Z.",
+      "source": "COASTAL WARNING 021/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0014",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 021/2026?",
+      "answer": "Vessels are to reduce speed to 8 knots, pass clear of the dredger and its buoys, and follow VTS instructions. The warning remains in force from 6 January 2026 at 0600Z until 28 February 2026 at 1800Z.",
+      "source": "COASTAL WARNING 021/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0015",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 024/2026 say?",
+      "answer": "NAVAREA IX 024/2026, GNSS interference reported, north-east Arabian Sea. Merchant vessels have reported intermittent loss of GNSS position fixing and degraded accuracy in the area. Interference may also affect AIS reporting. Area affected: the area described in the warning text. The warning is in force from 25 January 2026 at 0000Z until 5 February 2026 at 2359Z.",
+      "source": "NAVAREA IX 024/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0016",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 024/2026?",
+      "answer": "Vessels are to maintain a paper plot, use alternative position fixing, and report interference with position, time and details to the nearest coast radio station. The warning remains in force from 25 January 2026 at 0000Z until 5 February 2026 at 2359Z.",
+      "source": "NAVAREA IX 024/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0017",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 031/2026 say?",
+      "answer": "NAVAREA IX 031/2026, Live firing exercise in Area Alpha. Naval units will conduct live firing exercises, including surface gunnery, inside the area during the stated periods. Area affected: Area Alpha, North Arabian Sea, bounded by 21-54.0N 68-24.0E, 22-48.0N 68-24.0E, 22-48.0N 69-24.0E, 21-54.0N 69-24.0E. The warning is in force from 9 February 2026 at 0600Z until 13 February 2026 at 1800Z.",
+      "source": "NAVAREA IX 031/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0018",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 031/2026?",
+      "answer": "Vessels are to remain clear of the area at all times. Any vessel unable to comply is to contact exercise control on VHF channel 16. The warning remains in force from 9 February 2026 at 0600Z until 13 February 2026 at 1800Z.",
+      "source": "NAVAREA IX 031/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0019",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 034/2026 say?",
+      "answer": "NAVAREA IX 034/2026, Cable laying operations in Area Charlie. A cable ship is laying or repairing submarine cable in the area and will be restricted in her ability to manoeuvre. Area affected: Area Charlie, south-west of Porbandar, bounded by 20-48.0N 69-36.0E, 21-12.0N 69-36.0E, 21-12.0N 70-00.0E, 20-48.0N 70-00.0E. The warning is in force from 5 February 2026 at 0500Z until 25 February 2026 at 1700Z.",
+      "source": "NAVAREA IX 034/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0020",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 034/2026?",
+      "answer": "Vessels are to keep clear by not less than 2 nm and are not to anchor, trawl or dredge inside the area. The warning remains in force from 5 February 2026 at 0500Z until 25 February 2026 at 1700Z.",
+      "source": "NAVAREA IX 034/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0021",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 038/2026 say?",
+      "answer": "COASTAL WARNING 038/2026, Fishing gear concentration, off Okha. A high concentration of fishing vessels and deployed gear is present in the area. Gear may be unlit at night. Area affected: the area described in the warning text. The warning is in force from 10 February 2026 at 0000Z until 5 March 2026 at 2359Z.",
+      "source": "COASTAL WARNING 038/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0022",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 038/2026?",
+      "answer": "Vessels are to reduce speed, keep a sharp lookout for small craft and gear, and avoid passing through the concentration where practicable. The warning remains in force from 10 February 2026 at 0000Z until 5 March 2026 at 2359Z.",
+      "source": "COASTAL WARNING 038/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0023",
+      "topic": "navigational_warnings",
+      "question": "What does NOTICE TO MARINERS 03/2026 say?",
+      "answer": "NOTICE TO MARINERS 03/2026, Wreck marked, south-west of Diu. A chart correction has been issued for the area named in this notice. Depths, lights or channel limits differ from the current edition. Area affected: the area described in the warning text. The warning is in force from 14 February 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 03/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0024",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NOTICE TO MARINERS 03/2026?",
+      "answer": "Correct the affected chart and publications before the next transit. Do not rely on the superseded edition. The warning remains in force from 14 February 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 03/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0025",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 041/2026 say?",
+      "answer": "NAVAREA IX 041/2026, Tanker transfer operations in Area Delta. Two tankers will conduct a ship to ship transfer of crude oil at anchor inside the area. Area affected: Area Delta, off Mumbai, bounded by 19-30.0N 71-30.0E, 20-00.0N 71-30.0E, 20-00.0N 72-00.0E, 19-30.0N 72-00.0E. The warning is in force from 16 February 2026 at 0400Z until 20 February 2026 at 2000Z.",
+      "source": "NAVAREA IX 041/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0026",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 041/2026?",
+      "answer": "Vessels are to keep clear of the transfer pair by not less than 2 nm and are not to pass between the two ships. The warning remains in force from 16 February 2026 at 0400Z until 20 February 2026 at 2000Z.",
+      "source": "NAVAREA IX 041/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0027",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 045/2026 say?",
+      "answer": "NAVAREA IX 045/2026, Space launch vehicle debris, North Arabian Sea. Debris from a space launch vehicle may fall inside the area during the stated window. Area affected: Area Alpha, North Arabian Sea, bounded by 21-54.0N 68-24.0E, 22-48.0N 68-24.0E, 22-48.0N 69-24.0E, 21-54.0N 69-24.0E. The warning is in force from 21 February 2026 at 0300Z until 27 February 2026 at 1800Z.",
+      "source": "NAVAREA IX 045/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0028",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 045/2026?",
+      "answer": "Vessels are to remain clear of the area during the window and to report any debris sighted after the window closes. The warning remains in force from 21 February 2026 at 0300Z until 27 February 2026 at 1800Z.",
+      "source": "NAVAREA IX 045/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0029",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 048/2026 say?",
+      "answer": "COASTAL WARNING 048/2026, Night entry restriction, Mundra. A port entry restriction is in force for the port named in this warning. Area affected: the area described in the warning text. The warning is in force from 18 February 2026 at 0000Z until 6 March 2026 at 2359Z.",
+      "source": "COASTAL WARNING 048/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0030",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 048/2026?",
+      "answer": "Vessels are to comply with the restriction, confirm the current status with port control before arrival, and adjust ETA as directed. The warning remains in force from 18 February 2026 at 0000Z until 6 March 2026 at 2359Z.",
+      "source": "COASTAL WARNING 048/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0031",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 050/2026 say?",
+      "answer": "NAVAREA IX 050/2026, Unlit derelict, Gulf of Kutch approaches. A drifting object, partly submerged and difficult to detect by radar, has been reported in the area. Area affected: the area described in the warning text. The warning is in force from 24 February 2026 at 0900Z until 10 March 2026 at 1800Z.",
+      "source": "NAVAREA IX 050/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0032",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 050/2026?",
+      "answer": "Vessels are to keep a sharp lookout, reduce speed in poor visibility, and report any sighting to the nearest coast radio station. The warning remains in force from 24 February 2026 at 0900Z until 10 March 2026 at 1800Z.",
+      "source": "NAVAREA IX 050/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0033",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 052/2026 say?",
+      "answer": "NAVAREA IX 052/2026, Live firing exercise in Area Alpha. Naval units will conduct live firing exercises, including surface gunnery, inside the area during the stated periods. Area affected: Area Alpha, North Arabian Sea, bounded by 21-54.0N 68-24.0E, 22-48.0N 68-24.0E, 22-48.0N 69-24.0E, 21-54.0N 69-24.0E. The warning is in force from 8 March 2026 at 0600Z until 15 March 2026 at 1800Z.",
+      "source": "NAVAREA IX 052/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0034",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 052/2026?",
+      "answer": "Vessels are to remain clear of the area at all times. Any vessel unable to comply is to contact exercise control on VHF channel 16. The warning remains in force from 8 March 2026 at 0600Z until 15 March 2026 at 1800Z.",
+      "source": "NAVAREA IX 052/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0035",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 056/2026 say?",
+      "answer": "NAVAREA IX 056/2026, Seabed survey operations in Area Bravo. A survey vessel will conduct seabed mapping on a restricted manoeuvrability basis, with towed equipment astern. Area affected: Area Bravo, approaches to Mundra, bounded by 22-12.0N 69-30.0E, 22-36.0N 69-30.0E, 22-36.0N 69-54.0E, 22-12.0N 69-54.0E. The warning is in force from 3 March 2026 at 0500Z until 20 March 2026 at 1700Z.",
+      "source": "NAVAREA IX 056/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0036",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 056/2026?",
+      "answer": "Vessels are to give a wide berth, pass at not less than 3 nm, and avoid passing within 2 nm astern of the survey vessel. The warning remains in force from 3 March 2026 at 0500Z until 20 March 2026 at 1700Z.",
+      "source": "NAVAREA IX 056/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0037",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 059/2026 say?",
+      "answer": "COASTAL WARNING 059/2026, Unlit buoy, Mundra approach. The starboard hand buoy in the Mundra approach channel is unlit and its reflector is damaged. Area affected: the area described in the warning text. The warning is in force from 2 March 2026 at 0800Z until 18 March 2026 at 1200Z.",
+      "source": "COASTAL WARNING 059/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0038",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 059/2026?",
+      "answer": "Vessels are to treat the buoy as unlit, use radar and charted soundings for the approach, and report any change to port control. The warning remains in force from 2 March 2026 at 0800Z until 18 March 2026 at 1200Z.",
+      "source": "COASTAL WARNING 059/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0039",
+      "topic": "navigational_warnings",
+      "question": "What does NOTICE TO MARINERS 05/2026 say?",
+      "answer": "NOTICE TO MARINERS 05/2026, Chart correction, Deendayal channel depths. A chart correction has been issued for the area named in this notice. Depths, lights or channel limits differ from the current edition. Area affected: the area described in the warning text. The warning is in force from 1 March 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 05/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0040",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NOTICE TO MARINERS 05/2026?",
+      "answer": "Correct the affected chart and publications before the next transit. Do not rely on the superseded edition. The warning remains in force from 1 March 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 05/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0041",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 063/2026 say?",
+      "answer": "NAVAREA IX 063/2026, Tanker transfer operations in Area Delta. Two tankers will conduct a ship to ship transfer of crude oil at anchor inside the area. Area affected: Area Delta, off Mumbai, bounded by 19-30.0N 71-30.0E, 20-00.0N 71-30.0E, 20-00.0N 72-00.0E, 19-30.0N 72-00.0E. The warning is in force from 22 March 2026 at 0400Z until 26 March 2026 at 2000Z.",
+      "source": "NAVAREA IX 063/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0042",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 063/2026?",
+      "answer": "Vessels are to keep clear of the transfer pair by not less than 2 nm and are not to pass between the two ships. The warning remains in force from 22 March 2026 at 0400Z until 26 March 2026 at 2000Z.",
+      "source": "NAVAREA IX 063/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0043",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 067/2026 say?",
+      "answer": "NAVAREA IX 067/2026, GNSS interference reported, north-east Arabian Sea. Merchant vessels have reported intermittent loss of GNSS position fixing and degraded accuracy in the area. Interference may also affect AIS reporting. Area affected: the area described in the warning text. The warning is in force from 18 March 2026 at 0000Z until 29 March 2026 at 2359Z.",
+      "source": "NAVAREA IX 067/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0044",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 067/2026?",
+      "answer": "Vessels are to maintain a paper plot, use alternative position fixing, and report interference with position, time and details to the nearest coast radio station. The warning remains in force from 18 March 2026 at 0000Z until 29 March 2026 at 2359Z.",
+      "source": "NAVAREA IX 067/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0045",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 070/2026 say?",
+      "answer": "COASTAL WARNING 070/2026, Anchoring restriction, Vadinar offshore. A port entry restriction is in force for the port named in this warning. Area affected: the area described in the warning text. The warning is in force from 12 March 2026 at 0000Z until 2 April 2026 at 2359Z.",
+      "source": "COASTAL WARNING 070/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0046",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 070/2026?",
+      "answer": "Vessels are to comply with the restriction, confirm the current status with port control before arrival, and adjust ETA as directed. The warning remains in force from 12 March 2026 at 0000Z until 2 April 2026 at 2359Z.",
+      "source": "COASTAL WARNING 070/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0047",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 072/2026 say?",
+      "answer": "NAVAREA IX 072/2026, Live firing exercise in Area Alpha. Naval units will conduct live firing exercises, including surface gunnery, inside the area during the stated periods. Area affected: Area Alpha, North Arabian Sea, bounded by 21-54.0N 68-24.0E, 22-48.0N 68-24.0E, 22-48.0N 69-24.0E, 21-54.0N 69-24.0E. The warning is in force from 27 March 2026 at 0600Z until 29 March 2026 at 1800Z.",
+      "source": "NAVAREA IX 072/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0048",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 072/2026?",
+      "answer": "Vessels are to remain clear of the area at all times. Any vessel unable to comply is to contact exercise control on VHF channel 16. The warning remains in force from 27 March 2026 at 0600Z until 29 March 2026 at 1800Z.",
+      "source": "NAVAREA IX 072/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0049",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 073/2026 say?",
+      "answer": "COASTAL WARNING 073/2026, Dredger crossing, Deendayal to Mundra. A trailing suction hopper dredger is working in the area with submerged pipeline and anchor buoys laid out. Area affected: the area described in the warning text. The warning is in force from 24 March 2026 at 0600Z until 10 April 2026 at 1800Z.",
+      "source": "COASTAL WARNING 073/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0050",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 073/2026?",
+      "answer": "Vessels are to reduce speed to 8 knots, pass clear of the dredger and its buoys, and follow VTS instructions. The warning remains in force from 24 March 2026 at 0600Z until 10 April 2026 at 1800Z.",
+      "source": "COASTAL WARNING 073/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0051",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 074/2026 say?",
+      "answer": "NAVAREA IX 074/2026, Live firing exercise in Area Alpha. Naval units will conduct live firing exercises, including surface gunnery, inside the area during the stated periods. Area affected: Area Alpha, North Arabian Sea, bounded by 21-54.0N 68-24.0E, 22-48.0N 68-24.0E, 22-48.0N 69-24.0E, 21-54.0N 69-24.0E. The warning is in force from 7 April 2026 at 0600Z until 10 April 2026 at 1800Z.",
+      "source": "NAVAREA IX 074/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0052",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 074/2026?",
+      "answer": "Vessels are to remain clear of the area at all times. Any vessel unable to comply is to contact exercise control on VHF channel 16. The warning remains in force from 7 April 2026 at 0600Z until 10 April 2026 at 1800Z.",
+      "source": "NAVAREA IX 074/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0053",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 078/2026 say?",
+      "answer": "NAVAREA IX 078/2026, Seabed survey operations in Area Bravo. A survey vessel will conduct seabed mapping on a restricted manoeuvrability basis, with towed equipment astern. Area affected: Area Bravo, approaches to Mundra, bounded by 22-12.0N 69-30.0E, 22-36.0N 69-30.0E, 22-36.0N 69-54.0E, 22-12.0N 69-54.0E. The warning is in force from 5 April 2026 at 0500Z until 22 April 2026 at 1700Z.",
+      "source": "NAVAREA IX 078/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0054",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 078/2026?",
+      "answer": "Vessels are to give a wide berth, pass at not less than 3 nm, and avoid passing within 2 nm astern of the survey vessel. The warning remains in force from 5 April 2026 at 0500Z until 22 April 2026 at 1700Z.",
+      "source": "NAVAREA IX 078/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0055",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 082/2026 say?",
+      "answer": "COASTAL WARNING 082/2026, Buoy off station, Porbandar approach. The aid to navigation named in this warning is off station or is not exhibiting its charted characteristic. Area affected: the area described in the warning text. The warning is in force from 3 April 2026 at 0900Z until 19 April 2026 at 1200Z.",
+      "source": "COASTAL WARNING 082/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0056",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 082/2026?",
+      "answer": "Vessels are to navigate with caution, use charted soundings, and report the actual condition of the aid to the nearest coast radio station. The warning remains in force from 3 April 2026 at 0900Z until 19 April 2026 at 1200Z.",
+      "source": "COASTAL WARNING 082/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0057",
+      "topic": "navigational_warnings",
+      "question": "What does NOTICE TO MARINERS 07/2026 say?",
+      "answer": "NOTICE TO MARINERS 07/2026, Chart correction, Okha to Dwarka. A chart correction has been issued for the area named in this notice. Depths, lights or channel limits differ from the current edition. Area affected: the area described in the warning text. The warning is in force from 1 April 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 07/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0058",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NOTICE TO MARINERS 07/2026?",
+      "answer": "Correct the affected chart and publications before the next transit. Do not rely on the superseded edition. The warning remains in force from 1 April 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 07/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0059",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 086/2026 say?",
+      "answer": "NAVAREA IX 086/2026, Tanker transfer operations in Area Delta. Two tankers will conduct a ship to ship transfer of crude oil at anchor inside the area. Area affected: Area Delta, off Mumbai, bounded by 19-30.0N 71-30.0E, 20-00.0N 71-30.0E, 20-00.0N 72-00.0E, 19-30.0N 72-00.0E. The warning is in force from 19 April 2026 at 0400Z until 23 April 2026 at 2000Z.",
+      "source": "NAVAREA IX 086/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0060",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 086/2026?",
+      "answer": "Vessels are to keep clear of the transfer pair by not less than 2 nm and are not to pass between the two ships. The warning remains in force from 19 April 2026 at 0400Z until 23 April 2026 at 2000Z.",
+      "source": "NAVAREA IX 086/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0061",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 090/2026 say?",
+      "answer": "NAVAREA IX 090/2026, Oil spill response exercise in Area Charlie. An exercise will be conducted in the area involving multiple surface units and aircraft. Area affected: Area Charlie, south-west of Porbandar, bounded by 20-48.0N 69-36.0E, 21-12.0N 69-36.0E, 21-12.0N 70-00.0E, 20-48.0N 70-00.0E. The warning is in force from 24 April 2026 at 0500Z until 28 April 2026 at 1700Z.",
+      "source": "NAVAREA IX 090/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0062",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 090/2026?",
+      "answer": "Vessels are to keep clear of the area and to comply with any instructions given by the exercise control authority. The warning remains in force from 24 April 2026 at 0500Z until 28 April 2026 at 1700Z.",
+      "source": "NAVAREA IX 090/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0063",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 093/2026 say?",
+      "answer": "COASTAL WARNING 093/2026, Fishing fleet concentration, off Porbandar. A high concentration of fishing vessels and deployed gear is present in the area. Gear may be unlit at night. Area affected: the area described in the warning text. The warning is in force from 14 April 2026 at 0000Z until 4 May 2026 at 2359Z.",
+      "source": "COASTAL WARNING 093/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0064",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 093/2026?",
+      "answer": "Vessels are to reduce speed, keep a sharp lookout for small craft and gear, and avoid passing through the concentration where practicable. The warning remains in force from 14 April 2026 at 0000Z until 4 May 2026 at 2359Z.",
+      "source": "COASTAL WARNING 093/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0065",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 095/2026 say?",
+      "answer": "NAVAREA IX 095/2026, GNSS interference reported, north-east Arabian Sea. Merchant vessels have reported intermittent loss of GNSS position fixing and degraded accuracy in the area. Interference may also affect AIS reporting. Area affected: the area described in the warning text. The warning is in force from 26 April 2026 at 0000Z until 8 May 2026 at 2359Z.",
+      "source": "NAVAREA IX 095/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0066",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 095/2026?",
+      "answer": "Vessels are to maintain a paper plot, use alternative position fixing, and report interference with position, time and details to the nearest coast radio station. The warning remains in force from 26 April 2026 at 0000Z until 8 May 2026 at 2359Z.",
+      "source": "NAVAREA IX 095/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0067",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 097/2026 say?",
+      "answer": "NAVAREA IX 097/2026, Live firing exercise in Area Alpha. Naval units will conduct live firing exercises, including surface gunnery, inside the area during the stated periods. Area affected: Area Alpha, North Arabian Sea, bounded by 21-54.0N 68-24.0E, 22-48.0N 68-24.0E, 22-48.0N 69-24.0E, 21-54.0N 69-24.0E. The warning is in force from 5 May 2026 at 0600Z until 8 May 2026 at 1800Z.",
+      "source": "NAVAREA IX 097/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0068",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 097/2026?",
+      "answer": "Vessels are to remain clear of the area at all times. Any vessel unable to comply is to contact exercise control on VHF channel 16. The warning remains in force from 5 May 2026 at 0600Z until 8 May 2026 at 1800Z.",
+      "source": "NAVAREA IX 097/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0069",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 101/2026 say?",
+      "answer": "NAVAREA IX 101/2026, Seabed survey operations in Area Bravo. A survey vessel will conduct seabed mapping on a restricted manoeuvrability basis, with towed equipment astern. Area affected: Area Bravo, approaches to Mundra, bounded by 22-12.0N 69-30.0E, 22-36.0N 69-30.0E, 22-36.0N 69-54.0E, 22-12.0N 69-54.0E. The warning is in force from 4 May 2026 at 0500Z until 21 May 2026 at 1700Z.",
+      "source": "NAVAREA IX 101/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0070",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 101/2026?",
+      "answer": "Vessels are to give a wide berth, pass at not less than 3 nm, and avoid passing within 2 nm astern of the survey vessel. The warning remains in force from 4 May 2026 at 0500Z until 21 May 2026 at 1700Z.",
+      "source": "NAVAREA IX 101/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0071",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 105/2026 say?",
+      "answer": "NAVAREA IX 105/2026, Cable repair operations in Area Charlie. A cable ship is laying or repairing submarine cable in the area and will be restricted in her ability to manoeuvre. Area affected: Area Charlie, south-west of Porbandar, bounded by 20-48.0N 69-36.0E, 21-12.0N 69-36.0E, 21-12.0N 70-00.0E, 20-48.0N 70-00.0E. The warning is in force from 12 May 2026 at 0500Z until 26 May 2026 at 1700Z.",
+      "source": "NAVAREA IX 105/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0072",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 105/2026?",
+      "answer": "Vessels are to keep clear by not less than 2 nm and are not to anchor, trawl or dredge inside the area. The warning remains in force from 12 May 2026 at 0500Z until 26 May 2026 at 1700Z.",
+      "source": "NAVAREA IX 105/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0073",
+      "topic": "navigational_warnings",
+      "question": "What does NOTICE TO MARINERS 09/2026 say?",
+      "answer": "NOTICE TO MARINERS 09/2026, Chart correction, Mundra approaches. A chart correction has been issued for the area named in this notice. Depths, lights or channel limits differ from the current edition. Area affected: the area described in the warning text. The warning is in force from 1 May 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 09/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0074",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NOTICE TO MARINERS 09/2026?",
+      "answer": "Correct the affected chart and publications before the next transit. Do not rely on the superseded edition. The warning remains in force from 1 May 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 09/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0075",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 109/2026 say?",
+      "answer": "NAVAREA IX 109/2026, Tanker transfer operations in Area Delta. Two tankers will conduct a ship to ship transfer of crude oil at anchor inside the area. Area affected: Area Delta, off Mumbai, bounded by 19-30.0N 71-30.0E, 20-00.0N 71-30.0E, 20-00.0N 72-00.0E, 19-30.0N 72-00.0E. The warning is in force from 17 May 2026 at 0400Z until 21 May 2026 at 2000Z.",
+      "source": "NAVAREA IX 109/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0076",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 109/2026?",
+      "answer": "Vessels are to keep clear of the transfer pair by not less than 2 nm and are not to pass between the two ships. The warning remains in force from 17 May 2026 at 0400Z until 21 May 2026 at 2000Z.",
+      "source": "NAVAREA IX 109/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0077",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 112/2026 say?",
+      "answer": "COASTAL WARNING 112/2026, Pre-monsoon heavy weather advisory, west India coast. Heavy weather is expected in the area with rough to very rough seas and reduced visibility in rain squalls. Area affected: the area described in the warning text. The warning is in force from 25 May 2026 at 0000Z until 15 June 2026 at 2359Z.",
+      "source": "COASTAL WARNING 112/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0078",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 112/2026?",
+      "answer": "Vessels are to secure deck cargo, review weather routeing, and report any difficulty to the nearest coast radio station. The warning remains in force from 25 May 2026 at 0000Z until 15 June 2026 at 2359Z.",
+      "source": "COASTAL WARNING 112/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0079",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 115/2026 say?",
+      "answer": "NAVAREA IX 115/2026, Drifting fishing gear, south-west of Porbandar. A drifting object, partly submerged and difficult to detect by radar, has been reported in the area. Area affected: the area described in the warning text. The warning is in force from 20 May 2026 at 0900Z until 5 June 2026 at 1800Z.",
+      "source": "NAVAREA IX 115/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0080",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 115/2026?",
+      "answer": "Vessels are to keep a sharp lookout, reduce speed in poor visibility, and report any sighting to the nearest coast radio station. The warning remains in force from 20 May 2026 at 0900Z until 5 June 2026 at 1800Z.",
+      "source": "NAVAREA IX 115/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0081",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 116/2026 say?",
+      "answer": "COASTAL WARNING 116/2026, Port entry restriction, Mundra. A port entry restriction is in force for the port named in this warning. Area affected: the area described in the warning text. The warning is in force from 28 May 2026 at 0000Z until 10 June 2026 at 2359Z.",
+      "source": "COASTAL WARNING 116/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0082",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 116/2026?",
+      "answer": "Vessels are to comply with the restriction, confirm the current status with port control before arrival, and adjust ETA as directed. The warning remains in force from 28 May 2026 at 0000Z until 10 June 2026 at 2359Z.",
+      "source": "COASTAL WARNING 116/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0083",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 118/2026 say?",
+      "answer": "NAVAREA IX 118/2026, South-west monsoon advisory, North Arabian Sea. Heavy weather is expected in the area with rough to very rough seas and reduced visibility in rain squalls. Area affected: the area described in the warning text. The warning is in force from 1 June 2026 at 0000Z until 15 September 2026 at 2359Z.",
+      "source": "NAVAREA IX 118/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0084",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 118/2026?",
+      "answer": "Vessels are to secure deck cargo, review weather routeing, and report any difficulty to the nearest coast radio station. The warning remains in force from 1 June 2026 at 0000Z until 15 September 2026 at 2359Z.",
+      "source": "NAVAREA IX 118/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0085",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 121/2026 say?",
+      "answer": "NAVAREA IX 121/2026, Live firing exercise in Area Alpha. Naval units will conduct live firing exercises, including surface gunnery, inside the area during the stated periods. Area affected: Area Alpha, North Arabian Sea, bounded by 21-54.0N 68-24.0E, 22-48.0N 68-24.0E, 22-48.0N 69-24.0E, 21-54.0N 69-24.0E. The warning is in force from 9 June 2026 at 0600Z until 12 June 2026 at 1800Z.",
+      "source": "NAVAREA IX 121/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0086",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 121/2026?",
+      "answer": "Vessels are to remain clear of the area at all times. Any vessel unable to comply is to contact exercise control on VHF channel 16. The warning remains in force from 9 June 2026 at 0600Z until 12 June 2026 at 1800Z.",
+      "source": "NAVAREA IX 121/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0087",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 125/2026 say?",
+      "answer": "NAVAREA IX 125/2026, Seabed survey operations in Area Bravo. A survey vessel will conduct seabed mapping on a restricted manoeuvrability basis, with towed equipment astern. Area affected: Area Bravo, approaches to Mundra, bounded by 22-12.0N 69-30.0E, 22-36.0N 69-30.0E, 22-36.0N 69-54.0E, 22-12.0N 69-54.0E. The warning is in force from 2 June 2026 at 0500Z until 18 June 2026 at 1700Z.",
+      "source": "NAVAREA IX 125/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0088",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 125/2026?",
+      "answer": "Vessels are to give a wide berth, pass at not less than 3 nm, and avoid passing within 2 nm astern of the survey vessel. The warning remains in force from 2 June 2026 at 0500Z until 18 June 2026 at 1700Z.",
+      "source": "NAVAREA IX 125/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0089",
+      "topic": "navigational_warnings",
+      "question": "What does NOTICE TO MARINERS 11/2026 say?",
+      "answer": "NOTICE TO MARINERS 11/2026, Chart correction, Deendayal to Vadinar. A chart correction has been issued for the area named in this notice. Depths, lights or channel limits differ from the current edition. Area affected: the area described in the warning text. The warning is in force from 1 June 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 11/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0090",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NOTICE TO MARINERS 11/2026?",
+      "answer": "Correct the affected chart and publications before the next transit. Do not rely on the superseded edition. The warning remains in force from 1 June 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 11/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0091",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 129/2026 say?",
+      "answer": "NAVAREA IX 129/2026, Tanker transfer operations suspended in Area Delta. Two tankers will conduct a ship to ship transfer of crude oil at anchor inside the area. Area affected: Area Delta, off Mumbai, bounded by 19-30.0N 71-30.0E, 20-00.0N 71-30.0E, 20-00.0N 72-00.0E, 19-30.0N 72-00.0E. The warning is in force from 8 June 2026 at 0400Z until 30 June 2026 at 2359Z.",
+      "source": "NAVAREA IX 129/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0092",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 129/2026?",
+      "answer": "Vessels are to keep clear of the transfer pair by not less than 2 nm and are not to pass between the two ships. The warning remains in force from 8 June 2026 at 0400Z until 30 June 2026 at 2359Z.",
+      "source": "NAVAREA IX 129/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0093",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 133/2026 say?",
+      "answer": "NAVAREA IX 133/2026, GNSS interference reported, north-east Arabian Sea. Merchant vessels have reported intermittent loss of GNSS position fixing and degraded accuracy in the area. Interference may also affect AIS reporting. Area affected: the area described in the warning text. The warning is in force from 15 June 2026 at 0000Z until 27 June 2026 at 2359Z.",
+      "source": "NAVAREA IX 133/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0094",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 133/2026?",
+      "answer": "Vessels are to maintain a paper plot, use alternative position fixing, and report interference with position, time and details to the nearest coast radio station. The warning remains in force from 15 June 2026 at 0000Z until 27 June 2026 at 2359Z.",
+      "source": "NAVAREA IX 133/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0095",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 136/2026 say?",
+      "answer": "COASTAL WARNING 136/2026, Unlit buoy, Okha approach. The aid to navigation named in this warning is off station or is not exhibiting its charted characteristic. Area affected: the area described in the warning text. The warning is in force from 10 June 2026 at 0800Z until 28 June 2026 at 1200Z.",
+      "source": "COASTAL WARNING 136/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0096",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 136/2026?",
+      "answer": "Vessels are to navigate with caution, use charted soundings, and report the actual condition of the aid to the nearest coast radio station. The warning remains in force from 10 June 2026 at 0800Z until 28 June 2026 at 1200Z.",
+      "source": "COASTAL WARNING 136/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0097",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 139/2026 say?",
+      "answer": "COASTAL WARNING 139/2026, Search and rescue exercise, Gulf of Kutch. An exercise will be conducted in the area involving multiple surface units and aircraft. Area affected: the area described in the warning text. The warning is in force from 22 June 2026 at 0500Z until 24 June 2026 at 1700Z.",
+      "source": "COASTAL WARNING 139/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0098",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 139/2026?",
+      "answer": "Vessels are to keep clear of the area and to comply with any instructions given by the exercise control authority. The warning remains in force from 22 June 2026 at 0500Z until 24 June 2026 at 1700Z.",
+      "source": "COASTAL WARNING 139/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0099",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 141/2026 say?",
+      "answer": "NAVAREA IX 141/2026, Live firing exercise in Area Alpha. Naval units will conduct live firing exercises, including surface gunnery, inside the area during the stated periods. Area affected: Area Alpha, North Arabian Sea, bounded by 21-54.0N 68-24.0E, 22-48.0N 68-24.0E, 22-48.0N 69-24.0E, 21-54.0N 69-24.0E. The warning is in force from 7 July 2026 at 0600Z until 10 July 2026 at 1800Z.",
+      "source": "NAVAREA IX 141/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0100",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 141/2026?",
+      "answer": "Vessels are to remain clear of the area at all times. Any vessel unable to comply is to contact exercise control on VHF channel 16. The warning remains in force from 7 July 2026 at 0600Z until 10 July 2026 at 1800Z.",
+      "source": "NAVAREA IX 141/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0101",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 145/2026 say?",
+      "answer": "NAVAREA IX 145/2026, Seabed survey operations in Area Bravo. A survey vessel will conduct seabed mapping on a restricted manoeuvrability basis, with towed equipment astern. Area affected: Area Bravo, approaches to Mundra, bounded by 22-12.0N 69-30.0E, 22-36.0N 69-30.0E, 22-36.0N 69-54.0E, 22-12.0N 69-54.0E. The warning is in force from 6 July 2026 at 0500Z until 23 July 2026 at 1700Z.",
+      "source": "NAVAREA IX 145/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0102",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 145/2026?",
+      "answer": "Vessels are to give a wide berth, pass at not less than 3 nm, and avoid passing within 2 nm astern of the survey vessel. The warning remains in force from 6 July 2026 at 0500Z until 23 July 2026 at 1700Z.",
+      "source": "NAVAREA IX 145/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0103",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 148/2026 say?",
+      "answer": "COASTAL WARNING 148/2026, Heavy weather advisory, west India coast. Heavy weather is expected in the area with rough to very rough seas and reduced visibility in rain squalls. Area affected: the area described in the warning text. The warning is in force from 4 July 2026 at 0000Z until 31 July 2026 at 2359Z.",
+      "source": "COASTAL WARNING 148/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0104",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 148/2026?",
+      "answer": "Vessels are to secure deck cargo, review weather routeing, and report any difficulty to the nearest coast radio station. The warning remains in force from 4 July 2026 at 0000Z until 31 July 2026 at 2359Z.",
+      "source": "COASTAL WARNING 148/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0105",
+      "topic": "navigational_warnings",
+      "question": "What does NOTICE TO MARINERS 13/2026 say?",
+      "answer": "NOTICE TO MARINERS 13/2026, Chart correction, Vadinar to Okha. A chart correction has been issued for the area named in this notice. Depths, lights or channel limits differ from the current edition. Area affected: the area described in the warning text. The warning is in force from 1 July 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 13/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0106",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NOTICE TO MARINERS 13/2026?",
+      "answer": "Correct the affected chart and publications before the next transit. Do not rely on the superseded edition. The warning remains in force from 1 July 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 13/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0107",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 151/2026 say?",
+      "answer": "NAVAREA IX 151/2026, Tanker transfer operations in Area Delta. Two tankers will conduct a ship to ship transfer of crude oil at anchor inside the area. Area affected: Area Delta, off Mumbai, bounded by 19-30.0N 71-30.0E, 20-00.0N 71-30.0E, 20-00.0N 72-00.0E, 19-30.0N 72-00.0E. The warning is in force from 19 July 2026 at 0400Z until 23 July 2026 at 2000Z.",
+      "source": "NAVAREA IX 151/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0108",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 151/2026?",
+      "answer": "Vessels are to keep clear of the transfer pair by not less than 2 nm and are not to pass between the two ships. The warning remains in force from 19 July 2026 at 0400Z until 23 July 2026 at 2000Z.",
+      "source": "NAVAREA IX 151/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0109",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 153/2026 say?",
+      "answer": "NAVAREA IX 153/2026, Drifting object, south-west of Porbandar. A drifting object, partly submerged and difficult to detect by radar, has been reported in the area. Area affected: the area described in the warning text. The warning is in force from 14 July 2026 at 0900Z until 28 July 2026 at 1800Z.",
+      "source": "NAVAREA IX 153/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0110",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 153/2026?",
+      "answer": "Vessels are to keep a sharp lookout, reduce speed in poor visibility, and report any sighting to the nearest coast radio station. The warning remains in force from 14 July 2026 at 0900Z until 28 July 2026 at 1800Z.",
+      "source": "NAVAREA IX 153/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0111",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 156/2026 say?",
+      "answer": "COASTAL WARNING 156/2026, Fishing fleet concentration, off Okha. A high concentration of fishing vessels and deployed gear is present in the area. Gear may be unlit at night. Area affected: the area described in the warning text. The warning is in force from 20 July 2026 at 0000Z until 8 August 2026 at 2359Z.",
+      "source": "COASTAL WARNING 156/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0112",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 156/2026?",
+      "answer": "Vessels are to reduce speed, keep a sharp lookout for small craft and gear, and avoid passing through the concentration where practicable. The warning remains in force from 20 July 2026 at 0000Z until 8 August 2026 at 2359Z.",
+      "source": "COASTAL WARNING 156/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0113",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 158/2026 say?",
+      "answer": "NAVAREA IX 158/2026, GNSS interference reported, north-east Arabian Sea. Merchant vessels have reported intermittent loss of GNSS position fixing and degraded accuracy in the area. Interference may also affect AIS reporting. Area affected: the area described in the warning text. The warning is in force from 25 July 2026 at 0000Z until 6 August 2026 at 2359Z.",
+      "source": "NAVAREA IX 158/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0114",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 158/2026?",
+      "answer": "Vessels are to maintain a paper plot, use alternative position fixing, and report interference with position, time and details to the nearest coast radio station. The warning remains in force from 25 July 2026 at 0000Z until 6 August 2026 at 2359Z.",
+      "source": "NAVAREA IX 158/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0115",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 161/2026 say?",
+      "answer": "NAVAREA IX 161/2026, Live firing exercise in Area Alpha. Naval units will conduct live firing exercises, including surface gunnery, inside the area during the stated periods. Area affected: Area Alpha, North Arabian Sea, bounded by 21-54.0N 68-24.0E, 22-48.0N 68-24.0E, 22-48.0N 69-24.0E, 21-54.0N 69-24.0E. The warning is in force from 11 August 2026 at 0600Z until 14 August 2026 at 1800Z.",
+      "source": "NAVAREA IX 161/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0116",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 161/2026?",
+      "answer": "Vessels are to remain clear of the area at all times. Any vessel unable to comply is to contact exercise control on VHF channel 16. The warning remains in force from 11 August 2026 at 0600Z until 14 August 2026 at 1800Z.",
+      "source": "NAVAREA IX 161/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0117",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 165/2026 say?",
+      "answer": "NAVAREA IX 165/2026, Seabed survey operations in Area Bravo. A survey vessel will conduct seabed mapping on a restricted manoeuvrability basis, with towed equipment astern. Area affected: Area Bravo, approaches to Mundra, bounded by 22-12.0N 69-30.0E, 22-36.0N 69-30.0E, 22-36.0N 69-54.0E, 22-12.0N 69-54.0E. The warning is in force from 4 August 2026 at 0500Z until 21 August 2026 at 1700Z.",
+      "source": "NAVAREA IX 165/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0118",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 165/2026?",
+      "answer": "Vessels are to give a wide berth, pass at not less than 3 nm, and avoid passing within 2 nm astern of the survey vessel. The warning remains in force from 4 August 2026 at 0500Z until 21 August 2026 at 1700Z.",
+      "source": "NAVAREA IX 165/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0119",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 169/2026 say?",
+      "answer": "NAVAREA IX 169/2026, Cable laying operations in Area Charlie. A cable ship is laying or repairing submarine cable in the area and will be restricted in her ability to manoeuvre. Area affected: Area Charlie, south-west of Porbandar, bounded by 20-48.0N 69-36.0E, 21-12.0N 69-36.0E, 21-12.0N 70-00.0E, 20-48.0N 70-00.0E. The warning is in force from 18 August 2026 at 0500Z until 2 September 2026 at 1700Z.",
+      "source": "NAVAREA IX 169/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0120",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 169/2026?",
+      "answer": "Vessels are to keep clear by not less than 2 nm and are not to anchor, trawl or dredge inside the area. The warning remains in force from 18 August 2026 at 0500Z until 2 September 2026 at 1700Z.",
+      "source": "NAVAREA IX 169/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0121",
+      "topic": "navigational_warnings",
+      "question": "What does NOTICE TO MARINERS 15/2026 say?",
+      "answer": "NOTICE TO MARINERS 15/2026, Chart correction, Okha approach. A chart correction has been issued for the area named in this notice. Depths, lights or channel limits differ from the current edition. Area affected: the area described in the warning text. The warning is in force from 1 August 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 15/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0122",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NOTICE TO MARINERS 15/2026?",
+      "answer": "Correct the affected chart and publications before the next transit. Do not rely on the superseded edition. The warning remains in force from 1 August 2026 at 0000Z until further notice.",
+      "source": "NOTICE TO MARINERS 15/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0123",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 171/2026 say?",
+      "answer": "NAVAREA IX 171/2026, Tanker transfer operations in Area Delta. Two tankers will conduct a ship to ship transfer of crude oil at anchor inside the area. Area affected: Area Delta, off Mumbai, bounded by 19-30.0N 71-30.0E, 20-00.0N 71-30.0E, 20-00.0N 72-00.0E, 19-30.0N 72-00.0E. The warning is in force from 20 August 2026 at 0400Z until 24 August 2026 at 2000Z.",
+      "source": "NAVAREA IX 171/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0124",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 171/2026?",
+      "answer": "Vessels are to keep clear of the transfer pair by not less than 2 nm and are not to pass between the two ships. The warning remains in force from 20 August 2026 at 0400Z until 24 August 2026 at 2000Z.",
+      "source": "NAVAREA IX 171/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0125",
+      "topic": "navigational_warnings",
+      "question": "What does COASTAL WARNING 173/2026 say?",
+      "answer": "COASTAL WARNING 173/2026, Unlit derelict, Gulf of Kutch approaches. A drifting object, partly submerged and difficult to detect by radar, has been reported in the area. Area affected: the area described in the warning text. The warning is in force from 6 August 2026 at 0900Z until 22 August 2026 at 1800Z.",
+      "source": "COASTAL WARNING 173/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0126",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for COASTAL WARNING 173/2026?",
+      "answer": "Vessels are to keep a sharp lookout, reduce speed in poor visibility, and report any sighting to the nearest coast radio station. The warning remains in force from 6 August 2026 at 0900Z until 22 August 2026 at 1800Z.",
+      "source": "COASTAL WARNING 173/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0127",
+      "topic": "navigational_warnings",
+      "question": "What does NAVAREA IX 175/2026 say?",
+      "answer": "NAVAREA IX 175/2026, GNSS interference reported, north-east Arabian Sea. Merchant vessels have reported intermittent loss of GNSS position fixing and degraded accuracy in the area. Interference may also affect AIS reporting. Area affected: the area described in the warning text. The warning is in force from 12 August 2026 at 0000Z until 24 August 2026 at 2359Z.",
+      "source": "NAVAREA IX 175/2026",
+      "tags": [
+        "detail"
+      ]
+    },
+    {
+      "id": "NAVW-0128",
+      "topic": "navigational_warnings",
+      "question": "What action is required of a merchant vessel for NAVAREA IX 175/2026?",
+      "answer": "Vessels are to maintain a paper plot, use alternative position fixing, and report interference with position, time and details to the nearest coast radio station. The warning remains in force from 12 August 2026 at 0000Z until 24 August 2026 at 2359Z.",
+      "source": "NAVAREA IX 175/2026",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "NAVW-0129",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 8 January 2026?",
+      "answer": "On 8 January 2026 the following warnings were in force: NAVAREA IX 006/2026 (Live firing exercise in Area Alpha); NAVAREA IX 009/2026 (Seabed survey operations in Area Bravo); COASTAL WARNING 012/2026 (Buoy off station, Okha approach); NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); COASTAL WARNING 021/2026 (Dredging, Deendayal approach channel).",
+      "source": "Warning status file, 8 January 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0130",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 18 January 2026?",
+      "answer": "On 18 January 2026 the following warnings were in force: NAVAREA IX 009/2026 (Seabed survey operations in Area Bravo); COASTAL WARNING 012/2026 (Buoy off station, Okha approach); NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NAVAREA IX 018/2026 (Drifting containers, south-west of Porbandar); COASTAL WARNING 021/2026 (Dredging, Deendayal approach channel).",
+      "source": "Warning status file, 18 January 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0131",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 27 January 2026?",
+      "answer": "On 27 January 2026 the following warnings were in force: NAVAREA IX 009/2026 (Seabed survey operations in Area Bravo); NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NAVAREA IX 018/2026 (Drifting containers, south-west of Porbandar); COASTAL WARNING 021/2026 (Dredging, Deendayal approach channel); NAVAREA IX 024/2026 (GNSS interference reported, north-east Arabian Sea).",
+      "source": "Warning status file, 27 January 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0132",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 8 February 2026?",
+      "answer": "On 8 February 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); COASTAL WARNING 021/2026 (Dredging, Deendayal approach channel); NAVAREA IX 034/2026 (Cable laying operations in Area Charlie).",
+      "source": "Warning status file, 8 February 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0133",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 18 February 2026?",
+      "answer": "On 18 February 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); COASTAL WARNING 021/2026 (Dredging, Deendayal approach channel); NAVAREA IX 034/2026 (Cable laying operations in Area Charlie); COASTAL WARNING 038/2026 (Fishing gear concentration, off Okha); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NAVAREA IX 041/2026 (Tanker transfer operations in Area Delta); COASTAL WARNING 048/2026 (Night entry restriction, Mundra).",
+      "source": "Warning status file, 18 February 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0134",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 27 February 2026?",
+      "answer": "On 27 February 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); COASTAL WARNING 021/2026 (Dredging, Deendayal approach channel); COASTAL WARNING 038/2026 (Fishing gear concentration, off Okha); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NAVAREA IX 045/2026 (Space launch vehicle debris, North Arabian Sea); COASTAL WARNING 048/2026 (Night entry restriction, Mundra); NAVAREA IX 050/2026 (Unlit derelict, Gulf of Kutch approaches).",
+      "source": "Warning status file, 27 February 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0135",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 8 March 2026?",
+      "answer": "On 8 March 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NAVAREA IX 050/2026 (Unlit derelict, Gulf of Kutch approaches); NAVAREA IX 052/2026 (Live firing exercise in Area Alpha); NAVAREA IX 056/2026 (Seabed survey operations in Area Bravo); COASTAL WARNING 059/2026 (Unlit buoy, Mundra approach); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths).",
+      "source": "Warning status file, 8 March 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0136",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 18 March 2026?",
+      "answer": "On 18 March 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NAVAREA IX 056/2026 (Seabed survey operations in Area Bravo); COASTAL WARNING 059/2026 (Unlit buoy, Mundra approach); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NAVAREA IX 067/2026 (GNSS interference reported, north-east Arabian Sea); COASTAL WARNING 070/2026 (Anchoring restriction, Vadinar offshore).",
+      "source": "Warning status file, 18 March 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0137",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 27 March 2026?",
+      "answer": "On 27 March 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NAVAREA IX 067/2026 (GNSS interference reported, north-east Arabian Sea); COASTAL WARNING 070/2026 (Anchoring restriction, Vadinar offshore); NAVAREA IX 072/2026 (Live firing exercise in Area Alpha); COASTAL WARNING 073/2026 (Dredger crossing, Deendayal to Mundra).",
+      "source": "Warning status file, 27 March 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0138",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 8 April 2026?",
+      "answer": "On 8 April 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); COASTAL WARNING 073/2026 (Dredger crossing, Deendayal to Mundra); NAVAREA IX 074/2026 (Live firing exercise in Area Alpha); NAVAREA IX 078/2026 (Seabed survey operations in Area Bravo); COASTAL WARNING 082/2026 (Buoy off station, Porbandar approach); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka).",
+      "source": "Warning status file, 8 April 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0139",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 18 April 2026?",
+      "answer": "On 18 April 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NAVAREA IX 078/2026 (Seabed survey operations in Area Bravo); COASTAL WARNING 082/2026 (Buoy off station, Porbandar approach); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); COASTAL WARNING 093/2026 (Fishing fleet concentration, off Porbandar).",
+      "source": "Warning status file, 18 April 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0140",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 27 April 2026?",
+      "answer": "On 27 April 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); NAVAREA IX 090/2026 (Oil spill response exercise in Area Charlie); COASTAL WARNING 093/2026 (Fishing fleet concentration, off Porbandar); NAVAREA IX 095/2026 (GNSS interference reported, north-east Arabian Sea).",
+      "source": "Warning status file, 27 April 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0141",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 8 May 2026?",
+      "answer": "On 8 May 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); NAVAREA IX 095/2026 (GNSS interference reported, north-east Arabian Sea); NAVAREA IX 097/2026 (Live firing exercise in Area Alpha); NAVAREA IX 101/2026 (Seabed survey operations in Area Bravo); NOTICE TO MARINERS 09/2026 (Chart correction, Mundra approaches).",
+      "source": "Warning status file, 8 May 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0142",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 18 May 2026?",
+      "answer": "On 18 May 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); NAVAREA IX 101/2026 (Seabed survey operations in Area Bravo); NAVAREA IX 105/2026 (Cable repair operations in Area Charlie); NOTICE TO MARINERS 09/2026 (Chart correction, Mundra approaches); NAVAREA IX 109/2026 (Tanker transfer operations in Area Delta).",
+      "source": "Warning status file, 18 May 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0143",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 27 May 2026?",
+      "answer": "On 27 May 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); NOTICE TO MARINERS 09/2026 (Chart correction, Mundra approaches); COASTAL WARNING 112/2026 (Pre-monsoon heavy weather advisory, west India coast); NAVAREA IX 115/2026 (Drifting fishing gear, south-west of Porbandar).",
+      "source": "Warning status file, 27 May 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0144",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 8 June 2026?",
+      "answer": "On 8 June 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); NOTICE TO MARINERS 09/2026 (Chart correction, Mundra approaches); COASTAL WARNING 112/2026 (Pre-monsoon heavy weather advisory, west India coast); COASTAL WARNING 116/2026 (Port entry restriction, Mundra); NAVAREA IX 118/2026 (South-west monsoon advisory, North Arabian Sea); NAVAREA IX 125/2026 (Seabed survey operations in Area Bravo); NOTICE TO MARINERS 11/2026 (Chart correction, Deendayal to Vadinar); NAVAREA IX 129/2026 (Tanker transfer operations suspended in Area Delta).",
+      "source": "Warning status file, 8 June 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0145",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 18 June 2026?",
+      "answer": "On 18 June 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); NOTICE TO MARINERS 09/2026 (Chart correction, Mundra approaches); NAVAREA IX 118/2026 (South-west monsoon advisory, North Arabian Sea); NAVAREA IX 125/2026 (Seabed survey operations in Area Bravo); NOTICE TO MARINERS 11/2026 (Chart correction, Deendayal to Vadinar); NAVAREA IX 129/2026 (Tanker transfer operations suspended in Area Delta); NAVAREA IX 133/2026 (GNSS interference reported, north-east Arabian Sea); COASTAL WARNING 136/2026 (Unlit buoy, Okha approach).",
+      "source": "Warning status file, 18 June 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0146",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 27 June 2026?",
+      "answer": "On 27 June 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); NOTICE TO MARINERS 09/2026 (Chart correction, Mundra approaches); NAVAREA IX 118/2026 (South-west monsoon advisory, North Arabian Sea); NOTICE TO MARINERS 11/2026 (Chart correction, Deendayal to Vadinar); NAVAREA IX 129/2026 (Tanker transfer operations suspended in Area Delta); NAVAREA IX 133/2026 (GNSS interference reported, north-east Arabian Sea); COASTAL WARNING 136/2026 (Unlit buoy, Okha approach).",
+      "source": "Warning status file, 27 June 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0147",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 8 July 2026?",
+      "answer": "On 8 July 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); NOTICE TO MARINERS 09/2026 (Chart correction, Mundra approaches); NAVAREA IX 118/2026 (South-west monsoon advisory, North Arabian Sea); NOTICE TO MARINERS 11/2026 (Chart correction, Deendayal to Vadinar); NAVAREA IX 141/2026 (Live firing exercise in Area Alpha); NAVAREA IX 145/2026 (Seabed survey operations in Area Bravo); COASTAL WARNING 148/2026 (Heavy weather advisory, west India coast); NOTICE TO MARINERS 13/2026 (Chart correction, Vadinar to Okha).",
+      "source": "Warning status file, 8 July 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0148",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 18 July 2026?",
+      "answer": "On 18 July 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); NOTICE TO MARINERS 09/2026 (Chart correction, Mundra approaches); NAVAREA IX 118/2026 (South-west monsoon advisory, North Arabian Sea); NOTICE TO MARINERS 11/2026 (Chart correction, Deendayal to Vadinar); NAVAREA IX 145/2026 (Seabed survey operations in Area Bravo); COASTAL WARNING 148/2026 (Heavy weather advisory, west India coast); NOTICE TO MARINERS 13/2026 (Chart correction, Vadinar to Okha); NAVAREA IX 153/2026 (Drifting object, south-west of Porbandar).",
+      "source": "Warning status file, 18 July 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0149",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 27 July 2026?",
+      "answer": "On 27 July 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); NOTICE TO MARINERS 09/2026 (Chart correction, Mundra approaches); NAVAREA IX 118/2026 (South-west monsoon advisory, North Arabian Sea); NOTICE TO MARINERS 11/2026 (Chart correction, Deendayal to Vadinar); COASTAL WARNING 148/2026 (Heavy weather advisory, west India coast); NOTICE TO MARINERS 13/2026 (Chart correction, Vadinar to Okha); NAVAREA IX 153/2026 (Drifting object, south-west of Porbandar); COASTAL WARNING 156/2026 (Fishing fleet concentration, off Okha); NAVAREA IX 158/2026 (GNSS interference reported, north-east Arabian Sea).",
+      "source": "Warning status file, 27 July 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0150",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 8 August 2026?",
+      "answer": "On 8 August 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); NOTICE TO MARINERS 09/2026 (Chart correction, Mundra approaches); NAVAREA IX 118/2026 (South-west monsoon advisory, North Arabian Sea); NOTICE TO MARINERS 11/2026 (Chart correction, Deendayal to Vadinar); NOTICE TO MARINERS 13/2026 (Chart correction, Vadinar to Okha); COASTAL WARNING 156/2026 (Fishing fleet concentration, off Okha); NAVAREA IX 165/2026 (Seabed survey operations in Area Bravo); NOTICE TO MARINERS 15/2026 (Chart correction, Okha approach); COASTAL WARNING 173/2026 (Unlit derelict, Gulf of Kutch approaches).",
+      "source": "Warning status file, 8 August 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0151",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 18 August 2026?",
+      "answer": "On 18 August 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); NOTICE TO MARINERS 09/2026 (Chart correction, Mundra approaches); NAVAREA IX 118/2026 (South-west monsoon advisory, North Arabian Sea); NOTICE TO MARINERS 11/2026 (Chart correction, Deendayal to Vadinar); NOTICE TO MARINERS 13/2026 (Chart correction, Vadinar to Okha); NAVAREA IX 165/2026 (Seabed survey operations in Area Bravo); NAVAREA IX 169/2026 (Cable laying operations in Area Charlie); NOTICE TO MARINERS 15/2026 (Chart correction, Okha approach); COASTAL WARNING 173/2026 (Unlit derelict, Gulf of Kutch approaches); NAVAREA IX 175/2026 (GNSS interference reported, north-east Arabian Sea).",
+      "source": "Warning status file, 18 August 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0152",
+      "topic": "navigational_warnings",
+      "question": "Which navigational warnings were in force in the exercise area on 27 August 2026?",
+      "answer": "On 27 August 2026 the following warnings were in force: NOTICE TO MARINERS 01/2026 (Chart correction, Vadinar light); NOTICE TO MARINERS 03/2026 (Wreck marked, south-west of Diu); NOTICE TO MARINERS 05/2026 (Chart correction, Deendayal channel depths); NOTICE TO MARINERS 07/2026 (Chart correction, Okha to Dwarka); NOTICE TO MARINERS 09/2026 (Chart correction, Mundra approaches); NAVAREA IX 118/2026 (South-west monsoon advisory, North Arabian Sea); NOTICE TO MARINERS 11/2026 (Chart correction, Deendayal to Vadinar); NOTICE TO MARINERS 13/2026 (Chart correction, Vadinar to Okha); NAVAREA IX 169/2026 (Cable laying operations in Area Charlie); NOTICE TO MARINERS 15/2026 (Chart correction, Okha approach).",
+      "source": "Warning status file, 27 August 2026",
+      "tags": [
+        "in-force"
+      ]
+    },
+    {
+      "id": "NAVW-0153",
+      "topic": "navigational_warnings",
+      "question": "List every live firing warning issued between January and August 2026.",
+      "answer": "Live firing warnings were issued in Area Alpha as follows: NAVAREA IX 006/2026 from 8 to 16 January, 031/2026 from 9 to 13 February, 052/2026 from 8 to 15 March, 072/2026 from 27 to 29 March, 074/2026 from 7 to 10 April, 097/2026 from 5 to 8 May, 121/2026 from 9 to 12 June, 141/2026 from 7 to 10 July and 161/2026 from 11 to 14 August. That is nine live firing warnings in eight months.",
+      "source": "Warning file, hazard query",
+      "tags": [
+        "aggregate",
+        "live-firing"
+      ]
+    },
+    {
+      "id": "NAVW-0154",
+      "topic": "navigational_warnings",
+      "question": "How many GNSS interference warnings were issued and when?",
+      "answer": "6 GNSS interference warnings were issued: 024/2026 in late January, 067/2026 in March, 095/2026 in late April, 133/2026 in June, 158/2026 in late July and 175/2026 in August. Each reported intermittent loss of position fixing and degraded accuracy.",
+      "source": "Warning file, hazard query",
+      "tags": [
+        "aggregate",
+        "gnss"
+      ]
+    },
+    {
+      "id": "NAVW-0155",
+      "topic": "navigational_warnings",
+      "question": "Which warnings affected the approach to Mundra between January and August 2026?",
+      "answer": "Mundra was affected by 048/2026, a night entry restriction in force from 18 February to 6 March, 059/2026 for an unlit buoy from 2 to 18 March, 116/2026, a port entry restriction from 28 May to 10 June, and by the recurring seabed survey warnings in Area Bravo which covered the approaches in January, March, April, May, June, July and August.",
+      "source": "Warning file, port query",
+      "tags": [
+        "aggregate",
+        "port"
+      ]
+    },
+    {
+      "id": "NAVW-0156",
+      "topic": "navigational_warnings",
+      "question": "Was Area Alpha under a live firing warning on 12 March 2026?",
+      "answer": "Yes. NAVAREA IX 052/2026, live firing exercise in Area Alpha, was in force from 8 March 2026 at 0600Z until 15 March 2026 at 1800Z. Any vessel transiting Area Alpha on 12 March was inside an active live firing area.",
+      "source": "NAVAREA IX 052/2026",
+      "tags": [
+        "story",
+        "live-firing"
+      ]
+    },
+    {
+      "id": "NAVW-0157",
+      "topic": "navigational_warnings",
+      "question": "Did any tracked vessel pass through Area Alpha while a live firing warning was in force?",
+      "answer": "Yes, on six occasions. MV AL RAYYAN STAR (MMSI 470123456) between 0830Z and 1115Z on 27 March 2026, while NAVAREA IX 072/2026 was in force; MV AL RAYYAN STAR (MMSI 470123456) between 1700Z and 1945Z on 8 April 2026, while NAVAREA IX 074/2026 was in force; MT GULF PIONEER (MMSI 419876543) between 1250Z and 1650Z on 14 January 2026, while NAVAREA IX 006/2026 was in force; MT GULF PIONEER (MMSI 419876543) between 0930Z and 1330Z on 12 March 2026, while NAVAREA IX 052/2026 was in force; MT GULF PIONEER (MMSI 419876543) between 1035Z and 1435Z on 29 March 2026, while NAVAREA IX 072/2026 was in force; MT GULF PIONEER (MMSI 419876543) between 1240Z and 1655Z on 10 April 2026, while NAVAREA IX 074/2026 was in force. Each vessel should have been warned by the exercise control authority and advised to clear the area.",
+      "source": "Warning file cross-checked against AIS passage records",
+      "tags": [
+        "story",
+        "live-firing"
+      ]
+    }
+  ]
+}

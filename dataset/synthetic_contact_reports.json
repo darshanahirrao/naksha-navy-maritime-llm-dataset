@@ -1,0 +1,1178 @@
+{
+  "dataset": "synthetic_contact_reports",
+  "title": "Synthetic contact reports filed by exercise units, January to August 2026",
+  "version": "1.0.0",
+  "generated": "2026-09-22",
+  "coverage": {
+    "from": "2026-01-01",
+    "to": "2026-08-31"
+  },
+  "format": "question-answer",
+  "synthetic": true,
+  "not_for_operational_use": true,
+  "disclaimer": "SYNTHETIC TRAINING DATA. Every vessel, IMO and MMSI number, owner, port call, warning, contact, incident and statistic in this file is fictional and was generated for a training lecture. Nothing here describes a real ship, broadcast, incident or port condition, and nothing here may be used for navigation, intelligence or any operational decision.",
+  "count": 115,
+  "examples": [
+    {
+      "id": "SCR-0001",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 0435Z on 6 January 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-04 at 22.31N 69.05E, 10 nm south of Okha. The contact was classified as traditional wooden dhow, affiliation unknown, confidence probable, using radar and visual.",
+      "source": "Contact report SCR-2026-002",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0002",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-04 reported?",
+      "answer": "Contact C-04 was reported at 22.31N 69.05E, 10 nm south of Okha, at 0435Z on 6 January 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-002",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0003",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-04 on 6 January 2026?",
+      "answer": "Challenged on VHF channel 16, no response. Reported to operations room. Maintained surveillance for 40 minutes. Remarks: Dark timber hull, single mast, no AIS transmission, speed 6 knots on course 075. Consistent with a dhow working the Kutch approaches.",
+      "source": "Contact report SCR-2026-002",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0004",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Bravo report at 1120Z on 19 January 2026?",
+      "answer": "Exercise Unit Bravo reported contact C-07 at 22.10N 68.90E, 24 nm south-south-west of Okha. The contact was classified as fishing vessel concentration, affiliation neutral, confidence confirmed, using radar and visual.",
+      "source": "Contact report SCR-2026-005",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0005",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-07 reported?",
+      "answer": "Contact C-07 was reported at 22.10N 68.90E, 24 nm south-south-west of Okha, at 1120Z on 19 January 2026 by Exercise Unit Bravo.",
+      "source": "Contact report SCR-2026-005",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0006",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-07 on 19 January 2026?",
+      "answer": "Area reported to operations room and passed to shipping report. Remarks: Eleven small craft working in a 6 nm box, most with class B AIS only, several with no AIS. Gear deployed and partly unlit.",
+      "source": "Contact report SCR-2026-005",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0007",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Bravo report at 1602Z on 26 January 2026?",
+      "answer": "Exercise Unit Bravo reported contact C-81 at 22.44N 69.14E, 4 nm east-south-east of Okha. The contact was classified as merchant crude oil tanker, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MT GULF PIONEER, MMSI 419876543.",
+      "source": "Contact report SCR-2026-081",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0008",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-81 reported?",
+      "answer": "Contact C-81 was reported at 22.44N 69.14E, 4 nm east-south-east of Okha, at 1602Z on 26 January 2026 by Exercise Unit Bravo.",
+      "source": "Contact report SCR-2026-081",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0009",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-81 on 26 January 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 12.4 m match the registry record. Course 87 degrees, speed 12.5 knots.",
+      "source": "Contact report SCR-2026-081",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0010",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Charlie report at 2122Z on 28 January 2026?",
+      "answer": "Exercise Unit Charlie reported contact C-82 at 19.27N 70.89E, 86 nm south of Diu Head, India. The contact was classified as merchant container ship, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MV CORAL HORIZON, MMSI 353136000.",
+      "source": "Contact report SCR-2026-082",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0011",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-82 reported?",
+      "answer": "Contact C-82 was reported at 19.27N 70.89E, 86 nm south of Diu Head, India, at 2122Z on 28 January 2026 by Exercise Unit Charlie.",
+      "source": "Contact report SCR-2026-082",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0012",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-82 on 28 January 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 10.9 m match the registry record. Course 159 degrees, speed 16.5 knots.",
+      "source": "Contact report SCR-2026-082",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0013",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 0804Z on 2 February 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-83 at 7.14N 79.40E, 29 nm west-north-west of Colombo. The contact was classified as merchant general cargo ship, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MV AL RAYYAN STAR, MMSI 470123456.",
+      "source": "Contact report SCR-2026-083",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0014",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-83 reported?",
+      "answer": "Contact C-83 was reported at 7.14N 79.40E, 29 nm west-north-west of Colombo, at 0804Z on 2 February 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-083",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0015",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-83 on 2 February 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 6.8 m match the registry record. Course 296 degrees, speed 13.0 knots.",
+      "source": "Contact report SCR-2026-083",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0016",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 0815Z on 2 February 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-09 at 21.62N 69.31E, 16 nm west of Porbandar. The contact was classified as fast boat, suspect approach, affiliation suspect, confidence probable, using radar, visual and AIS.",
+      "source": "Contact report SCR-2026-009",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0017",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-09 reported?",
+      "answer": "Contact C-09 was reported at 21.62N 69.31E, 16 nm west of Porbandar, at 0815Z on 2 February 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-009",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0018",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-09 on 2 February 2026?",
+      "answer": "Escalated to operations room. Merchant vessel advised to increase speed and alter course away. Boat broke off after 12 minutes. Remarks: Skiff about 12 m, two outboard engines, speed 24 knots, no AIS, no registration marks. Closed to 1.5 nm on the port bow of a bulk carrier before turning away.",
+      "source": "Contact report SCR-2026-009",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0019",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 0742Z on 14 February 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-12 at 21.53N 69.24E, 21 nm west-south-west of Porbandar. The contact was classified as traditional wooden dhow, affiliation unknown, confidence probable, using radar and visual.",
+      "source": "Contact report SCR-2026-011",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0020",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-12 reported?",
+      "answer": "Contact C-12 was reported at 21.53N 69.24E, 21 nm west-south-west of Porbandar, at 0742Z on 14 February 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-011",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0021",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-12 on 14 February 2026?",
+      "answer": "Challenged on VHF channel 16, no response. Reported to operations room. Photographed and tracked for 55 minutes. Remarks: Wooden hull, single mast, no AIS, no registration marks, speed 6 knots on course 090. Same profile as the contact reported on 6 January.",
+      "source": "Contact report SCR-2026-011",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0022",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Charlie report at 1930Z on 27 February 2026?",
+      "answer": "Exercise Unit Charlie reported contact C-15 at 22.28N 69.12E, 12 nm south-south-east of Okha. The contact was classified as small craft, type unknown, affiliation unknown, confidence possible, using radar only.",
+      "source": "Contact report SCR-2026-014",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0023",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-15 reported?",
+      "answer": "Contact C-15 was reported at 22.28N 69.12E, 12 nm south-south-east of Okha, at 1930Z on 27 February 2026 by Exercise Unit Charlie.",
+      "source": "Contact report SCR-2026-014",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0024",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-15 on 27 February 2026?",
+      "answer": "Tracked for 20 minutes, contact lost in sea clutter. Reported to operations room. Remarks: Unlit contact at night, low radar cross section, no AIS, estimated speed 7 knots. No visual identification possible.",
+      "source": "Contact report SCR-2026-014",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0025",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Bravo report at 0620Z on 5 March 2026?",
+      "answer": "Exercise Unit Bravo reported contact C-18 at 22.41N 69.68E, 4 nm south-south-west of Vadinar. The contact was classified as survey vessel, affiliation neutral, confidence confirmed, using AIS, radar and visual.",
+      "source": "Contact report SCR-2026-017",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0026",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-18 reported?",
+      "answer": "Contact C-18 was reported at 22.41N 69.68E, 4 nm south-south-west of Vadinar, at 0620Z on 5 March 2026 by Exercise Unit Bravo.",
+      "source": "Contact report SCR-2026-017",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0027",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-18 on 5 March 2026?",
+      "answer": "No action. Position passed to operations room for warning cross-check. Remarks: Vessel conducting seabed survey in Area Bravo on a restricted manoeuvrability basis with towed equipment astern. Matches the survey warning in force.",
+      "source": "Contact report SCR-2026-017",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0028",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 1045Z on 12 March 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-21 at 22.42N 69.05E, 3 nm south-south-west of Okha. The contact was classified as merchant tanker, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MT GULF PIONEER, MMSI 419876543.",
+      "source": "Contact report SCR-2026-021",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0029",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-21 reported?",
+      "answer": "Contact C-21 was reported at 22.42N 69.05E, 3 nm south-south-west of Okha, at 1045Z on 12 March 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-021",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0030",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-21 on 12 March 2026?",
+      "answer": "Position cross-checked against live firing warning. Vessel warned on VHF channel 16 and advised to clear the area to the south. Remarks: Vessel was inside Area Alpha while NAVAREA IX 052/2026 live firing warning was in force. AIS and radar tracks agreed. Ballast passage, draught 5.6 m, course 265, speed 13 knots.",
+      "source": "Contact report SCR-2026-021",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0031",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Bravo report at 2144Z on 13 March 2026?",
+      "answer": "Exercise Unit Bravo reported contact C-84 at 7.42N 77.46E, 145 nm west-north-west of Colombo. The contact was classified as merchant container ship, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MV CORAL HORIZON, MMSI 353136000.",
+      "source": "Contact report SCR-2026-084",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0032",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-84 reported?",
+      "answer": "Contact C-84 was reported at 7.42N 77.46E, 145 nm west-north-west of Colombo, at 2144Z on 13 March 2026 by Exercise Unit Bravo.",
+      "source": "Contact report SCR-2026-084",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0033",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-84 on 13 March 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 9.3 m match the registry record. Course 102 degrees, speed 15.0 knots.",
+      "source": "Contact report SCR-2026-084",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0034",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Charlie report at 1405Z on 18 March 2026?",
+      "answer": "Exercise Unit Charlie reported contact C-24 at 22.50N 68.80E, 15 nm west of Okha. The contact was classified as warship, affiliation friendly, confidence confirmed, using radar, visual and ESM.",
+      "source": "Contact report SCR-2026-024",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0035",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-24 reported?",
+      "answer": "Contact C-24 was reported at 22.50N 68.80E, 15 nm west of Okha, at 1405Z on 18 March 2026 by Exercise Unit Charlie.",
+      "source": "Contact report SCR-2026-024",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0036",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-24 on 18 March 2026?",
+      "answer": "Identified by exercise means and classified friendly. No action required. Remarks: Grey hull, warship profile, no AIS transmission, speed 18 knots. Identified as an exercise participant by ESM and challenge procedure.",
+      "source": "Contact report SCR-2026-024",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0037",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Charlie report at 1515Z on 18 March 2026?",
+      "answer": "Exercise Unit Charlie reported contact C-85 at 7.75N 78.11E, 114 nm west-north-west of Colombo. The contact was classified as merchant general cargo ship, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MV AL RAYYAN STAR, MMSI 470123456.",
+      "source": "Contact report SCR-2026-085",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0038",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-85 reported?",
+      "answer": "Contact C-85 was reported at 7.75N 78.11E, 114 nm west-north-west of Colombo, at 1515Z on 18 March 2026 by Exercise Unit Charlie.",
+      "source": "Contact report SCR-2026-085",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0039",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-85 on 18 March 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 7.5 m match the registry record. Course 296 degrees, speed 13.0 knots.",
+      "source": "Contact report SCR-2026-085",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0040",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 1442Z on 23 March 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-86 at 22.41N 68.50E, 32 nm west of Okha. The contact was classified as merchant crude oil tanker, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MT GULF PIONEER, MMSI 419876543.",
+      "source": "Contact report SCR-2026-086",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0041",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-86 reported?",
+      "answer": "Contact C-86 was reported at 22.41N 68.50E, 32 nm west of Okha, at 1442Z on 23 March 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-086",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0042",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-86 on 23 March 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 12.3 m match the registry record. Course 87 degrees, speed 12.5 knots.",
+      "source": "Contact report SCR-2026-086",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0043",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 0915Z on 27 March 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-27 at 22.68N 68.95E, 14 nm north-north-west of Okha. The contact was classified as merchant general cargo ship, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MV AL RAYYAN STAR, MMSI 470123456.",
+      "source": "Contact report SCR-2026-028",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0044",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-27 reported?",
+      "answer": "Contact C-27 was reported at 22.68N 68.95E, 14 nm north-north-west of Okha, at 0915Z on 27 March 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-028",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0045",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-27 on 27 March 2026?",
+      "answer": "Position cross-checked against live firing warning. Vessel informed of the warning by VHF and continued on passage. Remarks: Vessel passed through Area Alpha on an outbound passage from Mundra to Jebel Ali. NAVAREA IX 072/2026 live firing warning had come into force at 0600Z the same morning.",
+      "source": "Contact report SCR-2026-028",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0046",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Bravo report at 0910Z on 9 April 2026?",
+      "answer": "Exercise Unit Bravo reported contact C-31 at 21.10N 70.05E, 41 nm south-east of Porbandar. The contact was classified as helicopter, affiliation unknown, confidence probable, using radar and visual.",
+      "source": "Contact report SCR-2026-032",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0047",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-31 reported?",
+      "answer": "Contact C-31 was reported at 21.10N 70.05E, 41 nm south-east of Porbandar, at 0910Z on 9 April 2026 by Exercise Unit Bravo.",
+      "source": "Contact report SCR-2026-032",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0048",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-31 on 9 April 2026?",
+      "answer": "Reported to operations room. No action taken. Remarks: Single rotor helicopter, low level, transiting south-west, no identification marks visible. Not matched to any scheduled movement.",
+      "source": "Contact report SCR-2026-032",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0049",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 0300Z on 22 April 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-35 at 22.75N 69.55E, 11 nm west-south-west of Mundra. The contact was classified as fast boat, suspect approach, affiliation suspect, confidence probable, using radar, visual and AIS.",
+      "source": "Contact report SCR-2026-036",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0050",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-35 reported?",
+      "answer": "Contact C-35 was reported at 22.75N 69.55E, 11 nm west-south-west of Mundra, at 0300Z on 22 April 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-036",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0051",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-35 on 22 April 2026?",
+      "answer": "Escalated to operations room. Coast guard unit tasked. Boat departed to the north-east before interception. Remarks: Skiff closed to 1.8 nm on the stern of MV MALABAR EXPRESS at 0205Z. Speed 22 knots, no AIS, two persons visible in the dark. Target vessel reported the approach on VHF channel 16.",
+      "source": "Contact report SCR-2026-036",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0052",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Bravo report at 2239Z on 30 April 2026?",
+      "answer": "Exercise Unit Bravo reported contact C-87 at 8.51N 76.48E, 86 nm south of Kochi. The contact was classified as merchant general cargo ship, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MV AL RAYYAN STAR, MMSI 470123456.",
+      "source": "Contact report SCR-2026-087",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0053",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-87 reported?",
+      "answer": "Contact C-87 was reported at 8.51N 76.48E, 86 nm south of Kochi, at 2239Z on 30 April 2026 by Exercise Unit Bravo.",
+      "source": "Contact report SCR-2026-087",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0054",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-87 on 30 April 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 7.3 m match the registry record. Course 296 degrees, speed 13.0 knots.",
+      "source": "Contact report SCR-2026-087",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0055",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Charlie report at 0454Z on 3 May 2026?",
+      "answer": "Exercise Unit Charlie reported contact C-88 at 14.31N 72.88E, 278 nm south of Mumbai. The contact was classified as merchant container ship, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MV CORAL HORIZON, MMSI 353136000.",
+      "source": "Contact report SCR-2026-088",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0056",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-88 reported?",
+      "answer": "Contact C-88 was reported at 14.31N 72.88E, 278 nm south of Mumbai, at 0454Z on 3 May 2026 by Exercise Unit Charlie.",
+      "source": "Contact report SCR-2026-088",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0057",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-88 on 3 May 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 11.0 m match the registry record. Course 339 degrees, speed 16.5 knots.",
+      "source": "Contact report SCR-2026-088",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0058",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Charlie report at 1215Z on 7 May 2026?",
+      "answer": "Exercise Unit Charlie reported contact C-39 at 20.94N 69.82E, 44 nm south-south-east of Porbandar. The contact was classified as drifting container, affiliation not applicable, confidence confirmed, using radar and visual.",
+      "source": "Contact report SCR-2026-041",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0059",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-39 reported?",
+      "answer": "Contact C-39 was reported at 20.94N 69.82E, 44 nm south-south-east of Porbandar, at 1215Z on 7 May 2026 by Exercise Unit Charlie.",
+      "source": "Contact report SCR-2026-041",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0060",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-39 on 7 May 2026?",
+      "answer": "Position passed to operations room and to the next of the shipping report. Marked as a navigation hazard. Remarks: Two containers awash, low freeboard, matching the drifting containers warning issued in January. Hazard to small craft and fishing gear.",
+      "source": "Contact report SCR-2026-041",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0061",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 1018Z on 12 May 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-89 at 22.48N 67.88E, 66 nm west of Okha. The contact was classified as merchant crude oil tanker, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MT GULF PIONEER, MMSI 419876543.",
+      "source": "Contact report SCR-2026-089",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0062",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-89 reported?",
+      "answer": "Contact C-89 was reported at 22.48N 67.88E, 66 nm west of Okha, at 1018Z on 12 May 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-089",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0063",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-89 on 12 May 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 12.6 m match the registry record. Course 104 degrees, speed 12.5 knots.",
+      "source": "Contact report SCR-2026-089",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0064",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Bravo report at 1650Z on 24 May 2026?",
+      "answer": "Exercise Unit Bravo reported contact C-43 at 21.88N 69.42E, 18 nm north-west of Porbandar. The contact was classified as fishing vessel, affiliation neutral, confidence confirmed, using visual and AIS. Matched to FV SAGAR SETU, MMSI 419555777.",
+      "source": "Contact report SCR-2026-045",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0065",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-43 reported?",
+      "answer": "Contact C-43 was reported at 21.88N 69.42E, 18 nm north-west of Porbandar, at 1650Z on 24 May 2026 by Exercise Unit Bravo.",
+      "source": "Contact report SCR-2026-045",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0066",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-43 on 24 May 2026?",
+      "answer": "No action. Vessel advised of the fishing gear concentration warning in force. Remarks: Wooden trawler working out of Okha, class B AIS only, speed 4.5 knots, gear deployed. Home port displayed on the hull.",
+      "source": "Contact report SCR-2026-045",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0067",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 0740Z on 11 June 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-47 at 22.20N 69.35E, 22 nm south-east of Okha. The contact was classified as small craft, type unknown, affiliation unknown, confidence possible, using radar only.",
+      "source": "Contact report SCR-2026-049",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0068",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-47 reported?",
+      "answer": "Contact C-47 was reported at 22.20N 69.35E, 22 nm south-east of Okha, at 0740Z on 11 June 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-049",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0069",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-47 on 11 June 2026?",
+      "answer": "Contact lost in monsoon rain clutter. Reported to operations room. Remarks: Radar contact held for 8 minutes in heavy rain, no AIS, no visual. Monsoon conditions degraded detection range.",
+      "source": "Contact report SCR-2026-049",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0070",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Bravo report at 1423Z on 19 June 2026?",
+      "answer": "Exercise Unit Bravo reported contact C-90 at 8.99N 76.40E, 57 nm south of Kochi. The contact was classified as merchant general cargo ship, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MV AL RAYYAN STAR, MMSI 470123456.",
+      "source": "Contact report SCR-2026-090",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0071",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-90 reported?",
+      "answer": "Contact C-90 was reported at 8.99N 76.40E, 57 nm south of Kochi, at 1423Z on 19 June 2026 by Exercise Unit Bravo.",
+      "source": "Contact report SCR-2026-090",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0072",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-90 on 19 June 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 5.1 m match the registry record. Course 172 degrees, speed 12.0 knots.",
+      "source": "Contact report SCR-2026-090",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0073",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Charlie report at 1354Z on 24 June 2026?",
+      "answer": "Exercise Unit Charlie reported contact C-91 at 23.86N 67.86E, 74 nm south-east of Karachi. The contact was classified as merchant container ship, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MV CORAL HORIZON, MMSI 353136000.",
+      "source": "Contact report SCR-2026-091",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0074",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-91 reported?",
+      "answer": "Contact C-91 was reported at 23.86N 67.86E, 74 nm south-east of Karachi, at 1354Z on 24 June 2026 by Exercise Unit Charlie.",
+      "source": "Contact report SCR-2026-091",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0075",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-91 on 24 June 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 10.5 m match the registry record. Course 139 degrees, speed 15.0 knots.",
+      "source": "Contact report SCR-2026-091",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0076",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Charlie report at 1030Z on 25 June 2026?",
+      "answer": "Exercise Unit Charlie reported contact C-51 at 22.05N 69.48E, 26 nm north-north-west of Porbandar. The contact was classified as traditional wooden dhow, affiliation unknown, confidence probable, using radar and visual.",
+      "source": "Contact report SCR-2026-053",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0077",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-51 reported?",
+      "answer": "Contact C-51 was reported at 22.05N 69.48E, 26 nm north-north-west of Porbandar, at 1030Z on 25 June 2026 by Exercise Unit Charlie.",
+      "source": "Contact report SCR-2026-053",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0078",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-51 on 25 June 2026?",
+      "answer": "Challenged on VHF channel 16, no response. Reported to operations room. Remarks: Same profile as the dhow reported in February. No AIS, no registration marks, speed 5 knots, course 130.",
+      "source": "Contact report SCR-2026-053",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0079",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 2047Z on 28 June 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-92 at 23.33N 64.30E, 153 nm south-east of Gwadar. The contact was classified as merchant crude oil tanker, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MT GULF PIONEER, MMSI 419876543.",
+      "source": "Contact report SCR-2026-092",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0080",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-92 reported?",
+      "answer": "Contact C-92 was reported at 23.33N 64.30E, 153 nm south-east of Gwadar, at 2047Z on 28 June 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-092",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0081",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-92 on 28 June 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 12.6 m match the registry record. Course 105 degrees, speed 12.0 knots.",
+      "source": "Contact report SCR-2026-092",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0082",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Bravo report at 0820Z on 8 July 2026?",
+      "answer": "Exercise Unit Bravo reported contact C-56 at 21.22N 69.61E, 25 nm south of Porbandar. The contact was classified as sub-surface contact, possible periscope, affiliation unknown, confidence possible, using visual and radar.",
+      "source": "Contact report SCR-2026-058",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0083",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-56 reported?",
+      "answer": "Contact C-56 was reported at 21.22N 69.61E, 25 nm south of Porbandar, at 0820Z on 8 July 2026 by Exercise Unit Bravo.",
+      "source": "Contact report SCR-2026-058",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0084",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-56 on 8 July 2026?",
+      "answer": "Escalated to operations room. Exercise unit manoeuvred to maintain contact. Contact classified friendly after exercise means were applied. Remarks: Periscope-like visual sighting and a weak radar return with no AIS. Exercise participant confirmed by challenge procedure 26 minutes later.",
+      "source": "Contact report SCR-2026-058",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0085",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 1500Z on 21 July 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-60 at 22.72N 68.58E, 31 nm west-north-west of Okha. The contact was classified as fast boat, suspect approach, affiliation suspect, confidence probable, using radar and visual.",
+      "source": "Contact report SCR-2026-062",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0086",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-60 reported?",
+      "answer": "Contact C-60 was reported at 22.72N 68.58E, 31 nm west-north-west of Okha, at 1500Z on 21 July 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-062",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0087",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-60 on 21 July 2026?",
+      "answer": "Escalated to operations room. Boat turned away when challenged by radio and by warning signal. Remarks: Skiff about 11 m, twin outboards, speed 25 knots, no AIS, no marks. Closed to 2 nm of a passing general cargo ship, then withdrew north-west.",
+      "source": "Contact report SCR-2026-062",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0088",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Bravo report at 1228Z on 9 August 2026?",
+      "answer": "Exercise Unit Bravo reported contact C-93 at 17.24N 71.70E, 121 nm south-south-west of Mumbai. The contact was classified as merchant general cargo ship, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MV AL RAYYAN STAR, MMSI 470123456.",
+      "source": "Contact report SCR-2026-093",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0089",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-93 reported?",
+      "answer": "Contact C-93 was reported at 17.24N 71.70E, 121 nm south-south-west of Mumbai, at 1228Z on 9 August 2026 by Exercise Unit Bravo.",
+      "source": "Contact report SCR-2026-093",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0090",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-93 on 9 August 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 7.5 m match the registry record. Course 159 degrees, speed 12.5 knots.",
+      "source": "Contact report SCR-2026-093",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0091",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Charlie report at 2315Z on 9 August 2026?",
+      "answer": "Exercise Unit Charlie reported contact C-94 at 12.75N 73.50E, 235 nm north-west of Kochi. The contact was classified as merchant container ship, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MV CORAL HORIZON, MMSI 353136000.",
+      "source": "Contact report SCR-2026-094",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0092",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-94 reported?",
+      "answer": "Contact C-94 was reported at 12.75N 73.50E, 235 nm north-west of Kochi, at 2315Z on 9 August 2026 by Exercise Unit Charlie.",
+      "source": "Contact report SCR-2026-094",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0093",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-94 on 9 August 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 10.8 m match the registry record. Course 159 degrees, speed 16.0 knots.",
+      "source": "Contact report SCR-2026-094",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0094",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Charlie report at 0640Z on 14 August 2026?",
+      "answer": "Exercise Unit Charlie reported contact C-64 at 21.94N 68.72E, 37 nm south-south-west of Okha. The contact was classified as fishing vessel concentration, affiliation neutral, confidence confirmed, using radar and visual.",
+      "source": "Contact report SCR-2026-067",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0095",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-64 reported?",
+      "answer": "Contact C-64 was reported at 21.94N 68.72E, 37 nm south-south-west of Okha, at 0640Z on 14 August 2026 by Exercise Unit Charlie.",
+      "source": "Contact report SCR-2026-067",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0096",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-64 on 14 August 2026?",
+      "answer": "Area passed to operations room and included in the shipping report. Remarks: Nine small craft working a 5 nm box, mixed class B AIS and no AIS, gear deployed, several vessels with unlit markers.",
+      "source": "Contact report SCR-2026-067",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0097",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 1917Z on 14 August 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-95 at 24.59N 59.03E, 64 nm north-north-east of Muscat. The contact was classified as merchant crude oil tanker, affiliation neutral, confidence confirmed, using AIS and radar. Matched to MT GULF PIONEER, MMSI 419876543.",
+      "source": "Contact report SCR-2026-095",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0098",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-95 reported?",
+      "answer": "Contact C-95 was reported at 24.59N 59.03E, 64 nm north-north-east of Muscat, at 1917Z on 14 August 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-095",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0099",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-95 on 14 August 2026?",
+      "answer": "Identity confirmed against the vessel registry and passage records. No action required. Remarks: Track and reported draught of 12.6 m match the registry record. Course 101 degrees, speed 12.0 knots.",
+      "source": "Contact report SCR-2026-095",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0100",
+      "topic": "synthetic_contact_reports",
+      "question": "What did Exercise Unit Alpha report at 1130Z on 27 August 2026?",
+      "answer": "Exercise Unit Alpha reported contact C-68 at 22.60N 69.30E, 15 nm east-north-east of Okha. The contact was classified as merchant vessel, AIS mismatch, affiliation suspect, confidence probable, using AIS and radar.",
+      "source": "Contact report SCR-2026-071",
+      "tags": [
+        "report"
+      ]
+    },
+    {
+      "id": "SCR-0101",
+      "topic": "synthetic_contact_reports",
+      "question": "Where and when was contact C-68 reported?",
+      "answer": "Contact C-68 was reported at 22.60N 69.30E, 15 nm east-north-east of Okha, at 1130Z on 27 August 2026 by Exercise Unit Alpha.",
+      "source": "Contact report SCR-2026-071",
+      "tags": [
+        "position"
+      ]
+    },
+    {
+      "id": "SCR-0102",
+      "topic": "synthetic_contact_reports",
+      "question": "What action was taken for contact C-68 on 27 August 2026?",
+      "answer": "Escalated to operations room. AIS identity queried through the regional reporting chain. Vessel tracked until it cleared the area. Remarks: AIS reported the name of a container ship but the position, course and dimensions did not match that vessel's known movements. Possible identity misuse or a faulty transponder configuration.",
+      "source": "Contact report SCR-2026-071",
+      "tags": [
+        "action"
+      ]
+    },
+    {
+      "id": "SCR-0103",
+      "topic": "synthetic_contact_reports",
+      "question": "How many contact reports were filed between January and August 2026?",
+      "answer": "34 contact reports were filed in the period, of which 15 were matched to a vessel in the registry and 19 were unidentified or non-vessel contacts.",
+      "source": "Contact report file, count query",
+      "tags": [
+        "aggregate"
+      ]
+    },
+    {
+      "id": "SCR-0104",
+      "topic": "synthetic_contact_reports",
+      "question": "Which contact reports were filed in January 2026?",
+      "answer": "4 reports were filed in January 2026: SCR-2026-002 contact C-04 (traditional wooden dhow, unknown); SCR-2026-005 contact C-07 (fishing vessel concentration, neutral); SCR-2026-081 contact C-81 (merchant crude oil tanker, neutral); SCR-2026-082 contact C-82 (merchant container ship, neutral).",
+      "source": "Contact report file, January 2026",
+      "tags": [
+        "aggregate",
+        "monthly"
+      ]
+    },
+    {
+      "id": "SCR-0105",
+      "topic": "synthetic_contact_reports",
+      "question": "Which contact reports were filed in February 2026?",
+      "answer": "4 reports were filed in February 2026: SCR-2026-083 contact C-83 (merchant general cargo ship, neutral); SCR-2026-009 contact C-09 (fast boat, suspect approach, suspect); SCR-2026-011 contact C-12 (traditional wooden dhow, unknown); SCR-2026-014 contact C-15 (small craft, type unknown, unknown).",
+      "source": "Contact report file, February 2026",
+      "tags": [
+        "aggregate",
+        "monthly"
+      ]
+    },
+    {
+      "id": "SCR-0106",
+      "topic": "synthetic_contact_reports",
+      "question": "Which contact reports were filed in March 2026?",
+      "answer": "7 reports were filed in March 2026: SCR-2026-017 contact C-18 (survey vessel, neutral); SCR-2026-021 contact C-21 (merchant tanker, neutral); SCR-2026-084 contact C-84 (merchant container ship, neutral); SCR-2026-024 contact C-24 (warship, friendly); SCR-2026-085 contact C-85 (merchant general cargo ship, neutral); SCR-2026-086 contact C-86 (merchant crude oil tanker, neutral); SCR-2026-028 contact C-27 (merchant general cargo ship, neutral).",
+      "source": "Contact report file, March 2026",
+      "tags": [
+        "aggregate",
+        "monthly"
+      ]
+    },
+    {
+      "id": "SCR-0107",
+      "topic": "synthetic_contact_reports",
+      "question": "Which contact reports were filed in April 2026?",
+      "answer": "3 reports were filed in April 2026: SCR-2026-032 contact C-31 (helicopter, unknown); SCR-2026-036 contact C-35 (fast boat, suspect approach, suspect); SCR-2026-087 contact C-87 (merchant general cargo ship, neutral).",
+      "source": "Contact report file, April 2026",
+      "tags": [
+        "aggregate",
+        "monthly"
+      ]
+    },
+    {
+      "id": "SCR-0108",
+      "topic": "synthetic_contact_reports",
+      "question": "Which contact reports were filed in May 2026?",
+      "answer": "4 reports were filed in May 2026: SCR-2026-088 contact C-88 (merchant container ship, neutral); SCR-2026-041 contact C-39 (drifting container, not applicable); SCR-2026-089 contact C-89 (merchant crude oil tanker, neutral); SCR-2026-045 contact C-43 (fishing vessel, neutral).",
+      "source": "Contact report file, May 2026",
+      "tags": [
+        "aggregate",
+        "monthly"
+      ]
+    },
+    {
+      "id": "SCR-0109",
+      "topic": "synthetic_contact_reports",
+      "question": "Which contact reports were filed in June 2026?",
+      "answer": "5 reports were filed in June 2026: SCR-2026-049 contact C-47 (small craft, type unknown, unknown); SCR-2026-090 contact C-90 (merchant general cargo ship, neutral); SCR-2026-091 contact C-91 (merchant container ship, neutral); SCR-2026-053 contact C-51 (traditional wooden dhow, unknown); SCR-2026-092 contact C-92 (merchant crude oil tanker, neutral).",
+      "source": "Contact report file, June 2026",
+      "tags": [
+        "aggregate",
+        "monthly"
+      ]
+    },
+    {
+      "id": "SCR-0110",
+      "topic": "synthetic_contact_reports",
+      "question": "Which contact reports were filed in July 2026?",
+      "answer": "2 reports were filed in July 2026: SCR-2026-058 contact C-56 (sub-surface contact, possible periscope, unknown); SCR-2026-062 contact C-60 (fast boat, suspect approach, suspect).",
+      "source": "Contact report file, July 2026",
+      "tags": [
+        "aggregate",
+        "monthly"
+      ]
+    },
+    {
+      "id": "SCR-0111",
+      "topic": "synthetic_contact_reports",
+      "question": "Which contact reports were filed in August 2026?",
+      "answer": "5 reports were filed in August 2026: SCR-2026-093 contact C-93 (merchant general cargo ship, neutral); SCR-2026-094 contact C-94 (merchant container ship, neutral); SCR-2026-067 contact C-64 (fishing vessel concentration, neutral); SCR-2026-095 contact C-95 (merchant crude oil tanker, neutral); SCR-2026-071 contact C-68 (merchant vessel, AIS mismatch, suspect).",
+      "source": "Contact report file, August 2026",
+      "tags": [
+        "aggregate",
+        "monthly"
+      ]
+    },
+    {
+      "id": "SCR-0112",
+      "topic": "synthetic_contact_reports",
+      "question": "Which contact reports involved a craft approaching within 2 nm of a merchant vessel?",
+      "answer": "Three reports: SCR-2026-009 on 2 February 2026, where a skiff closed to 1.5 nm on the port bow of a bulk carrier; SCR-2026-036 on 22 April 2026, where a skiff closed to 1.8 nm on the stern of MV MALABAR EXPRESS at 0205Z; and SCR-2026-062 on 21 July 2026, where a skiff closed to 2 nm of a passing general cargo ship. All three were classified suspect and escalated.",
+      "source": "Contact report file, approach query",
+      "tags": [
+        "aggregate",
+        "suspect"
+      ]
+    },
+    {
+      "id": "SCR-0113",
+      "topic": "synthetic_contact_reports",
+      "question": "Which contact reports involve a vessel that was inside a hazard or exercise area at the time?",
+      "answer": "Three reports. SCR-2026-021 on 12 March 2026, when MT GULF PIONEER was inside Area Alpha while NAVAREA IX 052/2026 live firing warning was in force. SCR-2026-028 on 27 March 2026, when MV AL RAYYAN STAR was inside Area Alpha while NAVAREA IX 072/2026 was in force. SCR-2026-017 on 5 March 2026, when a survey vessel was working inside Area Bravo as declared in the survey warning.",
+      "source": "Contact report file cross-checked against the warning file",
+      "tags": [
+        "aggregate",
+        "story"
+      ]
+    },
+    {
+      "id": "SCR-0114",
+      "topic": "synthetic_contact_reports",
+      "question": "Which exercise unit filed the most contact reports?",
+      "answer": "Exercise Unit Alpha filed the most reports, covering the dhow sightings, the fast boat approaches, the live firing area transits and the AIS identity mismatch in August.",
+      "source": "Contact report file, unit query",
+      "tags": [
+        "aggregate"
+      ]
+    },
+    {
+      "id": "SCR-0115",
+      "topic": "synthetic_contact_reports",
+      "question": "Which contact report is the best example of a dark contact that later turned out to be a known fishing vessel?",
+      "answer": "SCR-2026-045 on 24 May 2026. A wooden trawler was detected by visual and AIS means and matched to FV SAGAR SETU, MMSI 419555777, working out of Okha with gear deployed at 4.5 knots. It shows the standard pattern: a dark or intermittent contact becomes identifiable once AIS, visual appearance, home port markings and the fishing gear warning are brought together.",
+      "source": "Contact report SCR-2026-045 and vessel registry dossier",
+      "tags": [
+        "story",
+        "fishing"
+      ]
+    }
+  ]
+}

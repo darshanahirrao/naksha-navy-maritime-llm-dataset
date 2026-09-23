@@ -1,0 +1,1528 @@
+{
+  "dataset": "contact_classification",
+  "title": "Contact classification doctrine and classification entries",
+  "version": "1.0.0",
+  "generated": "2026-09-22",
+  "coverage": {
+    "from": "2026-01-01",
+    "to": "2026-08-31"
+  },
+  "format": "question-answer",
+  "synthetic": true,
+  "not_for_operational_use": true,
+  "disclaimer": "SYNTHETIC TRAINING DATA. Every vessel, IMO and MMSI number, owner, port call, warning, contact, incident and statistic in this file is fictional and was generated for a training lecture. Nothing here describes a real ship, broadcast, incident or port condition, and nothing here may be used for navigation, intelligence or any operational decision.",
+  "count": 144,
+  "examples": [
+    {
+      "id": "CC-0001",
+      "topic": "contact_classification",
+      "question": "What are the contact classification categories used in this exercise?",
+      "answer": "Contacts are first classified by domain as surface, air, sub-surface or unknown, and then by type as warship, patrol vessel, merchant cargo ship, merchant tanker, container ship, bulk carrier, fishing vessel, traditional craft, pleasure craft, survey vessel, tug, pilot boat, drifting object or unknown.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0002",
+      "topic": "contact_classification",
+      "question": "What are the affiliation categories and what does each mean?",
+      "answer": "Friendly means identified as own or allied forces. Neutral means an identified non-participant going about lawful business. Unknown means the identity could not be established. Suspect means the contact is behaving in a way that is inconsistent with lawful routine, or its identity does not match its appearance.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0003",
+      "topic": "contact_classification",
+      "question": "What does a classification of unknown require of the reporting unit?",
+      "answer": "A classification of unknown requires continued surveillance, an attempt to establish identity by at least two independent means, a report to the operations room, and no assumption that the contact is harmless.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0004",
+      "topic": "contact_classification",
+      "question": "What evidence sources are used to classify a contact?",
+      "answer": "AIS, radar, visual observation, electronic support measures, acoustic observation, port and VTS reports, and the vessel registry and passage records held in the exercise database. At least two independent sources should agree before a contact is called confirmed.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0005",
+      "topic": "contact_classification",
+      "question": "Why is AIS alone not sufficient to classify a contact?",
+      "answer": "AIS can be switched off, not fitted, wrongly configured, or deliberately falsified. A contact reported by AIS must be corroborated by radar position, visual appearance and, where available, ESM before the identity is accepted.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0006",
+      "topic": "contact_classification",
+      "question": "What is a dark contact?",
+      "answer": "A dark contact is a surface contact that is detected by radar or visual means but is not transmitting AIS. Dark contacts are the highest priority for identification because they remove the easiest means of establishing identity.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0007",
+      "topic": "contact_classification",
+      "question": "What are the indicators of a fishing vessel?",
+      "answer": "Low speed of 2 to 6 knots, working in a group, gear deployed, class B AIS or no AIS at all, small radar cross section, a pattern of movement that follows fishing grounds rather than a track between ports, and often no response to VHF challenge.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0008",
+      "topic": "contact_classification",
+      "question": "What are the indicators of a traditional dhow?",
+      "answer": "Wooden hull, single or twin mast, no AIS, no visible registration marks, speed 5 to 7 knots, a low freeboard and no deck cargo arrangement typical of a merchant ship. Dhows in the Kutch approaches are common and usually lawful, but the identity must still be established.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0009",
+      "topic": "contact_classification",
+      "question": "What are the indicators of a suspicious approach?",
+      "answer": "Closing at high speed on a steady bearing, no AIS, no response to VHF challenge, closing to within 2 nm of a merchant vessel or of an own unit, loitering on a shipping route, and turning away only when challenged or when a warning signal is made.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0010",
+      "topic": "contact_classification",
+      "question": "What are the classification confidence levels?",
+      "answer": "Confirmed means at least two independent sources agree and the identity is established. Probable means the available evidence strongly supports the classification. Possible means the evidence is indicative only. Unknown means there is no reliable basis for a classification.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0011",
+      "topic": "contact_classification",
+      "question": "What fields must a contact report contain?",
+      "answer": "Report identifier, date and time in Zulu, reporting unit, position, contact designation, sensor or sensors used, classification, affiliation, confidence, MMSI or other identity if established, action taken, and remarks.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0012",
+      "topic": "contact_classification",
+      "question": "When must a contact be escalated to the operations room?",
+      "answer": "Immediately for any sub-surface contact, any suspect affiliation, any approach within 2 nm of a merchant vessel or own unit, any dark contact inside a hazard or exercise area, any AIS identity mismatch, and any contact that does not respond to two VHF challenges.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0013",
+      "topic": "contact_classification",
+      "question": "What is the difference between neutral and friendly in this exercise?",
+      "answer": "Neutral is an identified non-participant, for example a merchant ship on a lawful passage. Friendly is an identified participant or own force unit, for example an exercise warship or coast guard unit that does not transmit AIS while on task.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0014",
+      "topic": "contact_classification",
+      "question": "How is a warship classified when it is not transmitting AIS?",
+      "answer": "A grey hull, a warship profile, high speed and no AIS is a probable warship, but the affiliation is unknown until it is identified by ESM, by challenge procedure or by exercise means. Do not assume friendly on appearance alone.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0015",
+      "topic": "contact_classification",
+      "question": "What does ESM add to contact classification?",
+      "answer": "ESM detects radar and communication emissions. It can establish the type of unit and, where the emission is recognised, the affiliation, without relying on AIS or visual identification.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0016",
+      "topic": "contact_classification",
+      "question": "How is a contact classified when the AIS identity does not match the physical contact?",
+      "answer": "An AIS identity that does not match the radar and visual picture is classified as a merchant vessel with an AIS mismatch, affiliation suspect, and is escalated to the operations room. Possible causes are a faulty transponder configuration, an incorrect entry by the crew, or deliberate identity misuse. All three require reporting.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0017",
+      "topic": "contact_classification",
+      "question": "What is the difference between a drifting object and a vessel?",
+      "answer": "A drifting object has no propulsion, no AIS, no response to VHF and a drift rate set by wind and current, typically under 2 knots. A vessel will hold a course, may alter speed, and may respond to a challenge.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0018",
+      "topic": "contact_classification",
+      "question": "What is a sub-surface contact and what is the immediate action?",
+      "answer": "A sub-surface contact is any indication of a submerged unit, such as a periscope sighting or a weak intermittent radar return with no AIS. The immediate action is to report to the operations room, maintain contact if possible, and not to assume the contact is friendly.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0019",
+      "topic": "contact_classification",
+      "question": "What are the reporting thresholds for small craft?",
+      "answer": "Any small craft approaching within 2 nm of a merchant vessel or of an own unit is reported, whether or not it is hostile. Approaches at night or in reduced visibility are reported at a greater range, normally 5 nm.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0020",
+      "topic": "contact_classification",
+      "question": "How is a survey vessel classified?",
+      "answer": "A survey vessel is classified as neutral when its identity is established and its operations match a survey warning in force. It is often restricted in her ability to manoeuvre, so vessels are to keep clear by not less than 3 nm.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0021",
+      "topic": "contact_classification",
+      "question": "How should a contact inside a known fishing fleet area be handled?",
+      "answer": "Cross-check the position against the fishing gear concentration warning in force, keep a sharp lookout for unlit gear, reduce speed where practicable, and still attempt to establish identity. A contact inside a fishing area is not automatically a fishing vessel.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0022",
+      "topic": "contact_classification",
+      "question": "How is an own coast guard unit classified when it is not transmitting AIS?",
+      "answer": "Friendly, once identified by exercise means. Until then it is an unknown surface contact and is handled as such, because a unit that does not transmit AIS cannot be assumed to be friendly on the basis of its appearance.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0023",
+      "topic": "contact_classification",
+      "question": "What should be done when a contact matches a registry vessel but is in a place that vessel cannot be?",
+      "answer": "The mismatch is reported as suspect. Compare the reported position with the vessel's AIS passage record. If the physical contact cannot be in that position at that time, treat the identity as unverified and continue surveillance.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0024",
+      "topic": "contact_classification",
+      "question": "How is an unidentified helicopter classified?",
+      "answer": "As an air contact with unknown affiliation. Note the type, height, course and speed, report to the operations room, and cross-check against scheduled movements before classifying it as friendly.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0025",
+      "topic": "contact_classification",
+      "question": "How long should surveillance be maintained on an unknown contact?",
+      "answer": "Until the identity is established, or until the operations room directs otherwise, or until the contact is no longer of interest because it has cleared the area. A contact is not closed simply because it has moved out of visual range.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0026",
+      "topic": "contact_classification",
+      "question": "What is the rule for passing a tanker transfer pair?",
+      "answer": "Keep clear by not less than 2 nm and do not pass between the two ships. Transfer pairs are constrained in their ability to manoeuvre and one of the two may be at anchor with a hose connected.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0027",
+      "topic": "contact_classification",
+      "question": "How are drifting containers classified?",
+      "answer": "As a drifting object, affiliation not applicable, confidence confirmed when sighted. They are a navigation hazard, they are difficult to detect by radar when awash, and their position is passed to the operations room and to the shipping report.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0028",
+      "topic": "contact_classification",
+      "question": "What affiliation is given to a merchant vessel with a valid AIS and a matching radar track?",
+      "answer": "Neutral. A valid identity on two independent sensors with a track that matches the declared voyage is enough to call the contact a neutral merchant vessel, though it remains subject to reporting if it behaves unusually.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0029",
+      "topic": "contact_classification",
+      "question": "What should a unit do if a dark contact enters a live firing area?",
+      "answer": "Warn the contact on VHF channel 16, report it to exercise control and the operations room, and do not assume it will clear the area on its own. If the contact does not respond, the decision on continuing the firing rests with exercise control.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0030",
+      "topic": "contact_classification",
+      "question": "What is an AIS identity mismatch and how common is it in this exercise area?",
+      "answer": "An AIS identity mismatch is a contact whose transmitted identity does not match its radar and visual appearance, or whose position is inconsistent with the identity's known movements. Two mismatches were reported between January and August 2026, one in February and one in August, and both were escalated to the operations room.",
+      "source": "Contact classification standing instruction",
+      "tags": [
+        "doctrine"
+      ]
+    },
+    {
+      "id": "CC-0031",
+      "topic": "contact_classification",
+      "question": "How was contact C-04 classified on 6 January 2026 and with what confidence?",
+      "answer": "Contact C-04 was classified as traditional wooden dhow with affiliation unknown and confidence probable.",
+      "source": "Contact report SCR-2026-002",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0032",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-04 on 6 January 2026?",
+      "answer": "Dark timber hull, single mast, no AIS transmission, speed 6 knots on course 075. Consistent with a dhow working the Kutch approaches. Sensor or sensors used: radar and visual.",
+      "source": "Contact report SCR-2026-002",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0033",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-04 on 6 January 2026 supported by more than one sensor?",
+      "answer": "The report used radar and visual. The evidence was not sufficient for a confirmed classification, so the contact was carried at probable confidence and remained open for further identification.",
+      "source": "Contact report SCR-2026-002",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0034",
+      "topic": "contact_classification",
+      "question": "How was contact C-07 classified on 19 January 2026 and with what confidence?",
+      "answer": "Contact C-07 was classified as fishing vessel concentration with affiliation neutral and confidence confirmed.",
+      "source": "Contact report SCR-2026-005",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0035",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-07 on 19 January 2026?",
+      "answer": "Eleven small craft working in a 6 nm box, most with class B AIS only, several with no AIS. Gear deployed and partly unlit. Sensor or sensors used: radar and visual.",
+      "source": "Contact report SCR-2026-005",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0036",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-07 on 19 January 2026 supported by more than one sensor?",
+      "answer": "The report used radar and visual. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-005",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0037",
+      "topic": "contact_classification",
+      "question": "How was contact C-81 classified on 26 January 2026 and with what confidence?",
+      "answer": "Contact C-81 was classified as merchant crude oil tanker with affiliation neutral and confidence confirmed (matched to MT GULF PIONEER, MMSI 419876543).",
+      "source": "Contact report SCR-2026-081",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0038",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-81 on 26 January 2026?",
+      "answer": "Track and reported draught of 12.4 m match the registry record. Course 87 degrees, speed 12.5 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-081",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0039",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-81 on 26 January 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-081",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0040",
+      "topic": "contact_classification",
+      "question": "How was contact C-82 classified on 28 January 2026 and with what confidence?",
+      "answer": "Contact C-82 was classified as merchant container ship with affiliation neutral and confidence confirmed (matched to MV CORAL HORIZON, MMSI 353136000).",
+      "source": "Contact report SCR-2026-082",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0041",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-82 on 28 January 2026?",
+      "answer": "Track and reported draught of 10.9 m match the registry record. Course 159 degrees, speed 16.5 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-082",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0042",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-82 on 28 January 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-082",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0043",
+      "topic": "contact_classification",
+      "question": "How was contact C-83 classified on 2 February 2026 and with what confidence?",
+      "answer": "Contact C-83 was classified as merchant general cargo ship with affiliation neutral and confidence confirmed (matched to MV AL RAYYAN STAR, MMSI 470123456).",
+      "source": "Contact report SCR-2026-083",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0044",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-83 on 2 February 2026?",
+      "answer": "Track and reported draught of 6.8 m match the registry record. Course 296 degrees, speed 13.0 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-083",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0045",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-83 on 2 February 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-083",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0046",
+      "topic": "contact_classification",
+      "question": "How was contact C-09 classified on 2 February 2026 and with what confidence?",
+      "answer": "Contact C-09 was classified as fast boat, suspect approach with affiliation suspect and confidence probable.",
+      "source": "Contact report SCR-2026-009",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0047",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-09 on 2 February 2026?",
+      "answer": "Skiff about 12 m, two outboard engines, speed 24 knots, no AIS, no registration marks. Closed to 1.5 nm on the port bow of a bulk carrier before turning away. Sensor or sensors used: radar, visual and AIS.",
+      "source": "Contact report SCR-2026-009",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0048",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-09 on 2 February 2026 supported by more than one sensor?",
+      "answer": "The report used radar, visual and AIS. The evidence was not sufficient for a confirmed classification, so the contact was carried at probable confidence and remained open for further identification.",
+      "source": "Contact report SCR-2026-009",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0049",
+      "topic": "contact_classification",
+      "question": "How was contact C-12 classified on 14 February 2026 and with what confidence?",
+      "answer": "Contact C-12 was classified as traditional wooden dhow with affiliation unknown and confidence probable.",
+      "source": "Contact report SCR-2026-011",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0050",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-12 on 14 February 2026?",
+      "answer": "Wooden hull, single mast, no AIS, no registration marks, speed 6 knots on course 090. Same profile as the contact reported on 6 January. Sensor or sensors used: radar and visual.",
+      "source": "Contact report SCR-2026-011",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0051",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-12 on 14 February 2026 supported by more than one sensor?",
+      "answer": "The report used radar and visual. The evidence was not sufficient for a confirmed classification, so the contact was carried at probable confidence and remained open for further identification.",
+      "source": "Contact report SCR-2026-011",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0052",
+      "topic": "contact_classification",
+      "question": "How was contact C-15 classified on 27 February 2026 and with what confidence?",
+      "answer": "Contact C-15 was classified as small craft, type unknown with affiliation unknown and confidence possible.",
+      "source": "Contact report SCR-2026-014",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0053",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-15 on 27 February 2026?",
+      "answer": "Unlit contact at night, low radar cross section, no AIS, estimated speed 7 knots. No visual identification possible. Sensor or sensors used: radar only.",
+      "source": "Contact report SCR-2026-014",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0054",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-15 on 27 February 2026 supported by more than one sensor?",
+      "answer": "The report used radar only. The evidence was not sufficient for a confirmed classification, so the contact was carried at possible confidence and remained open for further identification.",
+      "source": "Contact report SCR-2026-014",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0055",
+      "topic": "contact_classification",
+      "question": "How was contact C-18 classified on 5 March 2026 and with what confidence?",
+      "answer": "Contact C-18 was classified as survey vessel with affiliation neutral and confidence confirmed.",
+      "source": "Contact report SCR-2026-017",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0056",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-18 on 5 March 2026?",
+      "answer": "Vessel conducting seabed survey in Area Bravo on a restricted manoeuvrability basis with towed equipment astern. Matches the survey warning in force. Sensor or sensors used: AIS, radar and visual.",
+      "source": "Contact report SCR-2026-017",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0057",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-18 on 5 March 2026 supported by more than one sensor?",
+      "answer": "The report used AIS, radar and visual. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-017",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0058",
+      "topic": "contact_classification",
+      "question": "How was contact C-21 classified on 12 March 2026 and with what confidence?",
+      "answer": "Contact C-21 was classified as merchant tanker with affiliation neutral and confidence confirmed (matched to MT GULF PIONEER, MMSI 419876543).",
+      "source": "Contact report SCR-2026-021",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0059",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-21 on 12 March 2026?",
+      "answer": "Vessel was inside Area Alpha while NAVAREA IX 052/2026 live firing warning was in force. AIS and radar tracks agreed. Ballast passage, draught 5.6 m, course 265, speed 13 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-021",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0060",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-21 on 12 March 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-021",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0061",
+      "topic": "contact_classification",
+      "question": "How was contact C-84 classified on 13 March 2026 and with what confidence?",
+      "answer": "Contact C-84 was classified as merchant container ship with affiliation neutral and confidence confirmed (matched to MV CORAL HORIZON, MMSI 353136000).",
+      "source": "Contact report SCR-2026-084",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0062",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-84 on 13 March 2026?",
+      "answer": "Track and reported draught of 9.3 m match the registry record. Course 102 degrees, speed 15.0 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-084",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0063",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-84 on 13 March 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-084",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0064",
+      "topic": "contact_classification",
+      "question": "How was contact C-24 classified on 18 March 2026 and with what confidence?",
+      "answer": "Contact C-24 was classified as warship with affiliation friendly and confidence confirmed.",
+      "source": "Contact report SCR-2026-024",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0065",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-24 on 18 March 2026?",
+      "answer": "Grey hull, warship profile, no AIS transmission, speed 18 knots. Identified as an exercise participant by ESM and challenge procedure. Sensor or sensors used: radar, visual and ESM.",
+      "source": "Contact report SCR-2026-024",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0066",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-24 on 18 March 2026 supported by more than one sensor?",
+      "answer": "The report used radar, visual and ESM. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-024",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0067",
+      "topic": "contact_classification",
+      "question": "How was contact C-85 classified on 18 March 2026 and with what confidence?",
+      "answer": "Contact C-85 was classified as merchant general cargo ship with affiliation neutral and confidence confirmed (matched to MV AL RAYYAN STAR, MMSI 470123456).",
+      "source": "Contact report SCR-2026-085",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0068",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-85 on 18 March 2026?",
+      "answer": "Track and reported draught of 7.5 m match the registry record. Course 296 degrees, speed 13.0 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-085",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0069",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-85 on 18 March 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-085",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0070",
+      "topic": "contact_classification",
+      "question": "How was contact C-86 classified on 23 March 2026 and with what confidence?",
+      "answer": "Contact C-86 was classified as merchant crude oil tanker with affiliation neutral and confidence confirmed (matched to MT GULF PIONEER, MMSI 419876543).",
+      "source": "Contact report SCR-2026-086",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0071",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-86 on 23 March 2026?",
+      "answer": "Track and reported draught of 12.3 m match the registry record. Course 87 degrees, speed 12.5 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-086",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0072",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-86 on 23 March 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-086",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0073",
+      "topic": "contact_classification",
+      "question": "How was contact C-27 classified on 27 March 2026 and with what confidence?",
+      "answer": "Contact C-27 was classified as merchant general cargo ship with affiliation neutral and confidence confirmed (matched to MV AL RAYYAN STAR, MMSI 470123456).",
+      "source": "Contact report SCR-2026-028",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0074",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-27 on 27 March 2026?",
+      "answer": "Vessel passed through Area Alpha on an outbound passage from Mundra to Jebel Ali. NAVAREA IX 072/2026 live firing warning had come into force at 0600Z the same morning. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-028",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0075",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-27 on 27 March 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-028",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0076",
+      "topic": "contact_classification",
+      "question": "How was contact C-31 classified on 9 April 2026 and with what confidence?",
+      "answer": "Contact C-31 was classified as helicopter with affiliation unknown and confidence probable.",
+      "source": "Contact report SCR-2026-032",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0077",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-31 on 9 April 2026?",
+      "answer": "Single rotor helicopter, low level, transiting south-west, no identification marks visible. Not matched to any scheduled movement. Sensor or sensors used: radar and visual.",
+      "source": "Contact report SCR-2026-032",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0078",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-31 on 9 April 2026 supported by more than one sensor?",
+      "answer": "The report used radar and visual. The evidence was not sufficient for a confirmed classification, so the contact was carried at probable confidence and remained open for further identification.",
+      "source": "Contact report SCR-2026-032",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0079",
+      "topic": "contact_classification",
+      "question": "How was contact C-35 classified on 22 April 2026 and with what confidence?",
+      "answer": "Contact C-35 was classified as fast boat, suspect approach with affiliation suspect and confidence probable.",
+      "source": "Contact report SCR-2026-036",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0080",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-35 on 22 April 2026?",
+      "answer": "Skiff closed to 1.8 nm on the stern of MV MALABAR EXPRESS at 0205Z. Speed 22 knots, no AIS, two persons visible in the dark. Target vessel reported the approach on VHF channel 16. Sensor or sensors used: radar, visual and AIS.",
+      "source": "Contact report SCR-2026-036",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0081",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-35 on 22 April 2026 supported by more than one sensor?",
+      "answer": "The report used radar, visual and AIS. The evidence was not sufficient for a confirmed classification, so the contact was carried at probable confidence and remained open for further identification.",
+      "source": "Contact report SCR-2026-036",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0082",
+      "topic": "contact_classification",
+      "question": "How was contact C-87 classified on 30 April 2026 and with what confidence?",
+      "answer": "Contact C-87 was classified as merchant general cargo ship with affiliation neutral and confidence confirmed (matched to MV AL RAYYAN STAR, MMSI 470123456).",
+      "source": "Contact report SCR-2026-087",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0083",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-87 on 30 April 2026?",
+      "answer": "Track and reported draught of 7.3 m match the registry record. Course 296 degrees, speed 13.0 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-087",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0084",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-87 on 30 April 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-087",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0085",
+      "topic": "contact_classification",
+      "question": "How was contact C-88 classified on 3 May 2026 and with what confidence?",
+      "answer": "Contact C-88 was classified as merchant container ship with affiliation neutral and confidence confirmed (matched to MV CORAL HORIZON, MMSI 353136000).",
+      "source": "Contact report SCR-2026-088",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0086",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-88 on 3 May 2026?",
+      "answer": "Track and reported draught of 11.0 m match the registry record. Course 339 degrees, speed 16.5 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-088",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0087",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-88 on 3 May 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-088",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0088",
+      "topic": "contact_classification",
+      "question": "How was contact C-39 classified on 7 May 2026 and with what confidence?",
+      "answer": "Contact C-39 was classified as drifting container with affiliation not applicable and confidence confirmed.",
+      "source": "Contact report SCR-2026-041",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0089",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-39 on 7 May 2026?",
+      "answer": "Two containers awash, low freeboard, matching the drifting containers warning issued in January. Hazard to small craft and fishing gear. Sensor or sensors used: radar and visual.",
+      "source": "Contact report SCR-2026-041",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0090",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-39 on 7 May 2026 supported by more than one sensor?",
+      "answer": "The report used radar and visual. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-041",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0091",
+      "topic": "contact_classification",
+      "question": "How was contact C-89 classified on 12 May 2026 and with what confidence?",
+      "answer": "Contact C-89 was classified as merchant crude oil tanker with affiliation neutral and confidence confirmed (matched to MT GULF PIONEER, MMSI 419876543).",
+      "source": "Contact report SCR-2026-089",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0092",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-89 on 12 May 2026?",
+      "answer": "Track and reported draught of 12.6 m match the registry record. Course 104 degrees, speed 12.5 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-089",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0093",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-89 on 12 May 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-089",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0094",
+      "topic": "contact_classification",
+      "question": "How was contact C-43 classified on 24 May 2026 and with what confidence?",
+      "answer": "Contact C-43 was classified as fishing vessel with affiliation neutral and confidence confirmed (matched to FV SAGAR SETU, MMSI 419555777).",
+      "source": "Contact report SCR-2026-045",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0095",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-43 on 24 May 2026?",
+      "answer": "Wooden trawler working out of Okha, class B AIS only, speed 4.5 knots, gear deployed. Home port displayed on the hull. Sensor or sensors used: visual and AIS.",
+      "source": "Contact report SCR-2026-045",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0096",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-43 on 24 May 2026 supported by more than one sensor?",
+      "answer": "The report used visual and AIS. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-045",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0097",
+      "topic": "contact_classification",
+      "question": "How was contact C-47 classified on 11 June 2026 and with what confidence?",
+      "answer": "Contact C-47 was classified as small craft, type unknown with affiliation unknown and confidence possible.",
+      "source": "Contact report SCR-2026-049",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0098",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-47 on 11 June 2026?",
+      "answer": "Radar contact held for 8 minutes in heavy rain, no AIS, no visual. Monsoon conditions degraded detection range. Sensor or sensors used: radar only.",
+      "source": "Contact report SCR-2026-049",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0099",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-47 on 11 June 2026 supported by more than one sensor?",
+      "answer": "The report used radar only. The evidence was not sufficient for a confirmed classification, so the contact was carried at possible confidence and remained open for further identification.",
+      "source": "Contact report SCR-2026-049",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0100",
+      "topic": "contact_classification",
+      "question": "How was contact C-90 classified on 19 June 2026 and with what confidence?",
+      "answer": "Contact C-90 was classified as merchant general cargo ship with affiliation neutral and confidence confirmed (matched to MV AL RAYYAN STAR, MMSI 470123456).",
+      "source": "Contact report SCR-2026-090",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0101",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-90 on 19 June 2026?",
+      "answer": "Track and reported draught of 5.1 m match the registry record. Course 172 degrees, speed 12.0 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-090",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0102",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-90 on 19 June 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-090",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0103",
+      "topic": "contact_classification",
+      "question": "How was contact C-91 classified on 24 June 2026 and with what confidence?",
+      "answer": "Contact C-91 was classified as merchant container ship with affiliation neutral and confidence confirmed (matched to MV CORAL HORIZON, MMSI 353136000).",
+      "source": "Contact report SCR-2026-091",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0104",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-91 on 24 June 2026?",
+      "answer": "Track and reported draught of 10.5 m match the registry record. Course 139 degrees, speed 15.0 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-091",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0105",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-91 on 24 June 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-091",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0106",
+      "topic": "contact_classification",
+      "question": "How was contact C-51 classified on 25 June 2026 and with what confidence?",
+      "answer": "Contact C-51 was classified as traditional wooden dhow with affiliation unknown and confidence probable.",
+      "source": "Contact report SCR-2026-053",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0107",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-51 on 25 June 2026?",
+      "answer": "Same profile as the dhow reported in February. No AIS, no registration marks, speed 5 knots, course 130. Sensor or sensors used: radar and visual.",
+      "source": "Contact report SCR-2026-053",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0108",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-51 on 25 June 2026 supported by more than one sensor?",
+      "answer": "The report used radar and visual. The evidence was not sufficient for a confirmed classification, so the contact was carried at probable confidence and remained open for further identification.",
+      "source": "Contact report SCR-2026-053",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0109",
+      "topic": "contact_classification",
+      "question": "How was contact C-92 classified on 28 June 2026 and with what confidence?",
+      "answer": "Contact C-92 was classified as merchant crude oil tanker with affiliation neutral and confidence confirmed (matched to MT GULF PIONEER, MMSI 419876543).",
+      "source": "Contact report SCR-2026-092",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0110",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-92 on 28 June 2026?",
+      "answer": "Track and reported draught of 12.6 m match the registry record. Course 105 degrees, speed 12.0 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-092",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0111",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-92 on 28 June 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-092",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0112",
+      "topic": "contact_classification",
+      "question": "How was contact C-56 classified on 8 July 2026 and with what confidence?",
+      "answer": "Contact C-56 was classified as sub-surface contact, possible periscope with affiliation unknown and confidence possible.",
+      "source": "Contact report SCR-2026-058",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0113",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-56 on 8 July 2026?",
+      "answer": "Periscope-like visual sighting and a weak radar return with no AIS. Exercise participant confirmed by challenge procedure 26 minutes later. Sensor or sensors used: visual and radar.",
+      "source": "Contact report SCR-2026-058",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0114",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-56 on 8 July 2026 supported by more than one sensor?",
+      "answer": "The report used visual and radar. The evidence was not sufficient for a confirmed classification, so the contact was carried at possible confidence and remained open for further identification.",
+      "source": "Contact report SCR-2026-058",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0115",
+      "topic": "contact_classification",
+      "question": "How was contact C-60 classified on 21 July 2026 and with what confidence?",
+      "answer": "Contact C-60 was classified as fast boat, suspect approach with affiliation suspect and confidence probable.",
+      "source": "Contact report SCR-2026-062",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0116",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-60 on 21 July 2026?",
+      "answer": "Skiff about 11 m, twin outboards, speed 25 knots, no AIS, no marks. Closed to 2 nm of a passing general cargo ship, then withdrew north-west. Sensor or sensors used: radar and visual.",
+      "source": "Contact report SCR-2026-062",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0117",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-60 on 21 July 2026 supported by more than one sensor?",
+      "answer": "The report used radar and visual. The evidence was not sufficient for a confirmed classification, so the contact was carried at probable confidence and remained open for further identification.",
+      "source": "Contact report SCR-2026-062",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0118",
+      "topic": "contact_classification",
+      "question": "How was contact C-93 classified on 9 August 2026 and with what confidence?",
+      "answer": "Contact C-93 was classified as merchant general cargo ship with affiliation neutral and confidence confirmed (matched to MV AL RAYYAN STAR, MMSI 470123456).",
+      "source": "Contact report SCR-2026-093",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0119",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-93 on 9 August 2026?",
+      "answer": "Track and reported draught of 7.5 m match the registry record. Course 159 degrees, speed 12.5 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-093",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0120",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-93 on 9 August 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-093",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0121",
+      "topic": "contact_classification",
+      "question": "How was contact C-94 classified on 9 August 2026 and with what confidence?",
+      "answer": "Contact C-94 was classified as merchant container ship with affiliation neutral and confidence confirmed (matched to MV CORAL HORIZON, MMSI 353136000).",
+      "source": "Contact report SCR-2026-094",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0122",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-94 on 9 August 2026?",
+      "answer": "Track and reported draught of 10.8 m match the registry record. Course 159 degrees, speed 16.0 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-094",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0123",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-94 on 9 August 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-094",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0124",
+      "topic": "contact_classification",
+      "question": "How was contact C-64 classified on 14 August 2026 and with what confidence?",
+      "answer": "Contact C-64 was classified as fishing vessel concentration with affiliation neutral and confidence confirmed.",
+      "source": "Contact report SCR-2026-067",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0125",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-64 on 14 August 2026?",
+      "answer": "Nine small craft working a 5 nm box, mixed class B AIS and no AIS, gear deployed, several vessels with unlit markers. Sensor or sensors used: radar and visual.",
+      "source": "Contact report SCR-2026-067",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0126",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-64 on 14 August 2026 supported by more than one sensor?",
+      "answer": "The report used radar and visual. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-067",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0127",
+      "topic": "contact_classification",
+      "question": "How was contact C-95 classified on 14 August 2026 and with what confidence?",
+      "answer": "Contact C-95 was classified as merchant crude oil tanker with affiliation neutral and confidence confirmed (matched to MT GULF PIONEER, MMSI 419876543).",
+      "source": "Contact report SCR-2026-095",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0128",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-95 on 14 August 2026?",
+      "answer": "Track and reported draught of 12.6 m match the registry record. Course 101 degrees, speed 12.0 knots. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-095",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0129",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-95 on 14 August 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. More than one independent source was used, which is what allows the classification to be carried at confirmed confidence.",
+      "source": "Contact report SCR-2026-095",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0130",
+      "topic": "contact_classification",
+      "question": "How was contact C-68 classified on 27 August 2026 and with what confidence?",
+      "answer": "Contact C-68 was classified as merchant vessel, AIS mismatch with affiliation suspect and confidence probable.",
+      "source": "Contact report SCR-2026-071",
+      "tags": [
+        "entry"
+      ]
+    },
+    {
+      "id": "CC-0131",
+      "topic": "contact_classification",
+      "question": "What indicators supported the classification of contact C-68 on 27 August 2026?",
+      "answer": "AIS reported the name of a container ship but the position, course and dimensions did not match that vessel's known movements. Possible identity misuse or a faulty transponder configuration. Sensor or sensors used: AIS and radar.",
+      "source": "Contact report SCR-2026-071",
+      "tags": [
+        "entry",
+        "indicators"
+      ]
+    },
+    {
+      "id": "CC-0132",
+      "topic": "contact_classification",
+      "question": "Was the classification of contact C-68 on 27 August 2026 supported by more than one sensor?",
+      "answer": "The report used AIS and radar. The evidence was not sufficient for a confirmed classification, so the contact was carried at probable confidence and remained open for further identification.",
+      "source": "Contact report SCR-2026-071",
+      "tags": [
+        "entry",
+        "evidence"
+      ]
+    },
+    {
+      "id": "CC-0133",
+      "topic": "contact_classification",
+      "question": "Which contacts in the period were classified as suspect?",
+      "answer": "Four contacts were classified suspect: contact C-09 on 2 February 2026 (fast boat, suspect approach); contact C-35 on 22 April 2026 (fast boat, suspect approach); contact C-60 on 21 July 2026 (fast boat, suspect approach); contact C-68 on 27 August 2026 (merchant vessel, AIS mismatch). Every one of them involved either a fast craft closing on a merchant vessel without AIS, or an identity that did not match the physical contact.",
+      "source": "Contact report file, affiliation query",
+      "tags": [
+        "aggregate",
+        "suspect"
+      ]
+    },
+    {
+      "id": "CC-0134",
+      "topic": "contact_classification",
+      "question": "How many contacts were classified with unknown affiliation?",
+      "answer": "Seven contacts were classified with unknown affiliation: contact C-04 on 6 January 2026; contact C-12 on 14 February 2026; contact C-15 on 27 February 2026; contact C-31 on 9 April 2026; contact C-47 on 11 June 2026; contact C-51 on 25 June 2026; contact C-56 on 8 July 2026.",
+      "source": "Contact report file, affiliation query",
+      "tags": [
+        "aggregate"
+      ]
+    },
+    {
+      "id": "CC-0135",
+      "topic": "contact_classification",
+      "question": "Which contacts had no AIS transmission at all?",
+      "answer": "15 contacts were reported with no AIS transmission: contact C-04 on 6 January 2026 (traditional wooden dhow); contact C-07 on 19 January 2026 (fishing vessel concentration); contact C-09 on 2 February 2026 (fast boat, suspect approach); contact C-12 on 14 February 2026 (traditional wooden dhow); contact C-15 on 27 February 2026 (small craft, type unknown); contact C-18 on 5 March 2026 (survey vessel); contact C-24 on 18 March 2026 (warship); contact C-31 on 9 April 2026 (helicopter); contact C-35 on 22 April 2026 (fast boat, suspect approach); contact C-47 on 11 June 2026 (small craft, type unknown); contact C-51 on 25 June 2026 (traditional wooden dhow); contact C-56 on 8 July 2026 (sub-surface contact, possible periscope); contact C-60 on 21 July 2026 (fast boat, suspect approach); contact C-64 on 14 August 2026 (fishing vessel concentration); contact C-68 on 27 August 2026 (merchant vessel, AIS mismatch). A contact with no AIS is not automatically hostile, but it cannot be identified from AIS and must be worked by radar, visual and ESM means.",
+      "source": "Contact report file, AIS query",
+      "tags": [
+        "aggregate",
+        "dark-contact"
+      ]
+    },
+    {
+      "id": "CC-0136",
+      "topic": "contact_classification",
+      "question": "Which contact reports were escalated to the operations room?",
+      "answer": "Escalation was required for every suspect fast boat approach, every dark contact inside a hazard or exercise area, the possible sub-surface contact, and the AIS identity mismatch in August. Routine merchant and fishing contacts were reported but not escalated.",
+      "source": "Contact report file, escalation query",
+      "tags": [
+        "aggregate",
+        "escalation"
+      ]
+    },
+    {
+      "id": "CC-0137",
+      "topic": "contact_classification",
+      "question": "What is the cargo of the dhow reported on 14 February 2026?",
+      "answer": "The data does not contain cargo information for that contact. The dhow was not boarded and no manifest or declaration was obtained, so the cargo is unknown. Do not estimate it. Refer the question to an officer if the cargo matters to the decision.",
+      "source": "Contact classification standing instruction, limits of the data",
+      "tags": [
+        "out-of-scope"
+      ]
+    },
+    {
+      "id": "CC-0138",
+      "topic": "contact_classification",
+      "question": "Which flag does the dhow reported on 14 February 2026 fly?",
+      "answer": "The flag is not established. No registration marks were observed and there was no response to VHF challenge, so neither the flag nor the port of registry can be stated. Record the flag as not established and refer to an officer.",
+      "source": "Contact classification standing instruction, limits of the data",
+      "tags": [
+        "out-of-scope"
+      ]
+    },
+    {
+      "id": "CC-0139",
+      "topic": "contact_classification",
+      "question": "How many crew are on board the dhow reported on 14 February 2026?",
+      "answer": "The number of crew is not known. Only the observable characteristics were recorded: wooden hull, single mast, no AIS, speed 6 knots on course 090. Do not guess a crew number.",
+      "source": "Contact classification standing instruction, limits of the data",
+      "tags": [
+        "out-of-scope"
+      ]
+    },
+    {
+      "id": "CC-0140",
+      "topic": "contact_classification",
+      "question": "Is the fast boat reported on 21 July 2026 connected to any known group?",
+      "answer": "The data does not support any attribution. The report records observable behaviour only: an 11 m skiff, twin outboards, 25 knots, no AIS, no marks, closing to 2 nm of a passing general cargo ship and withdrawing when challenged. Any link to a group is a matter for an officer, not for the data.",
+      "source": "Contact classification standing instruction, limits of the data",
+      "tags": [
+        "out-of-scope"
+      ]
+    },
+    {
+      "id": "CC-0141",
+      "topic": "contact_classification",
+      "question": "What was the intention of the small craft that approached MV MALABAR EXPRESS on 22 April 2026?",
+      "answer": "The intention cannot be determined from the data. The report establishes what was observed, not why. State the observed behaviour, classify it as a suspect approach, and leave intent to an officer.",
+      "source": "Contact classification standing instruction, limits of the data",
+      "tags": [
+        "out-of-scope"
+      ]
+    },
+    {
+      "id": "CC-0142",
+      "topic": "contact_classification",
+      "question": "Who owns the vessel that transmitted the mismatched AIS identity on 27 August 2026?",
+      "answer": "The identity of that contact was never established, so ownership cannot be stated. The AIS transmission did not match the physical contact and the position was inconsistent with the named vessel's known movements. Report the mismatch and refer the question to an officer.",
+      "source": "Contact classification standing instruction, limits of the data",
+      "tags": [
+        "out-of-scope"
+      ]
+    },
+    {
+      "id": "CC-0143",
+      "topic": "contact_classification",
+      "question": "Was the dhow reported on 14 February 2026 carrying out fishing, smuggling or a legitimate passage?",
+      "answer": "The data does not answer that question. The contact was a wooden dhow with no AIS, no registration marks, speed 6 knots and no response to VHF challenge, reported three times over the period. That is a pattern worth reporting, but it is not evidence of a particular activity. Refer to an officer.",
+      "source": "Contact classification standing instruction, limits of the data",
+      "tags": [
+        "out-of-scope"
+      ]
+    },
+    {
+      "id": "CC-0144",
+      "topic": "contact_classification",
+      "question": "What will the dhow reported on 14 February 2026 do next?",
+      "answer": "The data cannot predict that. Nothing in the track, warning or contact records supports a prediction of future behaviour. State what is known, note the recurring pattern, and refer the assessment to an officer.",
+      "source": "Contact classification standing instruction, limits of the data",
+      "tags": [
+        "out-of-scope"
+      ]
+    }
+  ]
+}

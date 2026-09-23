@@ -1,0 +1,10 @@
+# Transport artifacts: the zip is built to send the project, not to live in it.
+# GitHub gives you a Download ZIP button on the repository instead.
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+
+# macOS
+.DS_Store

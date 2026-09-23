@@ -1,0 +1,853 @@
+{
+  "dataset": "shipping_reports",
+  "title": "North Arabian Sea shipping reports, monthly and periodic, January to August 2026",
+  "version": "1.0.0",
+  "generated": "2026-09-22",
+  "coverage": {
+    "from": "2026-01-01",
+    "to": "2026-08-31"
+  },
+  "format": "question-answer",
+  "synthetic": true,
+  "not_for_operational_use": true,
+  "disclaimer": "SYNTHETIC TRAINING DATA. Every vessel, IMO and MMSI number, owner, port call, warning, contact, incident and statistic in this file is fictional and was generated for a training lecture. Nothing here describes a real ship, broadcast, incident or port condition, and nothing here may be used for navigation, intelligence or any operational decision.",
+  "count": 82,
+  "examples": [
+    {
+      "id": "SR-0001",
+      "topic": "shipping_reports",
+      "question": "How many merchant transits were reported in the exercise area in January 2026?",
+      "answer": "418 merchant transits were reported in January 2026, comprising tankers 171, container ships 104, bulk carriers 92, other 51.",
+      "source": "Shipping report, January 2026",
+      "tags": [
+        "volume"
+      ]
+    },
+    {
+      "id": "SR-0002",
+      "topic": "shipping_reports",
+      "question": "What were the average anchorage waiting times in January 2026?",
+      "answer": "Average anchorage waiting times in January 2026 were Deendayal 13.5 hours, Mundra 8.2 hours, Vadinar 19.4 hours. Ship to ship transfer operations in the month numbered 6.",
+      "source": "Shipping report, January 2026",
+      "tags": [
+        "congestion"
+      ]
+    },
+    {
+      "id": "SR-0003",
+      "topic": "shipping_reports",
+      "question": "What was the weather in the exercise area in January 2026?",
+      "answer": "North-east monsoon. Sea state 2 to 3, good visibility, no weather interruptions.",
+      "source": "Shipping report, January 2026",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "id": "SR-0004",
+      "topic": "shipping_reports",
+      "question": "What security incidents were reported in January 2026?",
+      "answer": "Two reports of suspicious approach by small craft off the Gujarat coast, neither resulting in boarding. One attempted boarding of a fishing vessel 30 nm south-west of Porbandar, repelled by the crew.",
+      "source": "Shipping report, January 2026",
+      "tags": [
+        "incidents"
+      ]
+    },
+    {
+      "id": "SR-0005",
+      "topic": "shipping_reports",
+      "question": "What were the notable commercial developments in January 2026?",
+      "answer": "Container volumes through Mundra up 6 per cent on December. Crude shuttle traffic to Vadinar steady at about six laden calls per month.",
+      "source": "Shipping report, January 2026",
+      "tags": [
+        "commercial"
+      ]
+    },
+    {
+      "id": "SR-0006",
+      "topic": "shipping_reports",
+      "question": "What advisories were in force in January 2026?",
+      "answer": "Fishing gear concentration reported off Okha, keep a sharp lookout at night.",
+      "source": "Shipping report, January 2026",
+      "tags": [
+        "advisory"
+      ]
+    },
+    {
+      "id": "SR-0007",
+      "topic": "shipping_reports",
+      "question": "What dark contact activity was recorded in January 2026?",
+      "answer": "Three contacts with no AIS transmission were reported in the Gulf of Kutch approaches.",
+      "source": "Shipping report, January 2026",
+      "tags": [
+        "dark-contact"
+      ]
+    },
+    {
+      "id": "SR-0008",
+      "topic": "shipping_reports",
+      "question": "Summarise the shipping and security picture in January 2026.",
+      "answer": "418 merchant transits (tankers 171, container ships 104, bulk carriers 92, other 51). Average anchorage waiting times: Deendayal 13.5 hours, Mundra 8.2 hours, Vadinar 19.4 hours. North-east monsoon. Sea state 2 to 3, good visibility, no weather interruptions. Incidents: Two reports of suspicious approach by small craft off the Gujarat coast, neither resulting in boarding. One attempted boarding of a fishing vessel 30 nm south-west of Porbandar, repelled by the crew. Advisories: Fishing gear concentration reported off Okha, keep a sharp lookout at night. Dark contacts: Three contacts with no AIS transmission were reported in the Gulf of Kutch approaches.",
+      "source": "Shipping report, January 2026",
+      "tags": [
+        "summary"
+      ]
+    },
+    {
+      "id": "SR-0009",
+      "topic": "shipping_reports",
+      "question": "How many merchant transits were reported in the exercise area in February 2026?",
+      "answer": "431 merchant transits were reported in February 2026, comprising tankers 178, container ships 108, bulk carriers 94, other 51.",
+      "source": "Shipping report, February 2026",
+      "tags": [
+        "volume"
+      ]
+    },
+    {
+      "id": "SR-0010",
+      "topic": "shipping_reports",
+      "question": "What were the average anchorage waiting times in February 2026?",
+      "answer": "Average anchorage waiting times in February 2026 were Deendayal 16.8 hours, Mundra 10.4 hours, Vadinar 24.6 hours. Ship to ship transfer operations in the month numbered 7.",
+      "source": "Shipping report, February 2026",
+      "tags": [
+        "congestion"
+      ]
+    },
+    {
+      "id": "SR-0011",
+      "topic": "shipping_reports",
+      "question": "What was the weather in the exercise area in February 2026?",
+      "answer": "North-east monsoon weakening. Sea state 2 to 3, occasional morning haze.",
+      "source": "Shipping report, February 2026",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "id": "SR-0012",
+      "topic": "shipping_reports",
+      "question": "What security incidents were reported in February 2026?",
+      "answer": "Three reports of suspicious approach, one within 2 nm of a bulk carrier at anchor. One report of a vessel transmitting an AIS identity that did not match its physical description.",
+      "source": "Shipping report, February 2026",
+      "tags": [
+        "incidents"
+      ]
+    },
+    {
+      "id": "SR-0013",
+      "topic": "shipping_reports",
+      "question": "What were the notable commercial developments in February 2026?",
+      "answer": "Anchorage waiting time at Vadinar rose to 24.6 hours because of berth congestion. A dhow with no AIS was reported twice in the same week in the Kutch approaches.",
+      "source": "Shipping report, February 2026",
+      "tags": [
+        "commercial"
+      ]
+    },
+    {
+      "id": "SR-0014",
+      "topic": "shipping_reports",
+      "question": "What advisories were in force in February 2026?",
+      "answer": "Verify AIS identity by radar and visual means where practicable.",
+      "source": "Shipping report, February 2026",
+      "tags": [
+        "advisory"
+      ]
+    },
+    {
+      "id": "SR-0015",
+      "topic": "shipping_reports",
+      "question": "What dark contact activity was recorded in February 2026?",
+      "answer": "Five contacts with no AIS transmission, including two repeated dhow sightings.",
+      "source": "Shipping report, February 2026",
+      "tags": [
+        "dark-contact"
+      ]
+    },
+    {
+      "id": "SR-0016",
+      "topic": "shipping_reports",
+      "question": "Summarise the shipping and security picture in February 2026.",
+      "answer": "431 merchant transits (tankers 178, container ships 108, bulk carriers 94, other 51). Average anchorage waiting times: Deendayal 16.8 hours, Mundra 10.4 hours, Vadinar 24.6 hours. North-east monsoon weakening. Sea state 2 to 3, occasional morning haze. Incidents: Three reports of suspicious approach, one within 2 nm of a bulk carrier at anchor. One report of a vessel transmitting an AIS identity that did not match its physical description. Advisories: Verify AIS identity by radar and visual means where practicable. Dark contacts: Five contacts with no AIS transmission, including two repeated dhow sightings.",
+      "source": "Shipping report, February 2026",
+      "tags": [
+        "summary"
+      ]
+    },
+    {
+      "id": "SR-0017",
+      "topic": "shipping_reports",
+      "question": "How many merchant transits were reported in the exercise area in March 2026?",
+      "answer": "442 merchant transits were reported in March 2026, comprising tankers 184, container ships 112, bulk carriers 96, other 50.",
+      "source": "Shipping report, March 2026",
+      "tags": [
+        "volume"
+      ]
+    },
+    {
+      "id": "SR-0018",
+      "topic": "shipping_reports",
+      "question": "What were the average anchorage waiting times in March 2026?",
+      "answer": "Average anchorage waiting times in March 2026 were Deendayal 21.3 hours, Mundra 12.9 hours, Vadinar 28.7 hours. Ship to ship transfer operations in the month numbered 8.",
+      "source": "Shipping report, March 2026",
+      "tags": [
+        "congestion"
+      ]
+    },
+    {
+      "id": "SR-0019",
+      "topic": "shipping_reports",
+      "question": "What was the weather in the exercise area in March 2026?",
+      "answer": "Fair, sea state 2, visibility good. First pre-monsoon haze in the second half of the month.",
+      "source": "Shipping report, March 2026",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "id": "SR-0020",
+      "topic": "shipping_reports",
+      "question": "What security incidents were reported in March 2026?",
+      "answer": "Four reports of suspicious approach, one by a fast skiff closing to 1.5 nm on a tanker. Two contacts transited a live firing area while a warning was in force and were warned by radio.",
+      "source": "Shipping report, March 2026",
+      "tags": [
+        "incidents"
+      ]
+    },
+    {
+      "id": "SR-0021",
+      "topic": "shipping_reports",
+      "question": "What were the notable commercial developments in March 2026?",
+      "answer": "Highest monthly transit count of the period so far at 442. Live firing warnings in Area Alpha were in force on four separate occasions.",
+      "source": "Shipping report, March 2026",
+      "tags": [
+        "commercial"
+      ]
+    },
+    {
+      "id": "SR-0022",
+      "topic": "shipping_reports",
+      "question": "What advisories were in force in March 2026?",
+      "answer": "Cross-check planned tracks against live firing warnings before departure.",
+      "source": "Shipping report, March 2026",
+      "tags": [
+        "advisory"
+      ]
+    },
+    {
+      "id": "SR-0023",
+      "topic": "shipping_reports",
+      "question": "What dark contact activity was recorded in March 2026?",
+      "answer": "Six contacts with no AIS transmission, the highest of the first quarter.",
+      "source": "Shipping report, March 2026",
+      "tags": [
+        "dark-contact"
+      ]
+    },
+    {
+      "id": "SR-0024",
+      "topic": "shipping_reports",
+      "question": "Summarise the shipping and security picture in March 2026.",
+      "answer": "442 merchant transits (tankers 184, container ships 112, bulk carriers 96, other 50). Average anchorage waiting times: Deendayal 21.3 hours, Mundra 12.9 hours, Vadinar 28.7 hours. Fair, sea state 2, visibility good. First pre-monsoon haze in the second half of the month. Incidents: Four reports of suspicious approach, one by a fast skiff closing to 1.5 nm on a tanker. Two contacts transited a live firing area while a warning was in force and were warned by radio. Advisories: Cross-check planned tracks against live firing warnings before departure. Dark contacts: Six contacts with no AIS transmission, the highest of the first quarter.",
+      "source": "Shipping report, March 2026",
+      "tags": [
+        "summary"
+      ]
+    },
+    {
+      "id": "SR-0025",
+      "topic": "shipping_reports",
+      "question": "How many merchant transits were reported in the exercise area in April 2026?",
+      "answer": "428 merchant transits were reported in April 2026, comprising tankers 176, container ships 110, bulk carriers 92, other 50.",
+      "source": "Shipping report, April 2026",
+      "tags": [
+        "volume"
+      ]
+    },
+    {
+      "id": "SR-0026",
+      "topic": "shipping_reports",
+      "question": "What were the average anchorage waiting times in April 2026?",
+      "answer": "Average anchorage waiting times in April 2026 were Deendayal 18.9 hours, Mundra 11.2 hours, Vadinar 25.1 hours. Ship to ship transfer operations in the month numbered 7.",
+      "source": "Shipping report, April 2026",
+      "tags": [
+        "congestion"
+      ]
+    },
+    {
+      "id": "SR-0027",
+      "topic": "shipping_reports",
+      "question": "What was the weather in the exercise area in April 2026?",
+      "answer": "Fair to moderate, sea state 2 to 3, increasing haze and heat in the afternoon.",
+      "source": "Shipping report, April 2026",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "id": "SR-0028",
+      "topic": "shipping_reports",
+      "question": "What security incidents were reported in April 2026?",
+      "answer": "Three reports of suspicious approach, including one against a container ship at 0300 local time. One report of drifting containers creating a hazard to small craft.",
+      "source": "Shipping report, April 2026",
+      "tags": [
+        "incidents"
+      ]
+    },
+    {
+      "id": "SR-0029",
+      "topic": "shipping_reports",
+      "question": "What were the notable commercial developments in April 2026?",
+      "answer": "Berth congestion eased slightly from the March peak. A coast guard unit was tasked twice in response to suspicious approaches.",
+      "source": "Shipping report, April 2026",
+      "tags": [
+        "commercial"
+      ]
+    },
+    {
+      "id": "SR-0030",
+      "topic": "shipping_reports",
+      "question": "What advisories were in force in April 2026?",
+      "answer": "Report all approaches by small craft within 2 nm, even when no boarding occurs.",
+      "source": "Shipping report, April 2026",
+      "tags": [
+        "advisory"
+      ]
+    },
+    {
+      "id": "SR-0031",
+      "topic": "shipping_reports",
+      "question": "What dark contact activity was recorded in April 2026?",
+      "answer": "Four contacts with no AIS transmission.",
+      "source": "Shipping report, April 2026",
+      "tags": [
+        "dark-contact"
+      ]
+    },
+    {
+      "id": "SR-0032",
+      "topic": "shipping_reports",
+      "question": "Summarise the shipping and security picture in April 2026.",
+      "answer": "428 merchant transits (tankers 176, container ships 110, bulk carriers 92, other 50). Average anchorage waiting times: Deendayal 18.9 hours, Mundra 11.2 hours, Vadinar 25.1 hours. Fair to moderate, sea state 2 to 3, increasing haze and heat in the afternoon. Incidents: Three reports of suspicious approach, including one against a container ship at 0300 local time. One report of drifting containers creating a hazard to small craft. Advisories: Report all approaches by small craft within 2 nm, even when no boarding occurs. Dark contacts: Four contacts with no AIS transmission.",
+      "source": "Shipping report, April 2026",
+      "tags": [
+        "summary"
+      ]
+    },
+    {
+      "id": "SR-0033",
+      "topic": "shipping_reports",
+      "question": "How many merchant transits were reported in the exercise area in May 2026?",
+      "answer": "401 merchant transits were reported in May 2026, comprising tankers 162, container ships 106, bulk carriers 86, other 47.",
+      "source": "Shipping report, May 2026",
+      "tags": [
+        "volume"
+      ]
+    },
+    {
+      "id": "SR-0034",
+      "topic": "shipping_reports",
+      "question": "What were the average anchorage waiting times in May 2026?",
+      "answer": "Average anchorage waiting times in May 2026 were Deendayal 15.4 hours, Mundra 9.8 hours, Vadinar 21.3 hours. Ship to ship transfer operations in the month numbered 6.",
+      "source": "Shipping report, May 2026",
+      "tags": [
+        "congestion"
+      ]
+    },
+    {
+      "id": "SR-0035",
+      "topic": "shipping_reports",
+      "question": "What was the weather in the exercise area in May 2026?",
+      "answer": "Pre-monsoon. Sea state 3, increasing swell from the south-west in the last week.",
+      "source": "Shipping report, May 2026",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "id": "SR-0036",
+      "topic": "shipping_reports",
+      "question": "What security incidents were reported in May 2026?",
+      "answer": "Two reports of suspicious approach, both resolved without boarding. One drifting container group reported again, now about 40 nm from its original position.",
+      "source": "Shipping report, May 2026",
+      "tags": [
+        "incidents"
+      ]
+    },
+    {
+      "id": "SR-0037",
+      "topic": "shipping_reports",
+      "question": "What were the notable commercial developments in May 2026?",
+      "answer": "Transit numbers began to fall as owners adjusted schedules ahead of the monsoon. Pre-monsoon heavy weather advisory issued on 25 May.",
+      "source": "Shipping report, May 2026",
+      "tags": [
+        "commercial"
+      ]
+    },
+    {
+      "id": "SR-0038",
+      "topic": "shipping_reports",
+      "question": "What advisories were in force in May 2026?",
+      "answer": "Review weather routeing and secure deck cargo before the monsoon sets in.",
+      "source": "Shipping report, May 2026",
+      "tags": [
+        "advisory"
+      ]
+    },
+    {
+      "id": "SR-0039",
+      "topic": "shipping_reports",
+      "question": "What dark contact activity was recorded in May 2026?",
+      "answer": "Three contacts with no AIS transmission.",
+      "source": "Shipping report, May 2026",
+      "tags": [
+        "dark-contact"
+      ]
+    },
+    {
+      "id": "SR-0040",
+      "topic": "shipping_reports",
+      "question": "Summarise the shipping and security picture in May 2026.",
+      "answer": "401 merchant transits (tankers 162, container ships 106, bulk carriers 86, other 47). Average anchorage waiting times: Deendayal 15.4 hours, Mundra 9.8 hours, Vadinar 21.3 hours. Pre-monsoon. Sea state 3, increasing swell from the south-west in the last week. Incidents: Two reports of suspicious approach, both resolved without boarding. One drifting container group reported again, now about 40 nm from its original position. Advisories: Review weather routeing and secure deck cargo before the monsoon sets in. Dark contacts: Three contacts with no AIS transmission.",
+      "source": "Shipping report, May 2026",
+      "tags": [
+        "summary"
+      ]
+    },
+    {
+      "id": "SR-0041",
+      "topic": "shipping_reports",
+      "question": "How many merchant transits were reported in the exercise area in June 2026?",
+      "answer": "356 merchant transits were reported in June 2026, comprising tankers 138, container ships 96, bulk carriers 78, other 44.",
+      "source": "Shipping report, June 2026",
+      "tags": [
+        "volume"
+      ]
+    },
+    {
+      "id": "SR-0042",
+      "topic": "shipping_reports",
+      "question": "What were the average anchorage waiting times in June 2026?",
+      "answer": "Average anchorage waiting times in June 2026 were Deendayal 12.1 hours, Mundra 8.6 hours, Vadinar 17.2 hours. Ship to ship transfer operations in the month numbered 4.",
+      "source": "Shipping report, June 2026",
+      "tags": [
+        "congestion"
+      ]
+    },
+    {
+      "id": "SR-0043",
+      "topic": "shipping_reports",
+      "question": "What was the weather in the exercise area in June 2026?",
+      "answer": "South-west monsoon set in on 8 June. Sea state 4 to 5, heavy rain squalls, reduced radar detection range.",
+      "source": "Shipping report, June 2026",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "id": "SR-0044",
+      "topic": "shipping_reports",
+      "question": "What security incidents were reported in June 2026?",
+      "answer": "One report of a suspicious approach in poor visibility. One radar contact lost in rain clutter with no AIS and no visual identification.",
+      "source": "Shipping report, June 2026",
+      "tags": [
+        "incidents"
+      ]
+    },
+    {
+      "id": "SR-0045",
+      "topic": "shipping_reports",
+      "question": "What were the notable commercial developments in June 2026?",
+      "answer": "Transits fell 11 per cent from May, the sharpest monthly fall of the period. Ship to ship transfer operations at Area Delta were suspended for the month.",
+      "source": "Shipping report, June 2026",
+      "tags": [
+        "commercial"
+      ]
+    },
+    {
+      "id": "SR-0046",
+      "topic": "shipping_reports",
+      "question": "What advisories were in force in June 2026?",
+      "answer": "Monsoon advisory in force. Reduce speed in heavy rain and maintain a paper plot.",
+      "source": "Shipping report, June 2026",
+      "tags": [
+        "advisory"
+      ]
+    },
+    {
+      "id": "SR-0047",
+      "topic": "shipping_reports",
+      "question": "What dark contact activity was recorded in June 2026?",
+      "answer": "Two contacts with no AIS transmission, both in reduced visibility.",
+      "source": "Shipping report, June 2026",
+      "tags": [
+        "dark-contact"
+      ]
+    },
+    {
+      "id": "SR-0048",
+      "topic": "shipping_reports",
+      "question": "Summarise the shipping and security picture in June 2026.",
+      "answer": "356 merchant transits (tankers 138, container ships 96, bulk carriers 78, other 44). Average anchorage waiting times: Deendayal 12.1 hours, Mundra 8.6 hours, Vadinar 17.2 hours. South-west monsoon set in on 8 June. Sea state 4 to 5, heavy rain squalls, reduced radar detection range. Incidents: One report of a suspicious approach in poor visibility. One radar contact lost in rain clutter with no AIS and no visual identification. Advisories: Monsoon advisory in force. Reduce speed in heavy rain and maintain a paper plot. Dark contacts: Two contacts with no AIS transmission, both in reduced visibility.",
+      "source": "Shipping report, June 2026",
+      "tags": [
+        "summary"
+      ]
+    },
+    {
+      "id": "SR-0049",
+      "topic": "shipping_reports",
+      "question": "How many merchant transits were reported in the exercise area in July 2026?",
+      "answer": "331 merchant transits were reported in July 2026, comprising tankers 126, container ships 90, bulk carriers 72, other 43.",
+      "source": "Shipping report, July 2026",
+      "tags": [
+        "volume"
+      ]
+    },
+    {
+      "id": "SR-0050",
+      "topic": "shipping_reports",
+      "question": "What were the average anchorage waiting times in July 2026?",
+      "answer": "Average anchorage waiting times in July 2026 were Deendayal 11.4 hours, Mundra 7.9 hours, Vadinar 15.8 hours. Ship to ship transfer operations in the month numbered 4.",
+      "source": "Shipping report, July 2026",
+      "tags": [
+        "congestion"
+      ]
+    },
+    {
+      "id": "SR-0051",
+      "topic": "shipping_reports",
+      "question": "What was the weather in the exercise area in July 2026?",
+      "answer": "Peak south-west monsoon. Sea state 5, swell 3 to 4 m, frequent heavy rain.",
+      "source": "Shipping report, July 2026",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "id": "SR-0052",
+      "topic": "shipping_reports",
+      "question": "What security incidents were reported in July 2026?",
+      "answer": "Two reports of suspicious approach, one by a fast skiff that withdrew when challenged. One possible sub-surface contact reported and later classified as friendly.",
+      "source": "Shipping report, July 2026",
+      "tags": [
+        "incidents"
+      ]
+    },
+    {
+      "id": "SR-0053",
+      "topic": "shipping_reports",
+      "question": "What were the notable commercial developments in July 2026?",
+      "answer": "Lowest monthly transit count of the period at 331. Fishing fleet activity reduced by weather but still concentrated off Okha.",
+      "source": "Shipping report, July 2026",
+      "tags": [
+        "commercial"
+      ]
+    },
+    {
+      "id": "SR-0054",
+      "topic": "shipping_reports",
+      "question": "What advisories were in force in July 2026?",
+      "answer": "Heavy weather advisory in force for the whole month.",
+      "source": "Shipping report, July 2026",
+      "tags": [
+        "advisory"
+      ]
+    },
+    {
+      "id": "SR-0055",
+      "topic": "shipping_reports",
+      "question": "What dark contact activity was recorded in July 2026?",
+      "answer": "Two contacts with no AIS transmission.",
+      "source": "Shipping report, July 2026",
+      "tags": [
+        "dark-contact"
+      ]
+    },
+    {
+      "id": "SR-0056",
+      "topic": "shipping_reports",
+      "question": "Summarise the shipping and security picture in July 2026.",
+      "answer": "331 merchant transits (tankers 126, container ships 90, bulk carriers 72, other 43). Average anchorage waiting times: Deendayal 11.4 hours, Mundra 7.9 hours, Vadinar 15.8 hours. Peak south-west monsoon. Sea state 5, swell 3 to 4 m, frequent heavy rain. Incidents: Two reports of suspicious approach, one by a fast skiff that withdrew when challenged. One possible sub-surface contact reported and later classified as friendly. Advisories: Heavy weather advisory in force for the whole month. Dark contacts: Two contacts with no AIS transmission.",
+      "source": "Shipping report, July 2026",
+      "tags": [
+        "summary"
+      ]
+    },
+    {
+      "id": "SR-0057",
+      "topic": "shipping_reports",
+      "question": "How many merchant transits were reported in the exercise area in August 2026?",
+      "answer": "348 merchant transits were reported in August 2026, comprising tankers 134, container ships 94, bulk carriers 76, other 44.",
+      "source": "Shipping report, August 2026",
+      "tags": [
+        "volume"
+      ]
+    },
+    {
+      "id": "SR-0058",
+      "topic": "shipping_reports",
+      "question": "What were the average anchorage waiting times in August 2026?",
+      "answer": "Average anchorage waiting times in August 2026 were Deendayal 12.7 hours, Mundra 8.4 hours, Vadinar 16.9 hours. Ship to ship transfer operations in the month numbered 5.",
+      "source": "Shipping report, August 2026",
+      "tags": [
+        "congestion"
+      ]
+    },
+    {
+      "id": "SR-0059",
+      "topic": "shipping_reports",
+      "question": "What was the weather in the exercise area in August 2026?",
+      "answer": "Monsoon easing in the second half. Sea state 4 falling to 3, rain squalls becoming less frequent.",
+      "source": "Shipping report, August 2026",
+      "tags": [
+        "weather"
+      ]
+    },
+    {
+      "id": "SR-0060",
+      "topic": "shipping_reports",
+      "question": "What security incidents were reported in August 2026?",
+      "answer": "Three reports of suspicious approach, including one vessel transmitting an AIS identity that did not match its description. One fishing fleet concentration reported off Okha with unlit gear.",
+      "source": "Shipping report, August 2026",
+      "tags": [
+        "incidents"
+      ]
+    },
+    {
+      "id": "SR-0061",
+      "topic": "shipping_reports",
+      "question": "What were the notable commercial developments in August 2026?",
+      "answer": "Transit numbers recovering, up 5 per cent on July. AIS identity verification incidents rose, prompting a regional reporting note.",
+      "source": "Shipping report, August 2026",
+      "tags": [
+        "commercial"
+      ]
+    },
+    {
+      "id": "SR-0062",
+      "topic": "shipping_reports",
+      "question": "What advisories were in force in August 2026?",
+      "answer": "Verify AIS identity against radar and visual observation, and report mismatches.",
+      "source": "Shipping report, August 2026",
+      "tags": [
+        "advisory"
+      ]
+    },
+    {
+      "id": "SR-0063",
+      "topic": "shipping_reports",
+      "question": "What dark contact activity was recorded in August 2026?",
+      "answer": "Three contacts with no AIS transmission, including one AIS identity mismatch.",
+      "source": "Shipping report, August 2026",
+      "tags": [
+        "dark-contact"
+      ]
+    },
+    {
+      "id": "SR-0064",
+      "topic": "shipping_reports",
+      "question": "Summarise the shipping and security picture in August 2026.",
+      "answer": "348 merchant transits (tankers 134, container ships 94, bulk carriers 76, other 44). Average anchorage waiting times: Deendayal 12.7 hours, Mundra 8.4 hours, Vadinar 16.9 hours. Monsoon easing in the second half. Sea state 4 falling to 3, rain squalls becoming less frequent. Incidents: Three reports of suspicious approach, including one vessel transmitting an AIS identity that did not match its description. One fishing fleet concentration reported off Okha with unlit gear. Advisories: Verify AIS identity against radar and visual observation, and report mismatches. Dark contacts: Three contacts with no AIS transmission, including one AIS identity mismatch.",
+      "source": "Shipping report, August 2026",
+      "tags": [
+        "summary"
+      ]
+    },
+    {
+      "id": "SR-0065",
+      "topic": "shipping_reports",
+      "question": "What does the North Arabian Sea shipping report, first quarter 2026 say?",
+      "answer": "Traffic was strong through the first quarter, with 1,291 merchant transits recorded across the Gulf of Kutch and the north-east Arabian Sea. Anchorage waiting times rose steadily from January to March, peaking at Vadinar in March at 28.7 hours. Ten suspicious approach reports were filed, and fourteen contacts with no AIS transmission were recorded.",
+      "source": "Shipping report, Q1-2026",
+      "tags": [
+        "summary",
+        "periodic"
+      ]
+    },
+    {
+      "id": "SR-0066",
+      "topic": "shipping_reports",
+      "question": "What were the main security themes in the January to March 2026?",
+      "answer": "Suspicious approaches by small craft were the dominant security theme, with most reported between dusk and dawn and most targeting vessels at anchor or on slow transit.",
+      "source": "Shipping report, Q1-2026",
+      "tags": [
+        "incidents",
+        "periodic"
+      ]
+    },
+    {
+      "id": "SR-0067",
+      "topic": "shipping_reports",
+      "question": "What should be watched in the January to March 2026?",
+      "answer": "Repeated dhow sightings in the Kutch approaches with no AIS and no registration marks. AIS identity mismatches, two in the quarter. Live firing warnings in Area Alpha on four separate occasions.",
+      "source": "Shipping report, Q1-2026",
+      "tags": [
+        "watch",
+        "periodic"
+      ]
+    },
+    {
+      "id": "SR-0068",
+      "topic": "shipping_reports",
+      "question": "What does the North Arabian Sea shipping report, second quarter 2026 say?",
+      "answer": "Transits fell from 428 in April to 356 in June as owners adjusted schedules ahead of the south-west monsoon. Anchorage waiting times eased with the falling volume. Eight suspicious approach reports were filed, and the first monsoon-related degradation of radar and visual detection was recorded in June.",
+      "source": "Shipping report, Q2-2026",
+      "tags": [
+        "summary",
+        "periodic"
+      ]
+    },
+    {
+      "id": "SR-0069",
+      "topic": "shipping_reports",
+      "question": "What were the main security themes in the April to June 2026?",
+      "answer": "One approach against a container ship at 0300 local time was the most serious of the quarter. A coast guard unit was tasked and the skiff departed before interception.",
+      "source": "Shipping report, Q2-2026",
+      "tags": [
+        "incidents",
+        "periodic"
+      ]
+    },
+    {
+      "id": "SR-0070",
+      "topic": "shipping_reports",
+      "question": "What should be watched in the April to June 2026?",
+      "answer": "Drifting containers from the January loss continued to be reported, moving north-east. Monsoon onset on 8 June sharply reduced detection ranges in rain. Ship to ship transfer operations were suspended in June.",
+      "source": "Shipping report, Q2-2026",
+      "tags": [
+        "watch",
+        "periodic"
+      ]
+    },
+    {
+      "id": "SR-0071",
+      "topic": "shipping_reports",
+      "question": "What does the North Arabian Sea shipping report, first half of 2026 say?",
+      "answer": "The first half of the year recorded 2,476 merchant transits. Traffic peaked in March at 442 and fell to 356 by June under the influence of the south-west monsoon. Eighteen suspicious approach reports and twenty-four contacts with no AIS transmission were recorded. No boarding or hijacking succeeded in the period.",
+      "source": "Shipping report, H1-2026",
+      "tags": [
+        "summary",
+        "periodic"
+      ]
+    },
+    {
+      "id": "SR-0072",
+      "topic": "shipping_reports",
+      "question": "What were the main security themes in the January to June 2026?",
+      "answer": "Security incidents were concentrated in the pre-monsoon months. Every reported approach involved a small, fast craft with no AIS, no registration marks and no response to VHF.",
+      "source": "Shipping report, H1-2026",
+      "tags": [
+        "incidents",
+        "periodic"
+      ]
+    },
+    {
+      "id": "SR-0073",
+      "topic": "shipping_reports",
+      "question": "What should be watched in the January to June 2026?",
+      "answer": "The unidentified dhow in the Kutch approaches was reported in January, February and June. Two vessels transited a live firing area in March while a warning was in force. Anchorage congestion at Vadinar was the main commercial friction point.",
+      "source": "Shipping report, H1-2026",
+      "tags": [
+        "watch",
+        "periodic"
+      ]
+    },
+    {
+      "id": "SR-0074",
+      "topic": "shipping_reports",
+      "question": "What does the Monsoon season summary, North Arabian Sea say?",
+      "answer": "The south-west monsoon set in on 8 June and reduced transits from 401 in May to a low of 331 in July before a partial recovery to 348 in August. Sea state reached 5 with 3 to 4 m swell in July. Radar detection range in heavy rain fell by an estimated 30 to 40 per cent, and seven contacts with no AIS transmission were recorded across the three months.",
+      "source": "Shipping report, MONSOON-2026",
+      "tags": [
+        "summary",
+        "periodic"
+      ]
+    },
+    {
+      "id": "SR-0075",
+      "topic": "shipping_reports",
+      "question": "What were the main security themes in the June to August 2026?",
+      "answer": "Suspicious approaches continued at a lower rate, and the identification of small contacts became materially harder in rain clutter.",
+      "source": "Shipping report, MONSOON-2026",
+      "tags": [
+        "incidents",
+        "periodic"
+      ]
+    },
+    {
+      "id": "SR-0076",
+      "topic": "shipping_reports",
+      "question": "What should be watched in the June to August 2026?",
+      "answer": "Reduced detection range increases the risk from small craft with no AIS. AIS identity mismatches continued, including one in August. Fishing fleets remained concentrated off Okha with partly unlit gear.",
+      "source": "Shipping report, MONSOON-2026",
+      "tags": [
+        "watch",
+        "periodic"
+      ]
+    },
+    {
+      "id": "SR-0077",
+      "topic": "shipping_reports",
+      "question": "Which month had the highest number of merchant transits and which had the lowest?",
+      "answer": "The highest was March 2026 with 442 transits. The lowest was July 2026 with 331 transits, during the peak of the south-west monsoon.",
+      "source": "Shipping report file, volume comparison",
+      "tags": [
+        "comparison"
+      ]
+    },
+    {
+      "id": "SR-0078",
+      "topic": "shipping_reports",
+      "question": "How many merchant transits were recorded in total between January and August 2026?",
+      "answer": "3,155 merchant transits were recorded across the eight months. Traffic fell from a peak of 442 in March to a low of 331 in July, a fall of 25 per cent, before recovering to 348 in August.",
+      "source": "Shipping report file, volume comparison",
+      "tags": [
+        "comparison"
+      ]
+    },
+    {
+      "id": "SR-0079",
+      "topic": "shipping_reports",
+      "question": "How did tanker traffic change between March and July 2026?",
+      "answer": "Tanker transits fell from 184 in March to 126 in July, a fall of 58 transits or about 32 per cent, before recovering to 134 in August. The fall tracked the onset of the south-west monsoon on 8 June and the suspension of ship to ship transfer operations.",
+      "source": "Shipping report file, tanker trend",
+      "tags": [
+        "comparison",
+        "tanker"
+      ]
+    },
+    {
+      "id": "SR-0080",
+      "topic": "shipping_reports",
+      "question": "Which month had the worst anchorage congestion and where?",
+      "answer": "March 2026 had the worst congestion of the period, with an average wait of 28.7 hours at Vadinar, 21.3 hours at Deendayal and 12.9 hours at Mundra. Vadinar was the worst single berth throughout the first quarter because of berth congestion on the crude shuttle.",
+      "source": "Shipping report file, congestion comparison",
+      "tags": [
+        "comparison",
+        "congestion"
+      ]
+    },
+    {
+      "id": "SR-0081",
+      "topic": "shipping_reports",
+      "question": "How many suspicious approach reports were filed between January and August 2026?",
+      "answer": "Twenty suspicious approach reports were filed across the eight months: two in January, three in February, four in March, three in April, two in May, one in June, two in July and three in August. Every one involved a small, fast craft with no AIS and no registration marks.",
+      "source": "Shipping report file, security comparison",
+      "tags": [
+        "comparison",
+        "incidents"
+      ]
+    },
+    {
+      "id": "SR-0082",
+      "topic": "shipping_reports",
+      "question": "What does the reporting say about dark contacts and AIS identity mismatches?",
+      "answer": "Twenty-eight contacts with no AIS transmission were recorded across the eight months, peaking at six in March. Three AIS identity mismatches were reported, in February, in August, and one further case that was resolved after the vessel was queried through the regional reporting chain.",
+      "source": "Shipping report file, dark contact summary",
+      "tags": [
+        "comparison",
+        "dark-contact"
+      ]
+    }
+  ]
+}
